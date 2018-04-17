@@ -1,0 +1,27 @@
+poor_warrior;笨拙的战士;;;;;;;;;;;;;x
+trained_warrior;受训的战士;;;;;;;;;;;;;x
+skilled_warrior;熟练的战士;;;;;;;;;;;;;x
+master_warrior;超凡的战士;;;;;;;;;;;;;x
+poor_warrior_desc;此人了解格斗的基础，但是马马虎虎，自信过头，没有经验。;;;;;;;;;;;;;x
+trained_warrior_desc;此人受过格斗技巧的训练。尽管不算精通，但可以在战斗中独当一面。;;;;;;;;;;;;;x
+skilled_warrior_desc;此人拥有某种天赋，精于战斗和剑术。;;;;;;;;;;;;;x
+master_warrior_desc;此人是已知世界最伟大的战士之一，被诸神所眷顾，在战场上令人闻风丧胆。;;;;;;;;;;;;;x
+EVTDESC550100;你请求[Root.Guardian.GetTitledFirstName]来教你如何更好地使剑。;;;;;;;;;;;;;x
+EVTOPTA5550100;我将成为一名伟大的战士！;;;;;;;;;;;;;x
+EVTDESC550101;你请求[Root.Guardian.GetTitledFirstName]来教你如何更好地使剑。;;;;;;;;;;;;;x
+EVTDESC550103;你想要[Root.Guardian.GetTitledFirstName]来帮你真正地精通剑术！;;;;;;;;;;;;;x
+EVTDESC5550105;在我的指导下，我年轻的[GetFromRelation]，[From.GetFirstName]，逐渐掌握了剑术技巧。;;;;;;;;;;;;;x
+EVTDESC5550106;我在训练中意外伤到了我的儿子！;;;;;;;;;;;;;x
+EVTDESC5550107;我的父亲在训练中意外地伤到了我！;;;;;;;;;;;;;x
+EVTDESC5550110;通过强迫我的儿子去战斗，我使他成为了一个更好的人！;;;;;;;;;;;;;x
+EVTDESC5550111;我父亲强迫我和他训练...我不愿如此，但我确实学到了一些东西。幸运的是我没有受伤！;;;;;;;;;;;;;x
+force_train_son_1;强迫[This.GetBestName]去训练。;;;;;;;;;;;;;x
+force_train_son_2;强迫[This.GetBestName]去训练。;;;;;;;;;;;;;x
+force_train_son_3;强迫[This.GetBestName]去训练。;;;;;;;;;;;;;x
+force_train_son_4;强迫[This.GetBestName]去训练。;;;;;;;;;;;;;x
+force_train_son_1_desc;强迫[This.GetBestName]去学习该如何战斗，由你亲自来教他。;;;;;;;;;;;;;x
+force_train_son_2_desc;强迫[This.GetBestName]去学习该如何战斗，由你亲自来教他。;;;;;;;;;;;;;x
+force_train_son_3_desc;强迫[This.GetBestName]去学习该如何战斗，由你亲自来教他。;;;;;;;;;;;;;x
+force_train_son_4_desc;强迫[This.GetBestName]去学习该如何战斗，由你亲自来教他。;;;;;;;;;;;;;x
+EVTDESC5550112;年复一年，我手中的剑似乎越来越沉重...;;;;;;;;;;;;;x
+EVTOPTA5550112;“逝者如斯夫，不舍昼夜...”（tempus fugit）;;;;;;;;;;;;;x

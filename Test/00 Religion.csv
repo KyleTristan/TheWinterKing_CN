@@ -1,0 +1,251 @@
+pagan_group;多神教;;;;;;;;;;;x
+briton_pagan;布立吞;;;;;;;;;;;x
+briton_pagan_DESC;布立吞人的德鲁伊多神信仰是一种泛灵信仰，笃信包括贝尔（Bel）、格威迪恩（Gwydion）、塔拉尼斯（Taranis）和曼纳怀丹（Manawydan）在内的众神。祭司阶层的成员被称为德鲁伊，负责组织仪式、祭祀、占卜和司法程序。;;;;;;;;;;;x
+briton_pagan_FEATURES;*? 在传教上处于劣势，且不能使非布立吞人皈依;;;;;;;;;;;x
+briton_pagan_reformed;布立吞;;;;;;;;;;;x
+briton_pagan_reformed_DESC;改革后的布立吞德鲁伊信仰是一种泛灵信仰，笃信包括贝尔（Bel）、格威迪恩（Gwydion）、塔拉尼斯（Taranis）和曼纳怀丹（Manawydan）在内的众神。祭司阶层的成员被称为德鲁伊，负责组织仪式、祭祀、占卜和司法程序。;;;;;;;;;;;x
+briton_pagan_reformed_FEATURES;*? 在传教上处于劣势，且不能使非布立吞人皈依\n*? 大德鲁伊头衔被世俗统治者所持有，但是继任者在有封地的德鲁伊之中轮替（根据他们的适任度），并且可以被销毁;;;;;;;;;;;x
+gael_pagan;盖尔;;;;;;;;;;;x
+gael_pagan_DESC;盖尔多神教是被爱尔兰及后来苏格兰的凯尔特人所坚持的泛灵论信仰体系。盖尔多神教主张二神论，信奉一位男性的部落之神和一位女性的土地之神。盖尔人信仰一些业已消失的超自然统治者，他们留下了魔法和统治权的传统。;;;;;;;;;;;x
+gael_pagan_FEATURES;*? 可以在任何地方进行沿海劫掠\n*? 在传教上处于劣势，且不能使非盖尔人皈依;;;;;;;;;;;x
+gael_pagan_reformed;盖尔;;;;;;;;;;;x
+gael_pagan_reformed_DESC;改革后的盖尔多神教是爱尔兰及后来苏格兰的凯尔特人所坚持的泛灵信仰体系的改良版。盖尔多神教主张二神论，信奉一位男性的部落之神和一位女性的土地之神。盖尔人信仰一些业已消失的超自然统治者，他们留下了魔法和统治权的传统。;;;;;;;;;;;x
+gael_pagan_reformed_FEATURES;*? 可以在任何地方进行沿海劫掠\n*? 在传教上处于劣势，且不能使非盖尔人皈依\n*? 大德鲁伊头衔被世俗统治者所持有，但是继任者在有封地的德鲁伊之中轮替（根据他们的适任度），并且可以被销毁;;;;;;;;;;;x
+pict_pagan;皮克特;;;;;;;;;;;x
+pict_pagan_DESC;皮克特人的多神信仰是一种泛灵信仰，笃信包括卡列赫（Cailleach）、古亚伽赫（Gruagach）、塔拉尼斯（Taranis）、沙妮（Seonaidh）、米莱塔赫（Muireartach）、菲恩（Fionn）和斯鲁亚格（Sluagh）在内的众神，和灵性，以及土地与水的治愈力量。皮克特人的墓地选址在高地的圣泉附近，而且经常能看到战败者被斩首的仪式。;;;;;;;;;;;x
+pict_pagan_FEATURES;*? 可以在任何地方进行沿海劫掠\n*? 在传教上处于劣势，且不能使非皮克特人皈依;;;;;;;;;;;x
+pict_pagan_reformed;皮克特;;;;;;;;;;;x
+pict_pagan_reformed_DESC;皮克特人的多神信仰是一种泛灵信仰，笃信包括卡列赫（Cailleach）、古亚伽赫（Gruagach）、塔拉尼斯（Taranis）、沙妮（Seonaidh）、米莱塔赫（Muireartach）、菲恩（Fionn）和斯鲁亚格（Sluagh）在内的众神，和灵性，以及土地与水的治愈力量。皮克特人的墓地选址在高地的圣泉附近，而且经常能看到战败者被斩首的仪式。;;;;;;;;;;;x
+pict_pagan_reformed_FEATURES;*? 可以在任何地方进行沿海劫掠\n*? 在传教上处于劣势，且不能使非皮克特人皈依\n*? 大德鲁伊头衔被世俗统治者所持有，但是继任者在有封地的德鲁伊之中轮替（根据他们的适任度），并且可以被销毁;;;;;;;;;;;x
+germanic_pagan;盎格鲁-撒克逊;;;;;;;;;;;x
+germanic_pagan_DESC;古代的盎格鲁-撒克逊信仰体系是北海海岸的英盖沃内部落所拥有的一组相关的崇拜和信仰。睿智的战神沃登（Wodan）麾下的众神统治着世界之树尤克特拉希尔（Yggdrasil）的所有枝干。另两位主神是“人类之友”托尔（Thunor）和生育之神英格维（Yngvi）。;;;;;;;;;;;x
+germanic_pagan_FEATURES;*? 可以在任何地方进行沿海劫掠\n*? 统治者受限于均分继承法\n*? 在传教上处于劣势，且不能使非英盖沃内人皈依;;;;;;;;;;;x
+germanic_pagan_reformed;盎格鲁-撒克逊;;;;;;;;;;;x
+germanic_pagan_reformed_DESC;改革后的盎格鲁-撒克逊信仰体系北海海岸的英盖沃内部落所拥有的一组相关的崇拜和信仰。睿智的战神沃登（Wodan）麾下的众神统治着世界之树尤克特拉希尔（Yggdrasil）的所有枝干。另两位主神是“人类之友”托尔（Thunor）和生育之神英格维（Yngvi）。该教有一个标准的祈祷仪式和由征服王（Begiemend）所领导的正式教会组织，征服王既是世俗统治者也是信徒们的宗教领袖。;;;;;;;;;;;x
+germanic_pagan_reformed_FEATURES;*? 可以在任何地方进行沿海劫掠\n*? 在传教上处于劣势，且不能使非英盖沃内人皈依;;;;;;;;;;;x
+frankish_pagan;法兰克;;;;;;;;;;;x
+frankish_pagan_DESC;古代的伊斯特沃内信仰体系，包括多种崇拜和信仰。除了对树木与水的精灵崇拜，法兰克信仰的追随者也敬奉他们的祖先，这一点与日耳曼人相同。沃丹（Wuodan）神统治着诸神，其他重要的神祇有雷神托纳尔（Thonar），战神提尔和生育女神弗洛娃（Frouwa）。;;;;;;;;;;;x
+frankish_pagan_FEATURES;*? 统治者受限于均分继承法\n*? 在传教上处于劣势，且不能使非法兰克人皈依;;;;;;;;;;;x
+frankish_pagan_reformed;法兰克;;;;;;;;;;;x
+frankish_pagan_reformed_DESC;改革后的伊斯特沃内信仰体系，包括多种崇拜和信仰。除了对树木与水的精灵崇拜，法兰克信仰的追随者也敬奉他们的祖先，这一点与日耳曼人相同。沃丹（Wuodan）神统治着诸神，其他重要的神祇有雷神托纳尔（Thonar），战神提尔和生育女神弗洛娃（Frouwa）。该教有一个标准的祈祷仪式和由骑士王（Hovit）所领导的正式教会组织，骑士王既是世俗统治者也是信徒们的宗教领袖。;;;;;;;;;;;x
+frankish_pagan_reformed_FEATURES;*? 统治者受限于均分继承法\n*? 在传教上处于劣势，且不能使非法兰克人皈依;;;;;;;;;;;x
+suebic_pagan;苏维汇;;;;;;;;;;;x
+suebic_pagan_DESC;这种古代的信仰体系属于日耳曼尼亚中部与南部的赫尔米诺人，包括多种崇拜和信仰。他们的神族以独眼的沃坦（Wotan）和独臂的提尔（Ziu）为首。其他重要的神祇有生育女神那瑟斯（Nerthus）和雷霆与力量之神多纳尔（Donar）。该信仰也崇拜已故的祖先，许多次神，以及被认为生活在大地之上森林和泉水中的精灵。;;;;;;;;;;;x
+suebic_pagan_FEATURES;*? 统治者受限于均分继承法\n*? 在传教上处于劣势，且不能使非赫尔米诺人皈依;;;;;;;;;;;x
+suebic_pagan_reformed;苏维汇;;;;;;;;;;;x
+suebic_pagan_reformed_DESC;这种改革后的信仰体系属于日耳曼尼亚中部与南部的赫尔米诺人，包括多种崇拜和信仰。他们的神族以独眼的沃坦（Wotan）和独臂的提尔（Ziu）为首。其他重要的神祇有生育女神那瑟斯（Nerthus）和雷霆与力量之神多纳尔（Donar）。该信仰也崇拜已故的祖先，许多次神，以及被认为生活在大地之上森林和泉水中的精灵。该教有一个标准的祈祷仪式和由荣耀王（Boumrig）所领导的正式教会组织，荣耀王既是世俗统治者也是信徒们的宗教领袖。;;;;;;;;;;;x
+suebic_pagan_reformed_FEATURES;*? 统治者受限于均分继承法\n*? 在传教上处于劣势，且不能使非赫尔米诺人皈依;;;;;;;;;;;x
+gothic_pagan;哥特;;;;;;;;;;;x
+gothic_pagan_DESC;哥特信仰属于哥特人和其他东日耳曼民族。这些部落的多次大迁徙赋予了旅行和游历以神秘的重要性，而且沿路的文化也极大地发展了该信仰。主神盖普特（Gapt），哥特民族的创始神，伴随他的神有光荣的战神提乌斯（Teiws）和生育与自然的双生神弗洛娃（Frauja）与弗洛欧（Fraujo）。 除了许多住在河流、森林和田地的精灵之外，还有一些其他重要的神祇，比如英格斯（Engus），菲尔吉尼斯（Fairguneis）和多瑙河之神多瑙斯（Donaws）。;;;;;;;;;;;x
+gothic_pagan_FEATURES;*? 统治者受限于均分继承法\n*? 在传教上处于劣势，且不能使非东日耳曼人皈依;;;;;;;;;;;x
+gothic_pagan_reformed;哥特;;;;;;;;;;;x
+gothic_pagan_reformed_DESC;改革后的哥特信仰属于哥特人和其他东日耳曼民族。这些部落的多次大迁徙赋予了旅行和游历以神秘的重要性，而且沿路的文化也极大地发展了该信仰。主神盖普特（Gapt），哥特民族的创始神，伴随他的神有光荣的战神提乌斯（Teiws）和生育与自然的双生神弗洛娃（Frauja）与弗洛欧（Fraujo）。 除了许多住在河流、森林和田地的精灵之外，还有一些其他重要的神祇，比如英格斯（Engus），菲尔吉尼斯（Fairguneis）和多瑙河之神多瑙斯（Donaws）。该教有一个标准的祈祷仪式和由混沌王（Farafrauja）所领导的正式教会组织，混沌王既是世俗统治者也是信徒们的宗教领袖。;;;;;;;;;;;x
+gothic_pagan_reformed_FEATURES;*? 统治者受限于均分继承法\n*? 在传教上处于劣势，且不能使非东日耳曼人皈依;;;;;;;;;;;x
+norse_pagan;诺斯;;;;;;;;;;;x
+norse_pagan_DESC;诺斯信仰是斯堪的纳维亚人的崇拜与信仰集合。他们相信存在两个主要的神族。王室诸神，阿萨神族（Aesir），据说生活在世界之树Yggdrasil顶端的阿斯加德（Asgard）宫殿，祂们由独眼的智慧之神奥丁（Odin），其子雷神托尔（Thor）和独臂的战神提尔（Tyr）所领导。另一家族，华纳神族（Vanir），是自然诸神，许多树木、森林和水潭据说是华纳诸神的居所。该神族最著名的成员有海神尼奥尔德（Njord），和祂的子女，生育之双生神弗雷（Freyr）与芙蕾雅（Freyja）。;;;;;;;;;;;x
+norse_pagan_FEATURES;*? 在传教上处于劣势，且不能使非诺斯人皈依;;;;;;;;;;;x
+norse_pagan_reformed;诺斯;;;;;;;;;;;x
+norse_pagan_reformed_DESC;改革后的诺斯信仰是斯堪的纳维亚人的崇拜与信仰集合。他们相信存在两个主要的神族。王室诸神，阿萨神族（Aesir），据说生活在世界之树Yggdrasil顶端的阿斯加德（Asgard）宫殿，祂们由独眼的智慧之神奥丁（Odin），其子雷神托尔（Thor）和独臂的战神提尔（Tyr）所领导。另一家族，华纳神族（Vanir），是自然诸神，许多树木、森林和水潭据说是华纳诸神的居所。该神族最著名的成员有海神尼奥尔德（Njord），和祂的子女，生育之双生神弗雷（Freyr）与芙蕾雅（Freyja）。;;;;;;;;;;;x;;;;;;;;;;;x
+norse_pagan_reformed_FEATURES;*? 在传教上处于劣势，且不能使非诺斯人皈依;;;;;;;;;;;x
+alan_pagan;斯基泰;;;;;;;;;;;x
+alan_pagan_DESC;斯基泰多神教信仰是一个崇尚战争与骑马的信仰，敬奉的众神有塔比提（Tabiti），欧托西罗斯（Oitosyros），阿俳（Api），以及享有最多寺庙和祭品的战神阿金（Agin）。斯基泰信仰重视马匹的献祭，因为这通常是他们当地能提供的最有价值的东西。对一个斯基泰人来说，战死被认为是唯一光荣的死法，那些平静死去的人都会被鄙视为懦夫。;;;;;;;;;;;x
+alan_pagan_FEATURES;*? 在传教上处于劣势，且不能使非伊朗人皈依;;;;;;;;;;;x
+alan_pagan_reformed;斯基泰;;;;;;;;;;;x
+alan_pagan_reformed_DESC;改革后的斯基泰多神教信仰是一个崇尚战争与骑马的信仰，敬奉的众神有塔比提（Tabiti），欧托西罗斯（Oitosyros），阿俳（Api），以及享有最多寺庙和祭品的战神阿金（Agin）。斯基泰信仰重视马匹的献祭，因为这通常是他们当地能提供的最有价值的东西。对一个斯基泰人来说，战死被认为是唯一光荣的死法，那些平静死去的人都会被鄙视为懦夫。;;;;;;;;;;;x
+alan_pagan_reformed_FEATURES;*? 在传教上处于劣势，且不能使非伊朗人皈依;;;;;;;;;;;x
+tengri_pagan;长生天;;;;;;;;;;;x
+tengri_pagan_DESC;长生天是欧亚大陆草原民族，尤其是土耳其和蒙古牧民的宗教。主神是长生天（腾格里），统治天空的造物之神。该宗教也拥有萨满教和泛灵信仰的显著特征。;;;;;;;;;;;x
+tengri_pagan_FEATURES;*? 统治者受限于均分继承法;;;;;;;;;;;x
+zoroastrian_group;帝国异教;;;;;;;;;;;x
+roman_pagan;希腊;;;;;;;;;;;x
+roman_pagan_DESC;古希腊宗教包括古希腊与罗马人的不成文的信仰和仪式，以及许多被传入罗马帝国并被正式纳入万神殿的异教崇拜。追随者们经常将向皇帝的正式效忠作为他们宗教修行的一部分。;;;;;;;;;;;x
+roman_pagan_FEATURES;*? 统治者受限于男性继承法\n*? 可以恢复最高祭司职位;;;;;;;;;;;x
+christian;基督教;;;;;;;;;;;x
+catholic;尼西亚派;;;;;;;;;;;x
+catholic_DESC;尼西亚基督教是基督教最古老的派别之一，在其进一步分裂为天主教和正教之前，曾是东西罗马帝国共同的官方宗教。在罗马派出的第一个传教的主教帕拉第乌斯（Palladius）于431年到达之前，爱尔兰就有了基督徒。圣帕特里克（Saint Patrick）奉后续的使命，在阿尔马与那里的城社（civitates）建立了联合教会，那是一些居住着基督徒的小集落，通常男女都有，包括已婚的，他们生活在一起，在不同的岗位上服务当地居民。正式的宗教领袖是罗马的主教，即教宗（Pope），在爱尔兰的非正式代表是教廷大使（Papal Nuncio）。;;;;;;;;;;;x
+catholic_FEATURES;*? 教廷大使可以开除尼西亚派人物的教籍\n*? 尼西亚派主教可能会缴税给教廷大使，而不是他们的世俗封君;;;;;;;;;;;x
+pelagian;伯拉纠派;;;;;;;;;;;;;x
+pelagian_DESC;伯拉纠主义是一个以传道者伯拉纠（Pelagius，354-420）命名的基督教神学理论，相信原罪不会使人性堕落。伯拉纠主义流行于不列颠诸岛上的民众之间，因来自罗马教廷的镇压和传道活动而被成功地完全抹去了。伯拉纠派信仰在游戏中没有特殊功能。;;;;;;;;;;;;;x
+priscillian;普里西利安派;;;;;;;;;;;;;x
+priscillian_DESC;普里西利安主义是一个二元论信仰，认为人类在光明与黑暗这两个对立王国之间左右摇摆。普里西利安派相信物质和自然是邪恶的，而基督是被派来使他们摆脱物理世界的。其创立者普里西利安的教义在罗马统治下的西班牙风靡一时，但是在四至五世纪间被罗马暴力镇压了。普里西利安派信仰在游戏中没有特殊功能。;;;;;;;;;;;x
+gnostic;诺斯替派;;;;;;;;;;;;;x
+gnostic_DESC;诺斯替主义（来自古希腊语“gnostikos”，意为“拥有真知的人”）是一个二元论信仰，认为物质世界是由造物主（Demiurge）创造的，那是一个工匠式的人物，负责物理宇宙的塑造和维护。诺斯替派的神秘信仰对罗马帝国内的许多士兵和旅行者很有吸引力，但最终未能落地生根，逐渐被主流的基督教所根除。诺斯替派信仰在游戏中没有特殊功能。;;;;;;;;;;;x
+nestorian;聂斯托利派;;;;;;;;;;;;;x
+nestorian_DESC;聂斯托利主义是一个基督论的立场，由君士坦丁堡的牧首（Patriach，428-431）聂斯托利提出，认为耶稣的神性与人性是分开的。这实际上与基督一性论派（Miaphysitism）的观点正好相反。聂斯托利派信仰在游戏中没有特殊功能。;;;;;;;;;;;;x
+arian;阿里乌派;;;;;;;;;;;;;x
+arian_DESC;阿里乌主义是一个神学教义，得名于阿里乌斯（约250-336），他是埃及亚历山大省的一位基督教长老。阿里乌斯拒绝承认“圣三一”的观点，断言圣子是一个次于圣父的实际存在。阿里乌派是尼西亚基督教的对立教派，是典型的繁荣于罗马帝国之外的非尼西亚教派。;;;;;;;;;;;x
+arian_FEATURES;*? 阿里乌斯教宗可以开除阿里乌派人物的教籍\n*? 阿里乌派主教可能会缴税给阿里乌斯教宗，而不是他们的世俗封君;;;;;;;;;;;;;x
+gnostic_group;诺斯替主义;;;;;;;;;;;;;x
+manichean;摩尼教;;;;;;;;;;;;;x
+manichean_DESC;摩尼教是一个诺斯替主义宗教，由所谓的先知摩尼建立，他被萨珊王朝的万王之王巴赫拉姆一世处决于277年。他的“光明之教”融合了基督教、琐罗亚斯德教、佛教和诺斯替派的教义。三至四世纪，摩尼教在罗马帝国内迅速传播，在五或六世纪之前取代古希腊多神教信仰，成为基督教的一个竞争者，随后大规模的国家迫害在欧洲清除了该教。;;;;;;;;;;;;;x
+manichean_FEATURES;*? 摩尼教徒在和平时获得虔诚\n*? 摩尼教徒被划分为选民和听者两个等级;;;;;;;;;;;;;x
+#Scriptures
+THE_ANCIENT_KNOWELEDGE;古法;;;;;;;;;;;x 
+THE_NART_SAGAS;那尔特萨迦;;;;;;;;;;;x
+THE_ORACLES;神谕;;;;;;;;;;;x
+THE_BIBLE;圣书;;;;;;;;;;;x
+THE_MANI;生之福音;;;;;;;;;;;;;x
+THE_SCOPS;吟游诗集;;;;;;;;;;;;;x
+THE_GODSBOOK;神书;;;;;;;;;;;;;x
+THE_LEGENDS;传说;;;;;;;;;;;;;x
+THE_TALKING_LEAVES;言叶;;;;;;;;;;;;;x
+#Christian
+GOD_GOD;上帝;;;;;;;;;;;;;x 
+GOD_THE_LORD;主;;;;;;;;;;;;;x
+#Pan-Celtic
+GOD_LUGUS;光之神卢格斯;;;;;;;;;;;x 
+GOD_CERNUNNOS;生育之神科努诺斯;;;;;;;;;;;x
+GOD_CAMULOS;战神卡姆洛斯;;;;;;;;;;;x
+GOD_ROSMERTA;赏金女神罗丝莫塔;;;;;;;;;;;x
+#Insular-Celtic
+GOD_BEL;光之神贝尔;;;;;;;;;;;x
+GOD_NODENS;赏金之神诺登斯;;;;;;;;;;;x
+GOD_TARANIS;雷神塔拉尼斯;;;;;;;;;;;x
+# Brythonic
+EVIL_ADDANC;寻水兽;;;;;;;;;;;x
+EVIL_CYTHRAWL;魔鬼;;;;;;;;;;;x
+#Gael
+GOD_DAGHDA;达格达与达南神族;;;;;;;;;;;x 
+#Pict
+GOD_CAILLEACH;万物之母卡列赫;;;;;;;;;;;x 
+GOD_SEONAIDH;赏金女神沙妮;;;;;;;;;;;x
+GOD_MUIREARTACH;深海女巫米莱塔赫;;;;;;;;;;;x
+GOD_SLUAGH;斯鲁亚格与无眠亡者;;;;;;;;;;;x
+GOD_GRUAGACH;牛群守护者古亚伽赫;;;;;;;;;;;x
+EVIL_THE_GIANTESS;女巨人;;;;;;;;;;;x
+#Anglo-Saxon
+GOD_WODAN;沃登;;;;;;;;;;;x
+GOD_THUNOR;托尔;;;;;;;;;;;x
+GOD_TIW;提尔;;;;;;;;;;;x
+GOD_ERCE;埃尔塞;;;;;;;;;;;x
+GOD_FREO;弗蕾欧;;;;;;;;;;;x
+GOD_FREA;弗蕾亚;;;;;;;;;;;x
+GOD_BAELDAEG;巴德尔;;;;;;;;;;;x
+GOD_FRIGE;芙丽格;;;;;;;;;;;x
+GOD_SEAXNEAT;希克斯尼特;;;;;;;;;;;x
+GOD_INGWINE;英格维恩;;;;;;;;;;;x
+GOD_LOGNA;罗格纳;;;;;;;;;;;x
+#Frankish
+GOD_THE_ALLFADIR;众神之父;;;;;;;;;;;x
+GOD_WODIN;沃丹;;;;;;;;;;;x
+GOD_NERTHUS;那瑟斯;;;;;;;;;;;x
+GOD_ZIO;提尔;;;;;;;;;;;x 
+GOD_FREIA;弗洛娃;;;;;;;;;;;x
+GOD_THONAR;托纳尔;;;;;;;;;;;x
+GOD_INGWI;英格维;;;;;;;;;;;x
+GOD_HOLLE;霍勒;;;;;;;;;;;x
+#Suebic
+GOD_WOTAN;沃坦;;;;;;;;;;;x
+GOD_DONAR;多纳尔;;;;;;;;;;;x 
+GOD_ZIU;提尔;;;;;;;;;;;x 
+GOD_FROUWA;弗洛娃;;;;;;;;;;;x 
+GOD_FROUWO;弗洛欧;;;;;;;;;;;x
+GOD_INGWIN;英格温;;;;;;;;;;;x
+GOD_NERTHUSSUEBIC;那瑟斯;;;;;;;;;;;x
+GOD_HELLA;海拉;;;;;;;;;;;x
+GOD_LOGI;洛吉;;;;;;;;;;;x
+#Gothic
+GOD_GAPT;盖普特;;;;;;;;;;;x
+GOD_TEIWS;提乌斯;;;;;;;;;;;x
+GOD_FAIRGUNEIS;菲尔吉尼斯;;;;;;;;;;;x
+GOD_FRAUJO;弗洛欧;;;;;;;;;;;x 
+GOD_FRAUJA;弗洛娃;;;;;;;;;;;x
+GOD_ENGUZ;英格斯;;;;;;;;;;;x
+GOD_DONAWS;多瑙斯;;;;;;;;;;;x
+GOD_HALJA;幽灵;;;;;;;;;;;x
+#Norse
+GOD_NJORDR;尼奥尔德;;;;;;;;;;;x 
+GOD_FREYJA;芙蕾雅;;;;;;;;;;;x 
+GOD_BALDUR;巴德尔;;;;;;;;;;;x 
+GOD_HEIMDALL;海姆达尔;;;;;;;;;;;x
+GOD_FRIGG;弗丽嘉;;;;;;;;;;;x
+GOD_YNGVI;英格维;;;;;;;;;;;x
+#Roman
+GOD_JUPITER;众神之王朱庇特;;;;;;;;;;;x 
+GOD_MARS;战神马尔斯;;;;;;;;;;;x
+GOD_CERES;赏金之神刻瑞斯;;;;;;;;;;;x
+GOD_VENUS;爱神维纳斯;;;;;;;;;;;x
+GOD_NEPTUNE;海神涅普顿;;;;;;;;;;;x
+GOD_APOLLO;阿波罗;;;;;;;;;;;x
+GOD_ARES;勒努斯·马尔斯;;;;;;;;;;;x
+GOD_SEQUANA;塞夸纳;;;;;;;;;;;x
+GOD_NANTOSUELTA;南托苏耶塔;;;;;;;;;;;x
+GOD_EPONA;丰产女神艾波娜;;;;;;;;;;;x
+GOD_SULIS;萨利丝·米涅尔瓦;;;;;;;;;;;x
+GOD_BALDUR;希克斯尼特;;;;;;;;;;;x
+GOD_NEHALENNIA;尼哈勒尼亚;;;;;;;;;;;x
+GOD_ISIS;伊希斯;;;;;;;;;;;x
+#Scythian
+GOD_AGIN;阿金;;;;;;;;;;;x
+GOD_API;阿俳;;;;;;;;;;;x
+GOD_OITOSYROS;欧托西罗斯;;;;;;;;;;;x
+GOD_TABITI;塔比提;;;;;;;;;;;x
+GOD_ARGIMPASA;阿尔金巴萨;;;;;;;;;;;x
+GOD_PAPAIOS;帕帕伊欧斯;;;;;;;;;;;x
+GOD_THAGIMASIDAS;萨基马西达斯;;;;;;;;;;;x
+GOD_SAUBARAG;扫巴拉格;;;;;;;;;;;x
+#Manichean
+GOD_MANI;伟大之父;;;;;;;;;;;;;x
+THE_MOTHER_OF_LIFE;生命之母;;;;;;;;;;;;;x
+GOD_OHRMAZD;奥尔玛兹达;;;;;;;;;;;;;x
+PROPHET_MANI;先知摩尼;;;;;;;;;;;;;x
+GOD_AHRIMAN;阿里曼;;;;;;;;;;;;;x
+THE_KING_OF_DARKNESS;黑暗之王;;;;;;;;;;;;;x
+
+ARCH_DRUID;大德鲁伊;FRENCH;GERMAN;SPANISH;;;;;;;;;;x
+ARCH_DRUIDESS;大德鲁伊;FRENCH;GERMAN;SPANISH;;;;;;;;;;x
+ARCH_DRUID_FOA;德鲁伊长者;FRENCH;GERMAN;SPANISH;;;;;;;;;;x
+AUTOCEPHALOUS_PATRIARCHS;德鲁伊;;;;;;;;;;;x
+AUTOCEPHALOUS_REL_HEAD_TITLE;德鲁伊;;;;;;;;;;;x
+REL_HEAD;宗教领袖;;;;;;;;;;;x
+AUTOCEPHALY_IRO;自主任命德鲁伊;;;;;;;;;;;x
+AUTOCEPHALY_DRO;所有$RELIGION$的异教王国都可以自主任命德鲁伊。担任王国的宗教大臣的德鲁伊被认为是国内的宗教领袖。;;;;;;;;;;;x
+PATRIARCHATE_TITLE;$TITLE$寺庙;;;;;;;;;;;x
+REL_PENTARCHS;大德鲁伊;;;;;;;;;;;x
+REL_PENTARCHS_NON_ORTHODOX;大德鲁伊;;;;;;;;;;;x
+REL_PENTARCHS_NON_ORTHODOX_DESC;大德鲁伊在他们各自的古老教区内拥有权威，并且他们的权威能在$RELIGION$的范围内得到承认和尊敬。;;;;;;;;;;;x
+PENTARCH_DESC;$TITLE$目前没有大德鲁伊;;;;;;;;;;;x
+HEAD_NOT_PENTARCH_DESC;$REL_HEAD$目前不持有$TITLE$;;;;;;;;;;;x
+CHURCH_NAME;$RELIGION$ ($GROUP$);;;;;;;;;;;x
+OPINION_OF_POPE;宗教封君的看法;;;;;;;;;;;x
+OPINION_OF_SEC_LIEGE;世俗封君的看法;;;;;;;;;;;x
+COLLEGE_OF_BISHOPS;主教团;;;;;;;;;;;x
+APOSTLE_OF_THE_WEST;西方使徒;;;;;;;;;;;x
+MANICHAEAN_PREFERATI_TOOLTIP;继任者是预期将继承现任使徒的主教。;;;;;;;;;;;x
+CAMPAIGN_FUND_CARDINALS_DESC;竞选基金里的钱会增强你在宗教界的影响力，并使你的候选人更有可能被选为下一任$RULER_TITLE$。你可以自由调整该数值，直到下一任$RULER_TITLE$被选出，届时基金将用于竞选活动。;;;;;;;;;;;x
+TITLE_GAINED_RELIGIOUS_PLAYER_SETUP;封臣被任命至教团。;;;;;;;;;;;x
+TITLE_GAINED_RELIGIOUS_PLAYER_LETTER;你的封臣$NEWHOLDER$被授予教团席位。;;;;;;;;;;;x
+TITLE_GAINED_RELIGIOUS_PLAYER_LOG;你的封臣$NEWHOLDER$被授予教团席位。;;;;;;;;;;;x
+expected_next_title_manichaean_bishop;预期的下任主教;;;;;;;;;;;x
+expected_next_title_manichaean_bishop_tooltip;当主教职位出现空缺时，这位长老有可能成为下一任主教。;;;;;;;;;;;x
+best_candidate_title_manichaean_bishop;我最好的主教候选人;;;;;;;;;;;x
+best_candidate_title_manichaean_bishop_tooltip;在我国所有长老中，此人最有希望被使徒任命为主教。;;;;;;;;;;;x
+briton_archdruid_successor;布立吞大德鲁伊继任者;;;;;;;;;;;x
+briton_archdruid_successor_desc;此人已被德鲁伊之环选为当今布立吞大德鲁伊的继任者。;;;;;;;;;;;x
+pict_archdruid_successor;皮克特大德鲁伊继任者;;;;;;;;;;;x
+pict_archdruid_successor_desc;此人已被德鲁伊之环选为当今皮克特大德鲁伊的继任者。;;;;;;;;;;;x
+gael_archdruid_successor;盖尔大德鲁伊继任者;;;;;;;;;;;x
+gael_archdruid_successor_desc;此人已被德鲁伊之环选为当今盖尔大德鲁伊的继任者。;;;;;;;;;;;x
+title_manichaean_bishop;主教;;;;;;;;;;;x
+###### RELIGION MODIFIERS ######
+found_all_treasures_of_britannia;集齐不列颠的宝藏;;;;;;;;;;;x
+failed_summoning;召唤失败;;;;;;;;;;;x
+restored_old_gods;上古诸神信仰复苏;;;;;;;;;;;x
+druid_appointed;德鲁伊被任命;;;;;;;;;;;x
+druid_removed;德鲁伊被逐出教团;;;;;;;;;;;x
+held_rel_authority_council;神权议会召开;;;;;;;;;;;x
+spreading_faith;传播信仰;;;;;;;;;;;x
+cult_cailleach_authority;传统权威;;;;;;;;;;;x
+cult_manawydan_authority;传统权威;;;;;;;;;;;x
+east_pagan_authority;传统权威;;;;;;;;;;;x
+cult_baldur_authority;传统权威;;;;;;;;;;;x
+nestorian_authority;聂斯托利派传统权威;;;;;;;;;;;x
+gnostic_authority;斯诺替派传统权威;;;;;;;;;;;x
+pelagian_authority;伯拉纠派传统权威;;;;;;;;;;;x
+arian_authority;阿里乌派传统权威;;;;;;;;;;;x
+germanic_pagan_authority;传统权威;;;;;;;;;;;x
+gael_pagan_authority;传统权威;;;;;;;;;;;x
+pict_pagan_authority;传统权威;;;;;;;;;;;x
+roman_pagan_authority;罗马传统权威;;;;;;;;;;;x
+old_gods_authority;上古诸神传统权威;;;;;;;;;;;x
+catholic_authority;天主教传统权威;;;;;;;;;;;x

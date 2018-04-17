@@ -1,0 +1,209 @@
+##### BRITANNIA STORYLINE DECISIONS #####
+return_to_dumnonia;回到杜姆诺尼亚;;;;;;;;;;;;;x
+return_to_dumnonia_desc;你的父亲尤瑟去世了，抛下你年幼的侄子，杜姆诺尼亚的国王。你曾发誓会不惜一切代价保住他的王位，因此有责任回到故国，确保新王的安全。;;;;;;;;;;;;;x
+##### DYNASTY DECISIONS #####
+legitimize_arthur;授予亚瑟·潘德拉贡以合法地位;;;;;;;;;;;;;x
+legitimize_arthur_desc;将你的私生子[This.GetBestName]的身份合法化，使他成为王位的第一继承人。;;;;;;;;;;;;;x
+##### EMPLOYMENT DECISIONS #####
+employ_priest;邀请牧师来到宫廷;;;;;;;;;;;;;x
+employ_priest_desc;寻找一位牧师来加入你的宫廷并在宗教事务上给你建议。;;;;;;;;;;;;;x
+employ_priest_catholic;邀请圣人来到宫廷;;;;;;;;;;;;;x
+employ_priest_catholic_desc;寻找一位虔诚的圣人来加入你的宫廷并在宗教事务上给你建议。;;;;;;;;;;;;;x
+employ_druid;邀请德鲁伊来到宫廷;;;;;;;;;;;;;x
+employ_druid_desc;寻找一位德鲁伊来加入你的宫廷并在宗教事务上给你建议。;;;;;;;;;;;;;x
+employ_bard;邀请吟游诗人来到宫廷;;;;;;;;;;;;;x
+employ_bard_desc;寻找一位吟游诗人来加入你的宫廷，为你的王朝吟唱颂歌。;;;;;;;;;;;;;x
+employ_steward;邀请管理者来到宫廷;;;;;;;;;;;;;x
+employ_steward_desc;邀请一位有前途的贵族来到宫廷并在管理事务上提供帮助。;;;;;;;;;;;;;x
+employ_chancellor;邀请外交家来到宫廷;;;;;;;;;;;;;x
+employ_chancellor_desc;邀请一位经验丰富的说客来到宫廷并在外交事务上提供帮助。;;;;;;;;;;;;;x
+employ_marshal;邀请战士来到宫廷;;;;;;;;;;;;;x
+employ_marshal_desc;邀请一位训练有素的战士来到宫廷，帮助训练你的军队和发展战斗策略。;;;;;;;;;;;;;x
+employ_spymaster;邀请密谋者来到宫廷;;;;;;;;;;;;;x
+employ_spymaster_desc;寻找一位阴谋大师来加入你的宫廷并帮助运作你的间谍网。;;;;;;;;;;;;;x
+present_debutante;邀请女士来到宫廷;;;;;;;;;;;;;x
+present_debutante_desc;邀请一位年轻的贵族女人来加入你的宫廷。;;;;;;;;;;;;;x
+##### CONVERSION DECISIONS #####
+convert_to_roman_culture;转变为罗马帝国文化;;;;;;;;;;;;;x
+convert_to_roman_culture_desc;抛弃你现在的习俗，接受真正罗马文化的高度文明的道路。;;;;;;;;;;;;;x
+convert_to_catholicism;改信基督教;;;;;;;;;;;;;x
+convert_to_catholicism_desc;抛弃你现在的信仰，公开信奉基督教。;;;;;;;;;;;;;x
+convert_to_catholicism_clovis;改信基督教;;;;;;;;;;;;;x
+convert_to_catholicism_clovis_desc;伴着尼西亚派在你新开拓的国家内的广泛影响，多神教的力量正在衰退。尼西亚教会的支持对于控制我们新的罗马-高卢封臣来说是至关重要的，你妻子[Spouse.GetName]的坚持确实正在奏效。也许是时候拥抱尼西亚派信仰了...;;;;;;;;;;;;;x
+convert_to_roman_religion;改信罗马多神教;;;;;;;;;;;;;x
+convert_to_roman_religion_desc;抛弃你现在的信仰，公开信奉古罗马帝国宗教。;;;;;;;;;;;;;x
+convert_to_old_gods;改信布立吞多神教;;;;;;;;;;;;;x
+convert_to_old_gods_desc;抛弃你现在的信仰，公开信奉古代不列颠的德鲁伊教。;;;;;;;;;;;;;x
+##### VASSAL DECISIONS #####
+vassal_castrate_decision;阉割[Root.GetTitledFirstName];;;;;;;;;;;;;x
+vassal_castrate_decision_desc;由于[Root.GetTitledFirstName]是你的囚犯，你可以下令阉割他，把他变成一个太监。然后他会获得自由，但无法诞下更多的子嗣或持有有封地的头衔。这是一个重刑。;;;;;;;;;;;;;x
+vassal_blinding_decision;致盲[Root.GetTitledFirstName];;;;;;;;;;;;;x
+vassal_blinding_decision_desc;由于[Root.GetTitledFirstName]是你的囚犯，你可以下令将[Root.GetSheHe]永久致盲，然后放[Root.GetHerHim]自由。这是一个处置政敌的常用手段，不用直接杀了他们，因为一个失明的[Root.GetManWoman]对王位是不构成威胁的。;;;;;;;;;;;;;x
+vassal_sacrifice_decision;将[Root.GetTitledFirstName]献祭给诸神;;;;;;;;;;;;;x
+vassal_sacrifice_decision_desc;由于[Root.GetTitledFirstName]是你的囚犯，你可以下令在一个神圣的异教仪式上将[Root.GetSheHe]献祭给诸神。;;;;;;;;;;;;;x
+##### ROMAN LEGIONS #####
+create_legio_VI_victrix;Form the Legio VI Victrix;;;;;;;;;;;;;x
+create_legio_VI_victrix_desc; With all of the Roman lands of Britannia Prima under your control, you have the option to form a mighty legion of loyal soldiers instead of relying upon individual retinues. Unlike a retinue, the legion will require regular upkeep, but due to excellent medical care, will reinforce more quickly.;;;;;;;;;;;;;x 
+create_legio_XX_valeria_victrix;Form the Legio XX Valeria Victrix;;;;;;;;;;;;;x
+create_legio_XX_valeria_victrix_desc; By combining the lands of  Flavia Cesariensis and Britannia Secunda under Roman law once more, you have the option to form a mighty legion of loyal soldiers instead of relying upon individual retinues. Unlike a retinue, the legion will require regular upkeep, but due to excellent medical care, will reinforce more quickly.;;;;;;;;;;;;;x 
+create_legio_II_augusta;Form the Legio II Augusta;;;;;;;;;;;;;x
+create_legio_II_augusta_desc; With all of the Roman lands of Maxima Cesariensis under your control, you have the option to form a mighty legion of loyal soldiers instead of relying upon individual retinues. Unlike a retinue, the legion will require regular upkeep, but due to excellent medical care, will reinforce more quickly.;;;;;;;;;;;;;x 
+create_legio_II_britannica;Form the Legio II Britannica;;;;;;;;;;;;;x
+create_legio_II_britannica_desc; By virtue of holding all of Roman Britain, you have the option to form a mighty legion of loyal soldiers instead of relying upon individual retinues. Unlike a retinue, the legion will require regular upkeep, but due to excellent medical care, will reinforce more quickly.;;;;;;;;;;;;;x 
+create_legio_I_flavia_gallicana_constantia;Form the Legio I Flavia Gallicana Constantia;;;;;;;;;;;;;x
+create_legio_I_flavia_gallicana_constantia_desc; With the combined lands of Lugdunensis Secunda and Lugdunensis Quartia under Roman military control once again, you have the option to form a mighty legion of loyal soldiers instead of relying upon individual retinues. Unlike a retinue, the legion will require regular upkeep, but due to excellent medical care, will reinforce more quickly.;;;;;;;;;;;;;x 
+create_legio_I_flavia_martis;Form the Legio I Flavia Martis;;;;;;;;;;;;;x
+create_legio_I_flavia_martis_desc; With the combined lands of Lugdunensis Tertia and Aquitania under Roman military control once again, you have the option to form a mighty legion of loyal soldiers instead of relying upon individual retinues. Unlike a retinue, the legion will require regular upkeep, but due to excellent medical care, will reinforce more quickly.;;;;;;;;;;;;;x 
+create_legio_I_minervia;Form the Legio I Minervia;;;;;;;;;;;;;x
+create_legio_I_minervia_desc; With all of the Roman lands of Germania Secunda under your control, you have the option to form a mighty legion of loyal soldiers instead of relying upon individual retinues. Unlike a retinue, the legion will require regular upkeep, but due to excellent medical care, will reinforce more quickly.;;;;;;;;;;;;;x 
+create_legio_XXX_ulpia_victrix;Form the Legio XXX Ulpia Victrix;;;;;;;;;;;;;x
+create_legio_XXX_ulpia_victrix_desc; With all of the Roman lands of Belgica Secunda under your control, you have the option to form a mighty legion of loyal soldiers instead of relying upon individual retinues. Unlike a retinue, the legion will require regular upkeep, but due to excellent medical care, will reinforce more quickly.;;;;;;;;;;;;;x 
+create_legio_XII_victrix;Form the Legio XII Victrix;;;;;;;;;;;;;x
+create_legio_XII_victrix_desc; With all of the Roman lands of Belgica Prima under your control, you have the option to form a mighty legion of loyal soldiers instead of relying upon individual retinues. Unlike a retinue, the legion will require regular upkeep, but due to excellent medical care, will reinforce more quickly.;;;;;;;;;;;;;x 
+create_legio_VI_gallicana;Form the Legio VI Gallicana;;;;;;;;;;;;;x
+create_legio_VI_gallicana_desc;With the combined lands of Belgica Prima and Germania Prima under your control, you have the option to form your warriors into a Roman style legion. Unlike a retinue, the legion will require regular upkeep, but due to excellent medical care, will reinforce more quickly.;;;;;;;;;;;;;x 
+reform_legio_VI_victrix;Raise the Legio VI Victrix;;;;;;;;;;;;;x
+reform_legio_VI_victrix_desc;With the legionary base of Eburacum under your control, you can raise the Legio VI Victrix to fight for the empire once more.;;;;;;;;;;;;;x 
+reform_legio_XX_valeria_victrix;Raise the Legio XX Valeria Victrix;;;;;;;;;;;;;x
+reform_legio_XX_valeria_victrix_desc;With the legionary base of Deva Victrix under your control, you can raise the Legio XX Valeria Victrix to fight for the empire once more.;;;;;;;;;;;;;x 
+reform_legio_II_augusta;Raise the Legio II Augusta;;;;;;;;;;;;;x
+reform_legio_II_augusta_desc;With the legionary base of Rutupiae under your control, you can raise the Legio II Augusta to fight for the empire once more.;;;;;;;;;;;;;x 
+reform_legio_II_britannica;Raise the Legio II Britannica;;;;;;;;;;;;;x
+reform_legio_II_britannica_desc;With the legionary base of Rutupiae under your control, you can raise the Legio II Britannica to fight for the empire once more.;;;;;;;;;;;;;x 
+reform_legio_I_flavia_gallicana_constantia;Raise the Legio I Flavia Gallicana Constantia;;;;;;;;;;;;;x
+reform_legio_I_flavia_gallicana_constantia_desc;With the legionary base of Constantia under your control, you can raise the Legio I Flavia Gallicana Constantia to fight for the empire once more.;;;;;;;;;;;;;x 
+reform_legio_I_flavia_martis;Raise the Legio I Flavia Martis;;;;;;;;;;;;;x
+reform_legio_I_flavia_martis_desc;With the legionary base of Fanum Martis under your control, you can raise the Legio I Flavia Martis to fight for the empire once more.;;;;;;;;;;;;;x 
+reform_legio_I_minervia;Raise the Legio I Minervia;;;;;;;;;;;;;x
+reform_legio_I_minervia_desc;With the legionary base of Bonna under your control, you can raise the Legio I Minervia to fight for the empire once more.;;;;;;;;;;;;;x 
+reform_legio_XXX_ulpia_victrix;Raise the Legio XXX Ulpia Victrix;;;;;;;;;;;;;x
+reform_legio_XXX_ulpia_victrix_desc;With the legionary base of Tricensimae under your control, you can raise the Legio XXX Ulpia Victrix to fight for the empire once more.;;;;;;;;;;;;;x 
+reform_legio_XII_victrix;Raise the Legio XII Victrix;;;;;;;;;;;;;x
+reform_legio_XII_victrix_desc;With the legionary base of Augusta Treverorum under your control, you can raise the Legio XII Victrix to fight for the empire once more.;;;;;;;;;;;;;x 
+reform_legio_VI_gallicana;Raise the Legio VI Gallicana;;;;;;;;;;;;;x
+reform_legio_VI_gallicana_desc;With the legionary base of Beda under your control, you can raise the Legio Vi Gallicana to fight for the empire once more.;;;;;;;;;;;;;x 
+restore_legio_VI_victrix_tooltip;The Legio VI Victrix is restored.;;;;;;;;;;;;;x
+restore_legio_XX_valeria_victrix_tooltip;The Legio XX Valeria Victrix is restored.;;;;;;;;;;;;;x
+restore_legio_II_augusta_tooltip;The Legio II Augusta is restored.;;;;;;;;;;;;;x
+restore_legio_II_britannica_tooltip;The Legio II Britannica is restored.;;;;;;;;;;;;;x
+restore_legio_I_flavia_gallicana_constantia_tooltip;The Legio I Flavia Gallicana Constantia is restored.;;;;;;;;;;;;;x
+restore_legio_I_flavia_martis_tooltip;The Legio I Flavia Martis is restored.;;;;;;;;;;;;;x
+restore_legio_I_minervia_tooltip;The Legio I Minervia is restored.;;;;;;;;;;;;;x
+restore_legio_XXX_ulpia_victrix_tooltip;The Legio XXX Ulpia Victrix is restored.;;;;;;;;;;;;;x
+restore_legio_XII_victrix_tooltip;The Legio XII Victrix is restored.;;;;;;;;;;;;;x
+restore_legio_VI_gallicana_tooltip;The Legio VI Gallicana is restored.;;;;;;;;;;;;;x
+##### HIGH KINGS DECISIONS #####
+claim_imperium_galliarum;建立高卢帝国;;;;;;;;;;;;;x
+claim_imperium_galliarum_desc;一旦在高卢大部领土上恢复了罗马统治，就可以在元老院的支持下发布一条正式法令，完全恢复罗马的“帝国权利”，重得“罗马人的皇帝”头衔。;;;;;;;;;;;;;x
+claim_imperium_britannicum;建立不列颠帝国;;;;;;;;;;;;;x
+claim_imperium_britannicum_desc;一旦在不列颠尼亚大部领土上恢复了罗马统治，就可以在元老院的支持下发布一条正式法令，完全恢复罗马的“帝国权利”，重得“罗马人的皇帝”头衔。;;;;;;;;;;;;;x
+HK_claim_britannia;宣称不列颠尼亚至尊王国;;;;;;;;;;;;;x
+HK_claim_britannia_desc;持有一个不列颠古王国的国王，只要足够强大，就可以为自己宣称空置的不列颠尼亚至尊王国。所有其他国王都将得知，并且不得不决定是要支持此宣称，还是争夺他自己作为至尊王的统治权利。;;;;;;;;;;;;;x
+HK_claim_aengland;宣称英格兰王国;;;;;;;;;;;;;x
+HK_claim_aengland_desc;一个足够强大的盎格鲁-撒克逊国王可以自称为英格兰的不列颠共主。所有其他的盎格鲁-撒克逊国王都将得知，并且不得不决定是要支持此宣称，还是争夺他自己作为不列颠共主的统治权利。;;;;;;;;;;;;;x
+HK_claim_hen_ogledd;宣称旧北境;;;;;;;;;;;;;x
+HK_claim_hen_ogledd_desc;一个足够强大的坎伯兰国王可以自称为汉奥格莱德至尊王。北境的真王们被预言会恢复他们的疆域，并将他们的统治拓展至不列颠群岛的每一寸土地。一个统一的坎伯兰人的北境能够一劳永逸地击退来自不列颠的日耳曼入侵者吗？;;;;;;;;;;;;;x
+create_brotherhood_of_britain;创建不列颠兄弟会;;;;;;;;;;;;;x
+create_brotherhood_of_britain_desc;作为不列颠尼亚的至尊王，你可以召集国内最勇敢且最忠诚的战士，将他们联合在不列颠兄弟会的旗帜下。这群伟大的战士们将效忠于你，并宣誓永远为不列颠尼亚而战，抵御外族入侵。一旦获得独立，他们将会光荣地为任何抵御外族的布立吞或罗马-不列颠国王而战，并且决不收取酬金。;;;;;;;;;;;;;x
+TOOLTIP3121659;不列颠兄弟会将被创建，而“兄弟会守护者”头衔将属于一个忠诚且老练的罗马-不列颠指挥官。;;;;;;;;;;;;;x
+##### REALM DECISIONS #####
+appoint_senators;任命元老;;;;;;;;;;;;;x
+appoint_senators_desc;发布一条正式法令，任命你最忠诚且能干的封臣作为荣耀的重建后的帝国元老院的成员。;;;;;;;;;;;;;x
+remove_plague_laws;废除瘟疫法;;;;;;;;;;;;;x
+remove_plague_laws_desc;撤销所有为了限制瘟疫在你的省份中传播而采取的措施。所有对贸易的管制都将被撤除，“瘟疫法”将不再实行。;;;;;;;;;;;;;x
+estabilish_mediterranean_trade;建立地中海贸易;;;;;;;;;;;;;x
+estabilish_mediterranean_trade_desc;有时会有来自地中海的商船造访你的一个港口。他们带着琳琅满目的货物，来自塞浦路斯，西班牙，罗马和君士坦丁堡。如果你有足够的声望和能力，你可以与这些商人签署一份长期合同：他们会收到一大笔预付款，但也将在未来五年内保证一个稳定的税收。;;;;;;;;;;;;;x
+abdicate;逊位;;;;;;;;;;;;;x
+abdicate_desc;将王位逊让于你的继承人。;;;;;;;;;;;;;x
+restore_roman_senate;重建帝国元老院;;;;;;;;;;;;;x
+restore_roman_senate_desc;古老而荣耀的罗马元老院机构在东哥特的野蛮酋长们的控制下失落了。在这种情形下，它的权威不再被认为是合法的。作为罗马公民，在我们罗马人统治的土地上重建一个合法的议会，这是我们的责任。;;;;;;;;;;;;;x
+restore_ius_imperii;在不列颠尼亚恢复“帝国权利”;;;;;;;;;;;;;x
+restore_ius_imperii_desc;一旦在不列颠中部最大的城市和最重要的战略要地上恢复了罗马统治，就可以发布一条正式法令，完全恢复罗马在不列颠尼亚的“帝国权利”。\n\n哈德良长城以南的所有土地将再次成为罗马帝国的法理领土，并将被分为四个古老的教区：第一不列颠，第二不列颠，大凯撒不列颠和弗拉维凯撒不列颠。\n\n所有以往的来自当地布立吞和盎格鲁-撒克逊统治者的宣称将不再被承认。;;;;;;;;;;;;;x
+convert_to_feudalism_indep;Adopt Urban Government;;;;;;;;;;;;;x
+convert_to_feudalism_indep_desc;Adopting Urban Government will adapt our lands to be governed as if they were Roman, and convert all tribal holdings into castles. Where this occurs - if the county is big enough - a city or temple holding may also be created if they do not already exist. Your vassals are likely to follow suit if they are of your religion and culture.;;;;;;;;;;;;;;x
+convert_to_feudalism_vassal;Adopt Urbanism;;;;;;;;;;;;;x
+convert_to_feudalism_vassal_desc;Adopting Urbanism will convert all my tribal holdings into castles. Where this occurs - if the county is big enough - a city or temple holding may also be created if they do not already exist. Your vassals are likely to follow suit if they are of your religion and culture.;;;;;;;;;;;;;;x
+unite_frankish_kingdoms;Unite the Frankish Kingdoms;;;;;;;;;;;;;x
+unite_frankish_kingdoms_desc;The Franks are a powerful people, but we are divided into many petty kingdoms. Should a strong leader unite all the Franks under a single banner, we may well become a force to be reckoned with across all of Western Europe...;;;;;;;;;;;;;;x
+unite_frankish_kingdoms_tooltip;Send emissaries to the other Frankish kings requesting their vassalage under your rule.;;;;;;;;;;;;;x
+##### MINOR DECISIONS #####
+buy_indulgence_for_sins;购买赎罪券;;;;;;;;;;;;;x
+restore_calendar_notices;要求日历通知;;;;;;;;;;;;;x
+restore_calendar_notices_desc;要求在每个季节变化时和重要的文化或宗教节日得到通知。;;;;;;;;;;;;;x
+restore_calendar_notices_tooltip;日历通知恢复。;;;;;;;;;;;;;x
+disabled_calendar_notices_tooltip;取消有关季节变化和重要日期的通知。;;;;;;;;;;;;x
+bring_out_of_hiding;接回藏匿的家人;;;;;;;;;;;;;;x
+bring_out_of_hiding_desc;让你的家人脱离藏匿状态。;;;;;;;;;;;;;;x
+hold_alan_divination;Hold a Divination;;;;;;;;;;;;;x
+hold_alan_divination_desc;Summon your seers and Enarei to perform the sacred rituals and read the future.;;;;;;;;;;;;;x
+has_seer;Has a Seer;;;;;;;;;;;;;x
+prepare_alan_divination;You begin preparations for your divination.\n;;;;;;;;;;;;;x
+hold_sacea;Hold Sacea festival;;;;;;;;;;;;;x
+hold_sacea_desc;Sacea Festival;;;;;;;;;;;;;x
+prepare_sacea;You begin preperations for the Sacea festival.;;;;;;;;;;;;;x
+borrow_money_jews;Borrow 200?from Jewish Merchants;Emprunter 300?aux usuriers juifs;Leiht 300?von j黡ischen Kaufleuten;;Tomar prestado 300?de comerciantes jud韔s;;;;;;;;;x
+borrow_money_jews_desc;I can borrow 200?from Jewish merchants and moneylenders living in the realm. With the interest agreed upon, I will owe them 230?to be paid back at my convenience.;Il est possible d'emprunter 300?aux usuriers juifs du pays.\nAu taux d'int閞阾 convenu, nous devrons leur rembourser 350? payable quand nous le voudrons.;Ich kann 300?bei den j黡ischen Kaufleuten und Geldverleihern des Reiches leihen. Gem溥 des vereinbarten Zinses werde ich 350?zu gegebener Zeit zur點kzahlen m黶sen.;;Puedo tomar prestado 300?de comerciantes jud韔s y prestamistas que viven en el reino. Con el inter閟 acordado, debo 350?a devolver cuando me convenga.;;;;;;;;;x
+borrowed_from_jews;Owes 230?to Jewish Moneylenders;Dette de 350?envers les usuriers juifs;Schuldet j黡ischen Geldverleihern 350?;Debe 350?a prestamistas jud韔s;;;;;;;;;x
+repay_money_jews;Repay the 230?loan;Rembourser notre dette de 350?Den Kredit von 350?zur點kzahlen;;Devolver el pr閟tamo de 350?;;;;;;;;x
+repay_money_jews_desc;I will repay the gold that I owe the Jewish moneylenders.;Il nous est possible de rembourser la somme que nous devons aux usuriers juifs.;Ich werde das Geld, das ich den Geldverleihern schulde, zur點kzahlen.;;Devolver?el oro que debo a los prestamistas jud韔s.;;;;;;;;;x
+##### RANSOM ALL DECISIONS #####
+request_important_prisoners;索要重要囚犯;;;;;;;;;;;;;;x
+request_important_prisoners_desc;将任何在你的封臣控制下的等级高于领主头衔的敌对囚犯转移到你的地牢中。;;;;;;;;;;;;;;x
+EVTTOOLTIPprisreq;囚犯被转移到你的地牢中。;;;;;;;;;;;;;;x
+release_prisoners;释放与你投机的囚犯;;;;;;;;;;;;;;x
+release_prisoners_desc;释放所有与你互无敌意且有共同事业的囚犯。;;;;;;;;;;;;;;x
+##### 410 DECISIONS #####
+settle_saxons_north_britannia;安置撒克逊人;;;;;;;;;;;;;;x
+settle_saxons_north_britannia_desc;我们可以将蛮盟部队安置在岛屿的北方，来帮助抵御入侵。;;;;;;;;;;;;;;x
+settle_saxons_north_hen_ogledd;安置撒克逊人;;;;;;;;;;;;;;x
+settle_saxons_north_hen_ogledd_desc;我们可以将蛮盟部队安置在我们的土地上，来帮助抵御入侵。;;;;;;;;;;;;;;x
+settle_saxons_south_britannia;安置撒克逊人;;;;;;;;;;;;;;x
+settle_saxons_south_britannia_desc;我们可以将更多的蛮盟部队安置在国家的南方。;;;;;;;;;;;;;;x
+settle_saxons_south_hen_ogledd;安置撒克逊人;;;;;;;;;;;;;;x
+settle_saxons_south_hen_ogledd_desc;我们可以将更多的蛮盟部队安置在国家的南方。;;;;;;;;;;;;;;x
+##### RELIGIOUS DECISIONS #####
+create_arian_papacy;创建阿里乌斯教皇职;;;;;;;;;;;;;;x
+create_arian_papacy_desc;由于高卢大部分都在我们的控制之下，我们现在强大到足以创建我们自己的教皇作为阿里乌斯教会的领袖。;;;;;;;;;;;;;;x
+claim_briton_archdruid_successor;要求大德鲁伊继承权;;;;;;;;;;;;;;x
+claim_briton_archdruid_successor_desc;由于目前没有公认的对[Root.RelHead.GetTitledName]的继承人，任何有地的布立吞德鲁伊都可以请求担任这一职位。;;;;;;;;;;;;;;x
+claim_briton_archdruid;宣称布立吞大德鲁伊;;;;;;;;;;;;;;x
+claim_briton_archdruid_desc;由于目前布立吞大德鲁伊的位置正处于空缺，任何训练有素的德鲁伊都可以宣称这个头衔并成为布立吞信仰的下一任领袖。;;;;;;;;;;;;;;x
+claim_pict_archdruid_successor;要求大德鲁伊继承权;;;;;;;;;;;;;;x
+claim_pict_archdruid_successor_desc;由于目前没有公认的对[Root.RelHead.GetTitledName]的继承人，任何有地的皮克特德鲁伊都可以请求担任这一职位。;;;;;;;;;;;;;;x
+claim_pict_archdruid;宣称皮克特大德鲁伊;;;;;;;;;;;;;;x
+claim_pict_archdruid_desc;由于目前皮克特大德鲁伊的位置正处于空缺，任何训练有素的德鲁伊都可以宣称这个头衔并成为皮克特信仰的下一任领袖。;;;;;;;;;;;;;;x
+claim_gael_archdruid_successor;要求大德鲁伊继承权;;;;;;;;;;;;;;x
+claim_gael_archdruid_successor_desc;由于目前没有公认的对[Root.RelHead.GetTitledName]的继承人，任何有地的盖尔德鲁伊都可以请求担任这一职位。;;;;;;;;;;;;;;x
+claim_gael_archdruid;宣称盖尔大德鲁伊;;;;;;;;;;;;;;x
+claim_gael_archdruid_desc;由于目前盖尔大德鲁伊的位置正处于空缺，任何训练有素的德鲁伊都可以宣称这个头衔并成为盖尔信仰的下一任领袖。;;;;;;;;;;;;;;x
+restore_old_gods;复兴上古诸神;;;;;;;;;;;;;x
+restore_old_gods_desc;开始致力于在不列颠恢复上古诸神的力量，抵抗基督教的传播。;;;;;;;;;;;;;x
+restore_old_gods_tooltip;你开始致力于寻找不列颠的十三宝藏，复兴上古诸神。;;;;;;;;;;;;;x
+##### SETTLEMENT DECISIONS #####
+convert_tribal_to_castle_desc;I can upgrade [Root.GetFullName] to a proper Castle. If it is the county capital and the county is big enough, a city or temple holding may also be created if they do not already exist.;;;;;;;;;;;;;;x
+##### UNIT DECISIONS #####
+raise_saxon_units;召集蛮盟部队;;;;;;;;;;;;;;x
+raise_saxon_units_desc;我们可以征召我们的撒克逊蛮盟部队，来帮助防守我们的土地。;;;;;;;;;;;;;;x
+raise_visigoth_army;Raise Hispanic Army;;;;;;;;;;;;;;x
+raise_visigoth_army_desc;We can raise an army from our lands in Hispania to help us in our current war.;;;;;;;;;;;;;;x
+##### ANGLO-SAXON DECISIONS #####
+migrate_to_britannia_angeln;Migrate to Britannia;;;;;;;;;;;;;;x
+migrate_to_britannia_angeln_desc;The rise of the Danes and the depopulation of our lands has made our position here in our homeland of Angeln increasingly tenuous. Perhaps it is time to join our brethren and migrate across the sea to Britannia...;;;;;;;;;;;;;;x
+migrate_to_bernicia;Migrate to Bernicia;;;;;;;;;;;;;;x
+migrate_to_bernicia_desc;Our status as a warband here in Norolc gives us support for our tribe but leaves us to the whims of our cousins and little opportunity for advancement. However, an opportunity has opened in the north, as the King of Bryneich is looking for foederati to defend the kingdom against the Picts and Scots. This could be the opportunity for wealth, glory, and maybe, just maybe, the foundation of a grand new Angle kingdom in the north...;;;;;;;;;;;;;;x
+claim_iclingas;Claim the Iclingas;;;;;;;;;;;;;;x
+claim_iclingas_desc;Our ancestors were once the proud Kings of 苙gelland, ruling over a great kingdom on the continent before our migration to Britannia. It is time for us to rise once more and build a kingdom worthy of the sons of Woden!;;;;;;;;;;;;;;x
+claim_mercian_lands;Claim Mercian Lands;;;;;;;;;;;;;;x
+claim_mercian_lands_desc;The borderlands between the Britons and Saxons here in the Midlands of Britannia is currently divided among many small kingdoms. A powerful ruler could unite them all together and found a kingdom that could dominate all of Britannia...;;;;;;;;;;;;;;x
+claim_mercia;Claim Mercia;;;;;;;;;;;;;;x
+claim_mercia_desc;We have quickly risen to become one of the most prominent Anglo-Saxon powers here in the rich, fertile Midlands in the heart of Britannia. It is time for us to claim the title of king, king of the people of the marches - Mercia.;;;;;;;;;;;;;;x
+revolt_lindsey;Revolt for Lindesege;;;;;;;;;;;;;;x
+revolt_lindsey_desc;For many years we have been settled here in the kingdom of Linnius, fighting as foederati under the rule of the weakening Britons. Now that our numbers and power have grown, it is now time to demand our rightful place as rulers of Linnius or "Lindesege" as we call it, and, if the Britons will not accede willingly, to take their lands by force and forge a new [Root.Culture.GetName] kingdom.;;;;;;;;;;;;;;x
+revolt_cantia;Revolt for Cantia;;;;;;;;;;;;;;x
+revolt_cantia_desc;For many years we have been settled here in the kingdom of Ceint, fighting as foederati under the rule of the weakening Britons. Now that our numbers and power have grown, it is now time to demand our rightful place as rulers of Ceint or "Cantia" as we call it, and, if the Britons will not accede willingly, to take their lands by force and forge a new [Root.Culture.GetName] kingdom.;;;;;;;;;;;;;;x
+revolt_bernicia;Revolt for Beornice;;;;;;;;;;;;;;x
+revolt_bernicia_desc;For many years we have been settled here in the kingdom of Bryneich, fighting as foederati under the rule of the weakening Britons. Now that our numbers and power have grown, it is now time to demand our rightful place as rulers of Bryneich or "Beornice" as we call it, and, if the Britons will not accede willingly, to take their lands by force and forge a new [Root.Culture.GetName] kingdom.;;;;;;;;;;;;;;x
+revolt_deira;Revolt for Derenice;;;;;;;;;;;;;;x
+revolt_deira_desc;For many years we have been settled here in the kingdom of Ebrauc, fighting as foederati under the rule of the weakening Britons. Now that our numbers and power have grown, it is now time to demand our rightful place as rulers of Deifr or "Derenice" as we call it, and, if the Britons will not accede willingly, to take their lands by force and forge a new [Root.Culture.GetName] kingdom.;;;;;;;;;;;;;;x
+invade_gaul;Migrate to Gaul;;;;;;;;;;;;;;x
+invade_gaul_desc;The collapse of Roman authority in the West has left its lands poorly defended and vulnerable, and while Aquitania and Belgica have been raided, conquered, and settled by other Germanic tribes, much of Northwestern Gaul has been largely spared and is still ripe for conquest. We should seize this oppurtunity while it still lasts and carve out a new realm for ourselves in this rich land.;;;;;;;;;;;;;;x

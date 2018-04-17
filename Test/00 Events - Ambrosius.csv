@@ -1,0 +1,65 @@
+EVTNAMEAMBROSIUS2;奥勒利乌斯·安布罗修斯;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS2;你是奥勒利乌斯·安布罗修斯，不列颠最后的罗马人，大凯撒不列颠行省残留部分的总督。当西部和北方的布立吞人可能已集体摆脱了罗马统治的枷锁时，一些岛屿南方的罗马化的布立吞人依然承认你，和罗马，是他们的统治者。;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS2;拯救布立吞人的使命在我，任重而道远。;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS3;奥勒利乌斯·安布罗修斯的大婚;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS3;奥勒利乌斯·安布罗修斯娶了一位当地的不列颠女人。或许这会是一个伟大家族的肇始，它将拯救这些岛屿。;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS3;也许这不是不列颠尼亚的终结？;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS4;我的妻子怀孕了。;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS4;罗马人总督奥勒利乌斯·安布罗修斯的妻子怀孕了。或许她的孩子将在这片遥远的土地上成长为一个伟大的领袖。;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS4;令人振奋的消息。;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS5;安布罗修斯·奥雷里安纳斯的诞生;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS5;我的妻子生了一个男孩，按照罗马人的习惯，他将被命名为奥雷里安纳斯。或许有一天他会成为一个伟大的领袖。;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS5;太好了。;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS6;奥勒利乌斯·安布罗修斯之死;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS6;奥勒利乌斯·安布罗修斯，大凯撒不列颠行省总督，不列颠最后的罗马人，去世了。随着罗马在南不列颠的中央集权统治的持续崩溃，当地的不列颠酋长们已经确认脱离罗马统治，恢复了自治。同时，罗马安在高卢人身上的枷锁也已显得脆弱，因此他们的文明之光也许不会再照临这些乌云密布的岛屿了。;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS6;这片土地是我与生俱来的权利！我要保住它！;;;;;;;;;;;;;x
+EVTOPTBAMBROSIUS6;一位伟大的总督死了。也许布立吞人命该如此。;;;;;;;;;;;;;x
+EVTOPTCAMBROSIUS6;有趣...;;;;;;;;;;;;;x
+EVTOPTDAMBROSIUS6;我的天命大概不在伦狄尼姆，而在更远的西方...;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS7;The Collapse of Roman Authority in Britannia;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS7;With the last of the Roman legions having been withdrawn from Gaul, perhaps never to return, now more than ever do we have the chance to secede from the centralised Roman rule, and return to our regional system of tribes and Kingdoms.;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS7;What have the Romans ever done for us?!;;;;;;;;;;;;;x
+EVTOPTBAMBROSIUS7;Well, now you mention it...;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS8;A Vassal Secedes;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS8;With the departure of the Roman legions from Britannia, it has become increasingly harder for us to enforce centralised Roman rule in Britannia. Taking advantage of this, one of our British vassals no longer recognises our authority over their lands.;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS8;Ungrateful wretches.;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS9;A Step Too Far?;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS9;With the secession of Ceint to the Sais by the High King, we are left at a peril. We could call together a council of Romans and Britons opposed to the policy of settling Saxons in our land, in an attempt to force the High King to stop his destructive policies.;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS9;It won't  be easy, but it has to be done.;;;;;;;;;;;;;x
+EVTOPTBAMBROSIUS9;Sounds like a lot of unecessary hassle...;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS10;No Alternative;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS10;Dismayed at the poor policies employed by the High King, a council of Romans and Britons, led by [Root.GetTitledName], has openly declared war on the High King, citing his failure to control the Saxons settled as foederati troops as justification for his deposition.;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS10;To war!;;;;;;;;;;;;;x
+EVTOPTBAMBROSIUS10;Actually no...;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS11;Civil War!;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS11;Civil war has broken out in the southern part of Britannia, with the pro-Roman faction, led by the great [From.GetTitledName], fighting against the High King of Britannia, in an attempt to depose him due to his fall in popularity after his decision to hand the Kingdom of Ceint over to the Sais.;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS11;We shall help topple this tyrant!;;;;;;;;;;;;;x
+EVTOPTBAMBROSIUS11;The High King may not be popular, but his rule is legitimate.;;;;;;;;;;;;;x
+EVTOPTCAMBROSIUS11;This is not our fight;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS12;The Battle of Guoloph;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS12;The Battle of Guoloph has been fought, and won by the pro-Roman forces of [Root.GetTitledName]. The armies of the High King have been scattered to the hills after many hours of tiring fighting, and it will only be a matter of time before he is kicked from his throne. [Root.GetTitledFirstName] has been hailed as the hero of the day, and saluted by his troops as Imperator. The High King has agreed that [Root.GetFirstName] shall become the architect for the defence of Dinas Emrys and all the western lands, ceding Glouvia, Ceri, and Baddon in his defeat.;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS12;We are victorius!;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS13;Vortigern is defeated!;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS13;The Battle of Guoloph was a stunning victory for [From.GetTitledName], and now peace has been achieved in the south of Britannia. [From.GetFirstName] has been granted control over the lands of Glevum and Baddon, promising that no Saxons will be settled in the areas under his control. However, the long period of fighting has left the British leadership short on supplies, and the Saxons in Cantia, while still loyal, will be baying for their payment soon.;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS13;At last the war is over.;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS14;An Opportunity;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS14;Though your throne has been usurped, you have escaped alive, and are now in hiding. However, there are those that would support your claim should you decide to return. Your wife, [Spouse.GetFirstName], has offered to murder the current High King, in order to instigate a rebellion to place you back on your deserved throne.;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS14;A cunning plan indeed...;;;;;;;;;;;;;x
+EVTOPTBAMBROSIUS14;It's too risky;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS15;The Saxon Plague;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS15;The dreaded Saxon Plague, bought over by the invading Germans, has infected the great [Root.GetTitledFirstName]. If he dies, it will be a great loss for Britannia.;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS15;We can only pray...;;;;;;;;;;;;;x
+EVTNAMEAMBROSIUS16;[Root.GetFirstName] dies;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS16;[Root.GetTitledFirstName] has been killed by the plague introduced to the isles by the invading Saxons. This truly is a great loss for the British effort. Perhaps now no one will stand in the way of the pagan advance...;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS16;A tragedy indeed.;;;;;;;;;;;;;
+EVTNAMEAMBROSIUS17;Fall of Maxima C鎠ariensis;;;;;;;;;;;;;
+EVTDESCAMBROSIUS17;With the revolt of the Saxons and the death of the governor Aurelius Ambrosius, the former Roman province of Maxima C鎠ariensis has been increasingly thrown into chaos, with the plague, wars, and civil strife devastating its cities and lands. As the former administration collapses into chaos, Aurelius's heir, [Root.GetFullName], has fled west to the safety of his family's possessions in Guenet, leaving [Root.GetHerHis] British vassals to assert their own authority in the fallen province.;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS17_1;With the revolt of the Saxons and the death of the governor Aurelius Ambrosius, the former Roman province of Maxima C鎠ariensis has been increasingly thrown into chaos, with the plague, wars, and civil strife devastating its cities and lands. The administration of [Root.GetFullName] has slowly been sliding into chaos and [Root.GetSheHe] has largely lost control of the region, leaving [Root.GetHerHis] British vassals to assert their own authority in the fallen province.;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS17;I will return...;;;;;;;;;;;;;
+EVTOPTBAMBROSIUS17;This is unacceptable!;;;;;;;;;;;;;
+EVTOPTCAMBROSIUS17;This is troubling news...;;;;;;;;;;;;;
+EVTOPTDAMBROSIUS17;Hah! Let the Wealas fight among themselves!;;;;;;;;;;;;;
+EVTOPTEAMBROSIUS17;This is interesting news...;;;;;;;;;;;;;
+EVTNAMEAMBROSIUS18;The Romans...;;;;;;;;;;;;;x
+EVTDESCAMBROSIUS18;The descendents of Aeneas and Romulus once ruled this island, but I do not remember what it is to be Roman... ;;;;;;;;;;;;;x
+EVTOPTAAMBROSIUS18;The world has become a lot smaller.;;;;;;;;;;;;;

@@ -1,0 +1,264 @@
+#CHARACTER MODIFIERS;;;;;;;;;;;;;x
+truce_breaker;Í£Õ½Ğ­¶¨ÆÆ»µÕß;;;;;;;;;;;;;x
+truce_breaker_desc;´ËÈË¼«¾ß¹¥»÷ĞÔµØËº»ÙÁËÒ»·İÍ£Õ½Ğ­Òé»òºÍÆ½Ğ­Òé¡£;;;;;;;;;;;;;;x
+the_oubliette;ÔÚÎŞµ×ÉîÔ¨Ö®ÖĞ;;;;;;;;;;;;;;x
+big_spender;´ÈÉÆµÄ;;;;;;;;;;;;;;x
+big_spender_desc;´ËÈËÓĞ×Å¹ó×åÊ½µÄÉİ³Ş£¬Ï²»¶¿¶¿®½âÄÒ¡£;;;;;;;;;;;;;;x
+employment_timer;¡°×î½ü¹ÍÓ¶ÁËÒ»¸öÈËÎï¡±¡£;;;;;;;;;;;;;x
+heretic_friend_timer;¡°ÓĞÒ»¸öÒì½ÌÅóÓÑ¡±¡£;;;;;;;;;;;;;x
+victory_timer;¡°×î½üÔÚÒ»³¡Õ½ÕùÖĞÈ¡µÃÊ¤Àû¡±¡£;;;;;;;;;;;;;x
+indulgence_timer;¡°×î½ü¹ºÂòÁËÊê×ïÈ¯¡±¡£;;;;;;;;;;;;;x
+char_restored_old_gods;¡°¹â¸´ÁË¾ÉÉñµÄÁ¦Á¿¡±¡£;;;;;;;;;;;;;x
+HK_britannia_claim_timer;¡°×î½üĞû³ÆÁË²»ÁĞµßÄáÑÇÖÁ×ğÍõ¹ú¡±¡£;;;;;;;;;;;;;x
+HK_aengland_claim_timer;¡°×î½üĞû³ÆÁËÓ¢¸ñÀ¼Íõ¹ú¡±¡£;;;;;;;;;;;;;x
+improve_relations_timer;¡°¸ÄÉÆÁË¹ØÏµ¡±¡£;;;;;;;;;;;;;x
+not_dejure_liege;·Ç·¨Àí·â¾ı;;;;;;;;;;;;;x
+not_dejure_liege_desc;´ËÈË±»Ò»¸ö¶ÔÕâÆ¬ÍÁµØÃ»ÓĞ×ÔÈ»È¨ÀûµÄ·â¾ıËùÍ³ÖÎ£¬Òò´Ë¸Ğµ½·ßÅ­¡£;;;;;;;;;;;;;x
+for_the_sake_of_love;Ò»ÇĞÎªÁË°®;;;;;;;;;;;;;x
+battlefield_fight;ÔÚÕ½³¡ÉÏÌá³ö¾ö¶·ÌôÕ½;;;;;;;;;;;;;x
+modifier_hidden;²ØÄä;;;;;;;;;;;;;;x
+modifier_hidden_desc;´ËÈËÕıÔÚ¶ã±Ü×ÅËÁÅ°¹úÄÚµÄµĞ¶ÔÊÆÁ¦¡£;;;;;;;;;;;;;;x
+stalwart_defender;ÓÂ¸ÒµÄº´ÎÀÕß;;;;;;;;;;;;;;x
+stalwart_defender_desc;´ËÈË¾ö¶¨²»È¥¶ã²Ø£¬¶øÊÇ¼á³Ö¶Ô¿¹ËÁÅ°¹úÄÚµÄµĞ¶ÔÊÆÁ¦¡£;;;;;;;;;;;;;;x
+aspiring_druid_1;ÓĞÖ¾µÄµÂÂ³ÒÁ;;;;;;;;;;;;;;x
+aspiring_druid_1_desc;´ËÈËÕıÔÚÑ§Ï°µÂÂ³ÒÁ·¨ÊõµÄ»ù´¡£¬±»³ÆÎª§Y¡°ÖÉÄÛµÄÄ§·¨Ê¦¡±§W¡£;;;;;;;;;;;;;;x
+aspiring_druid_2;³õÑ§µÄµÂÂ³ÒÁ;;;;;;;;;;;;;;x
+aspiring_druid_2_desc;´ËÈËÕıÔÚÑ§Ï°µÂÂ³ÒÁ·¨Êõ£¬²¢ÇÒÊìÏ¤ÁËĞí¶à»ù´¡ÄÚÈİ¡£;;;;;;;;;;;;;;x
+aspiring_druid_3;µÂÂ³ÒÁÑ§Í½;;;;;;;;;;;;;;x
+aspiring_druid_3_desc;´ËÈËÕıÔÚÑĞ¾¿µÂÂ³ÒÁµÄÃØÃÜ£¬²¢ÒÑ¾«Í¨ÁËÆäÖĞµÄ·½·½ÃæÃæ¡£;;;;;;;;;;;;;;x
+trained_bard;ÊÜÑµµÄ°ÍµÂ;;;;;;;;;;;;;;x
+trained_bard_desc;´ËÈËÑ¡Ôñ³ÉÎªÒ»Ãû°ÍµÂ£¬Ò²´ÓËù±ØĞèµÄ»ù´¡µÂÂ³ÒÁÑµÁ·ÖĞÑ§Ï°ÁËºÜ¶à¡£;;;;;;;;;;;;;;x
+raised_visigoth_army_timer;Recently raised Hispanic army;;;;;;;;;;;;;;x
+raised_visigoth_army_timer_desc;This character has recently raised an army from Hispania and cannot raise another one for the next few years.;;;;;;;;;;;;;;x
+claimed_iclingas_timer;Recently Claimed Iclingas;;;;;;;;;;;;;;x
+#TRIGGERED MODIFIERS;;;;;;;;;;;;;x
+negative_money;×Ê½ğÈ±·¦;;;;;;;;;;;;;x
+negative_money_desc;ÎÒÃÇµÄ½ğ¿â¿ÕÁË£¬²»ÄÜÕı³£µØ¸¶Ç®¸øÎÒÃÇµÄ²¿¶Ó¡£;;;;;;;;;;;;;x
+negative_money_1;×Ê½ğÈ±·¦;;;;;;;;;;;;;x
+negative_money_1_desc;ÎÒÃÇµÄ½ğ¿â¿ÕÁË£¬²»ÄÜÕı³£µØ¸¶Ç®¸øÎÒÃÇµÄ²¿¶Ó¡£;;;;;;;;;;;;;x
+negative_money_2;×Ê½ğÈ±·¦;;;;;;;;;;;;;x
+negative_money_2_desc;ÎÒÃÇµÄ½ğ¿â¿ÕÁË£¬²»ÄÜÕı³£µØ¸¶Ç®¸øÎÒÃÇµÄ²¿¶Ó¡£;;;;;;;;;;;;;x
+negative_money_3;×Ê½ğÈ±·¦;;;;;;;;;;;;;x
+negative_money_3_desc;ÎÒÃÇµÄ½ğ¿â¿ÕÁË£¬²»ÄÜÕı³£µØ¸¶Ç®¸øÎÒÃÇµÄ²¿¶Ó¡£;;;;;;;;;;;;;x
+negative_money_4;×Ê½ğÑÏÖØÈ±·¦;;;;;;;;;;;;;x
+negative_money_4_desc;ÎÒÃÇµÄ½ğ¿â¿ÕÁË£¬²»ÄÜÕı³£µØ¸¶Ç®¸øÎÒÃÇµÄ²¿¶Ó¡£;;;;;;;;;;;;;x
+negative_money_5;×Ê½ğÑÏÖØÈ±·¦;;;;;;;;;;;;;x
+negative_money_5_desc;ÎÒÃÇµÄ½ğ¿â¿ÕÁË£¬²»ÄÜÕı³£µØ¸¶Ç®¸øÎÒÃÇµÄ²¿¶Ó¡£;;;;;;;;;;;;;x
+negative_money_6;×Ê½ğ¼«¶ÈÈ±·¦;;;;;;;;;;;;;x
+negative_money_6_desc;ÎÒÃÇµÄ½ğ¿â¿ÕÁË£¬²»ÄÜÕı³£µØ¸¶Ç®¸øÎÒÃÇµÄ²¿¶Ó¡£;;;;;;;;;;;;;x
+roman_gaul_control;±±¸ßÂ¬Í³ÖÎÕß;;;;;;;;;;;;;x
+roman_gaul_control_desc;¸ÃÍ³ÖÎÕßÍêÈ«¿ØÖÆÁË¸ßÂ¬±±²¿ºÍ·Öº£µÄÕû¸öÄÏ°¶¡£;;;;;;;;;;;;;x
+frank_gaul_control;±±¸ßÂ¬Í³ÖÎÕß;;;;;;;;;;;;;x
+frank_gaul_control_desc;¸Ã·¨À¼¿ËÍ³ÖÎÕßÍêÈ«¿ØÖÆÁË¸ßÂ¬±±²¿ºÍ·Öº£µÄÕû¸öÄÏ°¶¡£;;;;;;;;;;;;;x
+wrong_religion_group_capital;Ê×¶¼µÄ²»Í¬×Ú½Ì;;;;;;;;;;;;;x
+wrong_religion_group_capital_desc;¸ÃÍ³ÖÎÕßÍ³ÖÎ×ÅÒ»¸öĞÅÑöÍêÈ«²»Í¬×Ú½ÌµÄÊ¡·İ£¬Ê¹¹ÜÀí±äµÃ¸ü¼ÓÀ§ÄÑ¡£;;;;;;;;;;;;;x
+wrong_religion_capital;Ê×¶¼µÄ²»Í¬×Ú½Ì;;;;;;;;;;;;;x
+wrong_religion_capital_desc;¸ÃÍ³ÖÎÕßÍ³ÖÎ×ÅÒ»¸öĞÅÑöÂÔÎ¢²»Í¬×Ú½ÌµÄÊ¡·İ£¬Ê¹¹ÜÀí±äµÃ¸ü¼ÓÀ§ÄÑ¡£;;;;;;;;;;;;;x
+martial_very_low;ÎŞÄÜµÄ¾üÊÂÍ³ÖÎÕß;;;;;;;;;;;;;x
+martial_very_low_desc;¸ÃÍ³ÖÎÕßµÄ¾üÊÂÄÜÁ¦ÊÇÈç´ËµÄ¿ÉĞ¦£¬ÒÔÖÂËûµÄ´ó¶àÊı·â³¼²»Ô¸ÒâÅÉÇ²²¿¶Ó¸øËûÖ¸»Ó×÷Õ½¡£;;;;;;;;;;;;;x
+martial_low;²»×ãÊ¤ÈÎµÄ¾üÊÂÍ³ÖÎÕß;;;;;;;;;;;;;x
+martial_low_desc;¸ÃÍ³ÖÎÕßµÄ¾üÊÂÄÜÁ¦ºÜµÍ£¬ËûµÄ´ó¶àÊı·â³¼²»Ô¸ÒâÅÉÇ²²¿¶Ó¸øËûÖ¸»Ó×÷Õ½¡£;;;;;;;;;;;;;x
+martial_low_medium;È±·¦¾­ÑéµÄ¾üÊÂÍ³ÖÎÕß;;;;;;;;;;;;;x
+martial_low_medium_desc;¸ÃÍ³ÖÎÕßµÄµÍ¾üÊÂÄÜÁ¦ÕıÔÚËûµÄ·â³¼Ö®¼äÒıÆğµ£ÓÇ£¬ËûÃÇ²»Ô¸ÒâÅÉÇ²²¿¶Ó¸øËûÖ¸»Ó×÷Õ½¡£;;;;;;;;;;;;;x
+martial_medium;Ò»°ãµÄ¾üÊÂÍ³ÖÎÕß;;;;;;;;;;;;;x
+martial_medium_high;Ê¤ÈÎµÄ¾üÊÂÍ³ÖÎÕß;;;;;;;;;;;;;x
+martial_medium_high_desc;¸ÃÍ³ÖÎÕß±»ÈÏÎªÊÇÒ»Î»ÊìÁ·µÄ¾üÊÂÁìĞä¡£ËûµÄ·â³¼ÃÇ½«¸üÔ¸ÒâÅÉÇ²²¿¶Ó¸øËûÖ¸»Ó×÷Õ½¡£;;;;;;;;;;;;;x
+martial_high;ÊìÁ·µÄ¾üÊÂÍ³ÖÎÕß;;;;;;;;;;;;;x
+martial_high_desc;¸ÃÍ³ÖÎÕß±»ÈÏÎªÊÇÒ»Î»ÊìÁ·µÄÕ½ÂÔ¼ÒºÍ¾üÊÂÁìĞä¡£ËûµÄ·â³¼ÃÇ½«¸üÔ¸ÒâÅÉÇ²²¿¶Ó¸øËûÖ¸»Ó×÷Õ½¡£;;;;;;;;;;;;;x
+martial_very_high;½Ü³öµÄ¾üÊÂÍ³ÖÎÕß;;;;;;;;;;;;;x
+martial_very_high_desc;¸ÃÍ³ÖÎÕß±»ÈÏÎªÊÇÒ»Î»¸ß³¬µÄÕ½ÂÔ¼ÒºÍÎ°´óµÄ¾üÊÂÁìĞä¡£ÔÚÕ½ÕùÊ±ÆÚ£¬ËûµÄ·â³¼ÃÇ½«¸üÔ¸ÒâÅÉÇ²²¿¶Ó¸øËûÖ¸»Ó×÷Õ½¡£;;;;;;;;;;;;;x
+master_of_intrigues;ÒõÄ±´óÊ¦;;;;;;;;;;;;;x
+master_of_intrigues_desc;¸ÃÍ³ÖÎÕßÊÇÒ»Î»ÔÚÃÜÄ±ºÍ²ß»®·½ÃæµÄ´óÊ¦¡£;;;;;;;;;;;;;x
+war_torn;Õ½Õùºó¹û;;;;;;;;;;;;;x
+war_torn_desc;´ËÈËµÄ¹ú¼ÒÕıÔÚ±»Ä¿Ç°µÄÕ½ÕùËùËºÁÑ¡£;;;;;;;;;;;;;x
+political_ineptitude;ÕşÖÎÎŞÄÜ;;;;;;;;;;;;;x
+political_ineptitude_desc;¸ÃÍ³ÖÎÕß¶ÔÕşÖÎÒÕÊõÒ»ÇÏ²»Í¨¡£;;;;;;;;;;;;;x
+corrupted_court;¸¯°Ü;;;;;;;;;;;;;x
+corrupted_court_desc;¸ÃÍ³ÖÎÕßµÄ¹ÜÀíÄÜÁ¦ÊÇÈç´ËµÄ¿ÉĞ¦£¬ÒÔÖÂËûÉõÖÁÎŞ·¨´ò»÷¸¯°Ü¡£;;;;;;;;;;;;;x
+bureaucratic_court;Ğ§ÂÊ;;;;;;;;;;;;;x
+bureaucratic_court_desc;¸ÃÍ³ÖÎÕßÔÚ¹ÜÀíËûµÄ¹ú¼Ò·½ÃæÊÇÒ»¸ö´óÊ¦£¬Ò»ÇĞ¶¼ºÍÒÔÍùÒ»ÑùË³Àû¡£;;;;;;;;;;;;;x
+refuge_for_heretics;²»¿ÉÖªÂÛµÄÍ³ÖÎÕß;;;;;;;;;;;;;x
+refuge_for_heretics_desc;¸ÃÍ³ÖÎÕßÒ»µãÒ²²»³çÉĞ×Ú½Ì£¬¸üÏ²°®ÈËÀàÒÕÊõºÍ½ø²½£¬Ê¤ÓÚ×Ú½ÌÌá¹©¸øËûµÄ´ğ°¸¡£;;;;;;;;;;;;;x
+bastion_of_the_zealous;¿ñÈÈµÄÍ³ÖÎÕß;;;;;;;;;;;;;x
+bastion_of_the_zealous_desc;¸ÃÍ³ÖÎÕßÊÇÒ»¸öóÆĞÅ×Ú½ÌÖ®ÈË£¬±ÉÊÓÈËÀàÒÕÊõºÍ½ø²½£¬Æ«°®ÓÚÔÚËûµÄ×Ú½ÌĞÅÑöÏÂÕÒµ½ÆÆ½âÈËÉú×î´óÄÑÌâµÄ´ğ°¸¡£;;;;;;;;;;;;;x
+patron_of_the_learned;Ô¨²©µÄÍ³ÖÎÕß;;;;;;;;;;;;;x
+patron_of_the_learned_desc;¸ÃÍ³ÖÎÕßÊÇÕâÊ±´ú×îÖªÊ¶Ô¨²©²Å»ªºáÒçµÄÈËÖ®Ò»¡£;;;;;;;;;;;;;x
+court_of_ignogrance;ÓŞÃÁµÄÍ³ÖÎÕß;;;;;;;;;;;;;x
+court_of_ignogrance_desc;¸ÃÍ³ÖÎÕßÈ±·¦Á¼ºÃ½ÌÓı£¬ÉõÖÁ¶Ô·¢ÉúÔÚËû´óÌüÍâµÄÊÂÇéÒ²Ò»¸Å²»Öª¡£;;;;;;;;;;;;;x
+wealthy_and_affluent;¸»ÓĞµÄÍ³ÖÎÕß;;;;;;;;;;;;;x
+wealthy_and_affluent_desc;¸ÃÍ³ÖÎÕßºÜ¸»ÓĞ£¬´©½ğ´÷Òø£¬³Ô×Å²»¾¡¡£;;;;;;;;;;;;;x
+too_many_kingdoms_1;ÓµÓĞ¹ı¶àÍõ¹ú;;;;;;;;;;;;;x
+too_many_kingdoms_1_desc;ÕâÎ»°»¸ñÂ³-Èö¿ËÑ·Í³ÖÎÕßÓµÓĞ²»Ö¹Ò»¸ö¹úÍõÍ·ÏÎ£¬ËûµÄ¶àÊı·â³¼Òò´Ë²»Âú¡£;;;;;;;;;;;;;x
+too_many_kingdoms_2;ÓµÓĞ¹ı¶àÍõ¹ú;;;;;;;;;;;;;x
+too_many_kingdoms_2_desc;ÕâÎ»°»¸ñÂ³-Èö¿ËÑ·Í³ÖÎÕßÓµÓĞ²»Ö¹Ò»¸ö¹úÍõÍ·ÏÎ£¬ËûµÄ¶àÊı·â³¼Òò´Ë²»Âú¡£;;;;;;;;;;;;;x
+too_many_kingdoms_bretwalda;ÓµÓĞ¹ı¶àÍõ¹ú;;;;;;;;;;;;;x
+too_many_kingdoms_bretwalda_desc;ÕâÎ»Ó¢¸ñÀ¼µÄ²»ÁĞµß¹²Ö÷ÓµÓĞ²»Ö¹Ò»¸ö¹úÍõÍ·ÏÎ£¬ËûµÄ¶àÊı·â³¼Òò´Ë²»Âú¡£;;;;;;;;;;;;;x
+too_large_realm_1;´ó¹úÎ£»ú;;;;;;;;;;;;;x
+too_large_realm_1_desc;¸ÃÍ³ÖÎÕßµÄÍâ½»ºÍ¹ÜÀíÄÜÁ¦²»×ãÒÔ¹ÜÀíÙ¼´ó¸ö¹ú¼Ò¡£³¤ÆÚµÄ¸¯°Ü·ºÀÄ×ÌÉúÁËÈËÃñºÍ·â³¼µÄ¾ÚÉ¥ºÍ¾øÍû¡£;;;;;;;;;;;;;x
+too_large_realm_2;´ó¹úÎ£»ú;;;;;;;;;;;;;x
+too_large_realm_2_desc;¸ÃÍ³ÖÎÕßµÄÍâ½»ºÍ¹ÜÀíÄÜÁ¦²»×ãÒÔ¹ÜÀíÙ¼´ó¸ö¹ú¼Ò¡£³¤ÆÚµÄ¸¯°Ü·ºÀÄ×ÌÉúÁËÈËÃñºÍ·â³¼µÄ¾ÚÉ¥ºÍ¾øÍû¡£;;;;;;;;;;;;;x
+too_large_realm_3;´ó¹úÎ£»ú;;;;;;;;;;;;;x
+too_large_realm_3_desc;¸ÃÍ³ÖÎÕßµÄÍâ½»ºÍ¹ÜÀíÄÜÁ¦²»×ãÒÔ¹ÜÀíÙ¼´ó¸ö¹ú¼Ò¡£³¤ÆÚµÄ¸¯°Ü·ºÀÄ×ÌÉúÁËÈËÃñºÍ·â³¼µÄ¾ÚÉ¥ºÍ¾øÍû¡£;;;;;;;;;;;;;x
+too_large_realm_4;´ó¹úÎ£»ú;;;;;;;;;;;;;x
+too_large_realm_4_desc;¸ÃÍ³ÖÎÕßµÄÍâ½»ºÍ¹ÜÀíÄÜÁ¦²»×ãÒÔ¹ÜÀíÙ¼´ó¸ö¹ú¼Ò¡£³¤ÆÚµÄ¸¯°Ü·ºÀÄ×ÌÉúÁËÈËÃñºÍ·â³¼µÄ¾ÚÉ¥ºÍ¾øÍû¡£;;;;;;;;;;;;;x
+too_large_realm_5;´ó¹úÎ£»ú;;;;;;;;;;;;;x
+too_large_realm_5_desc;¸ÃÍ³ÖÎÕßµÄÍâ½»ºÍ¹ÜÀíÄÜÁ¦²»×ãÒÔ¹ÜÀíÙ¼´ó¸ö¹ú¼Ò¡£³¤ÆÚµÄ¸¯°Ü·ºÀÄ×ÌÉúÁËÈËÃñºÍ·â³¼µÄ¾ÚÉ¥ºÍ¾øÍû¡£;;;;;;;;;;;;;x
+too_large_realm_6;´ó¹úÎ£»ú;;;;;;;;;;;;;x
+too_large_realm_6_desc;¸ÃÍ³ÖÎÕßµÄÍâ½»ºÍ¹ÜÀíÄÜÁ¦²»×ãÒÔ¹ÜÀíÙ¼´ó¸ö¹ú¼Ò¡£³¤ÆÚµÄ¸¯°Ü·ºÀÄ×ÌÉúÁËÈËÃñºÍ·â³¼µÄ¾ÚÉ¥ºÍ¾øÍû¡£;;;;;;;;;;;;;x
+too_large_realm_7;´ó¹úÎ£»ú;;;;;;;;;;;;;x
+too_large_realm_7_desc;¸ÃÍ³ÖÎÕßµÄÍâ½»ºÍ¹ÜÀíÄÜÁ¦²»×ãÒÔ¹ÜÀíÙ¼´ó¸ö¹ú¼Ò¡£³¤ÆÚµÄ¸¯°Ü·ºÀÄ×ÌÉúÁËÈËÃñºÍ·â³¼µÄ¾ÚÉ¥ºÍ¾øÍû¡£;;;;;;;;;;;;;x
+restored_roman_senate;×é½¨ÁËµÛ¹úÔªÀÏÔº;;;;;;;;;;;;;x
+restored_roman_senate_desc;¸ÃÍ³ÖÎÕß·Ï³ıÁËÂŞÂíÔªÀÏÔºµÄÈ¨Á¦²¢ÔÚËûµÄ¶¼³Ç×éÖ¯ÁËÒ»¸öµÛ¹úÔªÀÏÔº¡£;;;;;;;;;;;;;x
+conqueror;Õ÷·şÕß;;;;;;;;;;;;;x
+conqueror_desc;¸ÃÍ³ÖÎÕßµÄÍ·ÏÎ¡¢ÍşÍûºÍ¾üÊÂÄÜÁ¦¸øÓèËûÈ¨Àû£¬È¥ÇÖÂÔºÍÕ÷·şÄÇĞ©¼È·ÇÍ¬×Ú½ÌÒà·ÇÍ¬ÎÄ»¯µÄÍâ°îÍõ¹ú¡£;;;;;;;;;;;;;x
+base_levies_1;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_1_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_2;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_2_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_3;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_3_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_4;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_4_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_5;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_5_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_6;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_6_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_7;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_7_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_8;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_8_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_9;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_9_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_10;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_10_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_11;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_11_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_12;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_12_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+base_levies_13;·ÖÈ¨;;;;;;;;;;;;;x
+base_levies_13_desc;¿ÉÒÔ´Ó·â³¼ÄÇÀïÕÙ¼¯µÄ²¿¶Ó×î´óÊıÁ¿È¡¾öÓÚ¹úÄÚµÄ§YÁìµØÊıÁ¿§W¡£ÓµÓĞ·ÖÈ¨¾ü¶ÓµÄ¸ü´ó¹ú¼ÒÖ»ÄÜ´ÓÃ¿¸ö·â³¼´¦ÕÙ¼¯¸üÉÙµÄ²¿¶Ó¡£\n\n·ÖÈ¨µÄÓ°ÏìÔÚ¸ßÍõÈ¨ÏÂ¼õÈõ£¬ÔÚ¾ø¶ÔÍõÈ¨ÏÂÊ§Ğ§¡£;;;;;;;;;;;;;x
+negative_authority;²»ÊÜ×ğ¾´µÄÍ³ÖÎÕß;;;;;;;;;;;;;x
+negative_authority_desc;¸ÃÍ³ÖÎÕßÈ±·¦È¨ÍşºÍÉùÍû£¬Ôì³É³¼ÃñµÄ¾ÚÉ¥¡£;;;;;;;;;;;;;x
+vestigial_kingdom;²Ğ´æµÄÍõ¹ú;;;;;;;;;;;;;x
+vestigial_kingdom_desc;ÕâÎ»¹úÍõ³ıÁË»¹Í³ÖÎÒ»Ğ©Ãñ¾ÓÖ®ÍâÒ»ÎŞËùÓĞ¡£Õâ¸ö¹ú¼ÒÖ»Ê£ÏÂ´ÓÇ°ÈÙ¹âµÄÒ»Ë¿²ĞÓ°¡£Èç¹ûÍõ¹úÒªÊÜµ½×ğÖØ£¬Ëü±ØĞëÖ¤Ã÷×Ô¼ºµÄ¼ÛÖµ£¬ÖØĞÂ¶á»ØËüµÄ·¨ÀíÁìµØ¡£;;;;;;;;;;;;;x
+attack_just;ÕıÒåµÄ½ø¹¥Õ½Õù;;;;;;;;;;;;;x
+attack_just_desc;ÎÒÃÇµÄÕ½ÕùÊÇÕıÒåµÄÕ½Õù¡£ÎÒ¹úÈËÃñÃ÷°×ÕâÒ»µã£¬ËûÃÇÓÃ»Æ½ğºÍÈÈ³ÀÖ§³ÖÎÒÃÇµÄÅ¬Á¦¡£;;;;;;;;;;;;;x 
+small_demesne_1;µØ·½¿ØÖÆ;;;;;;;;;;;;;x
+small_demesne_1_desc;¸ÃÍ³ÖÎÕßµÄË½ÈËÁìµØÉÏÏŞÖ§³Ö¸üÓĞĞ§ÂÊµÄÕ÷Ë°¡£;;;;;;;;;;;;;x
+small_demesne_2;µØ·½¿ØÖÆ;;;;;;;;;;;;;x
+small_demesne_2_desc;¸ÃÍ³ÖÎÕßµÄË½ÈËÁìµØÉÏÏŞÖ§³Ö¸üÓĞĞ§ÂÊµÄÕ÷Ë°¡£;;;;;;;;;;;;;x
+small_demesne_3;µØ·½¿ØÖÆ;;;;;;;;;;;;;x
+small_demesne_3_desc;¸ÃÍ³ÖÎÕßµÄË½ÈËÁìµØÉÏÏŞÖ§³Ö¸üÓĞĞ§ÂÊµÄÕ÷Ë°¡£;;;;;;;;;;;;;x
+commanding;ÔÚÖ¸»ÓÖĞ;;;;;;;;;;;;;x
+commanding_desc;´ËÈËÕıÔÚÖ¸»Ó×÷Õ½¡£;;;;;;;;;;;;;x
+ravaged_lands;±»½ÙÂÓµÄÍÁµØ;;;;;;;;;;;;;x
+ravaged_lands_desc;×î½üµÄÄÚÕ½ÔÚÎÒÃÇµÄÍÁµØÉÏÔì³ÉÁË¾Ş´óµÄÉËÍö£¬ÎÒÃÇµÄÕ÷ÕÙ±øÏûºÄ´ù¾¡¡£;;;;;;;;;;;;;;x
+#PROVINCE MODIFIERS;;;;;;;;;;;;;x
+province_flood;ºéÀÔ·ºÀÄ;;;;;;;;;;;;;;x
+province_flood_desc;×î½üµÄ±©ÓêÔì³É¸ÃÊ¡·İµÄµÍµØ±»Ë®ÑÍÃ»¡£;;;;;;;;;;;;;;x
+province_flood_neglected_peasants;ºéÀÔ·ºÀÄ£¬°§ºè±éÒ°;;;;;;;;;;;;;;x
+province_flood_neglected_peasants_desc;¸ÃÊ¡·İµÄÅ©ÃñÊÕµ½×î½üµÄ±©ÓêÌìÆøµÄÑÏÖØÓ°Ïì£¬¶øËûÃÇµÄ·â¾ıÁìÖ÷¾Ü¾øÌá¹©ÈÎºÎ°ïÖú¡£;;;;;;;;;;;;;;x
+arbitrary_steward;´À´ÀÓû¶¯µÄÈËÈº;;;;;;;;;;;;;x
+arbitrary_steward_desc;²»¹«ÕıºÍ±©Á¦Áî¸ÃÊ¡·İµÄµ±µØÈË¾ÚÉ¥²»¿°¡£;;;;;;;;;;;;;x
+peasants_upset;´À´ÀÓû¶¯µÄÈËÈº;;;;;;;;;;;;;x
+peasants_upset_desc;²»¹«ÕıºÍ±©Á¦Áî¸ÃÊ¡·İµÄµ±µØÈË¾ÚÉ¥²»¿°¡£;;;;;;;;;;;;;x
+mediterranean_trade_port;µØÖĞº£µÄÃ³Ò×Â·Ïß;;;;;;;;;;;;;x
+forced_work;Ç¿Õ÷±©Á²;;;;;;;;;;;;;x
+seized_peasants;×½²¶Å©·ò;;;;;;;;;;;;;x
+intelligent_steward;¸ÄÉÆÃ³Ò×;;;;;;;;;;;;;x
+marshal_highway_robbers;µÁÔôÏûÊ§;;;;;;;;;;;;;x
+tight_ruler;ÑÏÀ÷µÄÍ³ÖÎÕß;;;;;;;;;;;;;x
+opinion_refused_city_tax_law;¾Ü¾ø¼õË°;;;;;;;;;;;;;x
+opinion_accepted_city_tax_law;½ÓÊÜ¼õË°;;;;;;;;;;;;;x
+marshal_improves_capital;¸Ä½ø¾üÊÂ¹ÜÀí;;;;;;;;;;;;;x
+held_rel_authority_council;ÉñÑ§»áÒé;;;;;;;;;;;;;x
+held_rel_authority_council_desc;Ò»Î»×Ú½Ì´ú±íÔÚ¸ÃÊ¡·İµÄ¹¤×÷×î½üÔö¼ÓÁË×Ú½ÌÈ¨Íş¡£;;;;;;;;;;;;;x
+plague_prevention;ÎÁÒß·¨;;;;;;;;;;;;;x
+plague_prevention_desc;¸ÃÊ¡·İÇ¿ÖÆÖ´ĞĞÁËÏŞÖÆĞÔ·¨ÂÉÀ´×èÖ¹¿ÉÅÂµÄ¡°²éÊ¿¶¡Äá´óÎÁÒß¡±±¬·¢£¬²¢±ÜÃâÆäÀ©É¢´«²¥¡£;;;;;;;;;;;;;x
+stop_commerce;½ûÖ¹ÔÚ½ÌÌÃ¹ã³¡µÄÃ³Ò×;;;;;;;;;;;;;x
+peasants_forbidden_sale;µ÷¿Ø³ÇÕòÃ³Ò×;;;;;;;;;;;;;x
+clergy_extra_tithe;Õ÷ÊÕ¶îÍâµÄ½Ì»áÊ²Ò»Ë°;;;;;;;;;;;;;x
+prima_noctae;³õÒ¹È¨;;;;;;;;;;;;;x
+town_appreciate;³ÇÕòÉÌÈËºÃ¸Ğ;;;;;;;;;;;;;x
+town_appreciate_desc;ÄãµÄ×Ü¹ÜµÄÍâ½»¼¼ÄÜÊ¹³ÇÕòµÄÉÌÈË¶ÔÄã¸ü¼Ó¸Ğ¼¤¡£;;;;;;;;;;;;;x
+castle_appreciate;·â½¨ÁìÖ÷ºÃ¸Ğ;;;;;;;;;;;;;x
+castle_appreciate_desc;ÄãµÄ×Ü¹ÜµÄÍâ½»¼¼ÄÜÊ¹¸ÃÊ¡µÄ·â½¨ÁìÖ÷¶ÔÄã¸ü¼Ó¸Ğ¼¤¡£;;;;;;;;;;;;;x
+troops_likes_marshal;ÌáÉıÊ¿Æø;;;;;;;;;;;;;x
+troops_increases;¶¯Ô±ÓëÑµÁ·;;;;;;;;;;;;;x
+steward_taxincome;Ìá¸ßË°ÊÕÊÕÈë;;;;;;;;;;;;;x
+steward_revoltrisk;¹Ü¼Ò°²¸§Å©Ãñ;;;;;;;;;;;;;x
+increase_arrest_chance;¼ÓÅÉ³ÇÕò¿´ÊØ;;;;;;;;;;;;;x
+increase_assassinate_chance;°µÉ±¼Æ»®;;;;;;;;;;;;;x
+anglosaxon_settlement;°»¸ñÂ³-Èö¿ËÑ·¶¨¾Óµã;;;;;;;;;;;;;x
+tribal_settlements;²¿Âä¶¨¾Óµã;;;;;;;;;;;;;x
+brythonic_settlements;Brythonic Settlements;;;;;;;;;;;;;x
+brythonic_settlements_desc;This province has been settled by Britons fleeing from war and civil strife in their homeland.;;;;;;;;;;;;;x
+brythonic_settlements_foreign;Brythonic Settlements;;;;;;;;;;;;;x
+brythonic_settlements_foreign_desc;This province has been settled by Britons fleeing from war and civil strife in their homeland.;;;;;;;;;;;;;x
+large_brythonic_settlements;Large Brythonic Settlements;;;;;;;;;;;;;x
+large_brythonic_settlements_desc;This province has been settled by a large number of Britons fleeing from war and civil strife in their homeland.;;;;;;;;;;;;;x
+large_brythonic_settlements_foreign;Large Brythonic Settlements;;;;;;;;;;;;;x
+large_brythonic_settlements_desc_foreign;This province has been settled by a large number of Britons fleeing from war and civil strife in their homeland.;;;;;;;;;;;;;x
+lightly_depopulated;Lightly Depopulated;;;;;;;;;;;;;x
+lightly_depopulated_desc;This province has been somewhat depopulated by people fleeing war and disease for a safer home elsewhere.;;;;;;;;;;;;;x
+depopulated;Depopulated;;;;;;;;;;;;;x
+depopulated_desc;Fields lie empty and towns abandoned as war, disease, and civil strife has led to massive emigration and the depopulation of this province.;;;;;;;;;;;;;x
+depopulated_anglia;Depopulated;;;;;;;;;;;;;x
+depopulated_anglia_desc;Emigration across the sea to Britannia has left much of this province depopulated.;;;;;;;;;;;;;x
+heavily_depopulated_anglia;Hevaily Depopulated;;;;;;;;;;;;;x
+heavily_depopulated_anglia_desc;Virtually all of the province's population has left to seek new lands and homes in Britannia, leaving it mostly empty and open to foreign settlers.;;;;;;;;;;;;;x
+depopulated_1;Minor Depopulation;Dépopulation mineure;Geringer Bevölkerungsverlust;;Despoblación menor;;;;;;;;;x
+depopulated_1_desc;This county has been depopulated to a minor extent as a result of an epidemic or migration. When conditions improve it will repopulate quickly.;La population de ce comté a chuté suite à une épidémie. Quand les maladies ne le frapperont plus, celui-ci se repeuplera rapidement.;Aufgrund einer Epidemie ging die Bevölkerungsanzahl in dieser Provinz leicht zurück. Sobald die Krankheiten in dieser Provinz ausgemerzt sind, wird sich die Bevölkerung schnell erholen.;;Esta provincia ha sido despoblada a escala menor a causea de una epidemia. Cuando la enfermedad deje la provincia, se repoblará rápidamente.;;;;;;;;;x
+depopulated_2;Significant Depopulation;Dépopulation significative;Bedeutsamer Bevölkerungsverlust;;Despoblación significativa;;;;;;;;;x
+depopulated_2_desc;This county has been significantly depopulated as a result of an epidemic or significant migration. When conditions improve it will repopulate over several years.;La population de ce comté a chuté modérément suite à une épidémie. Quand les maladies ne le frapperont plus, celui-ci se repeuplera pendant plusieurs années.;Aufgrund einer Epidemie ging die Bevölkerungsanzahl in dieser Provinz erheblich zurück. Sobald die Krankheiten in dieser Provinz ausgemerzt sind, wird sich die Bevölkerung im Lauf einiger Jahre erholen.;;Esta provincia ha sido significativamente despoblada a causa de una epidemia. Cuando la enfermedad deje la provincia, se repoblará al cabo de unos años.;;;;;;;;;x
+depopulated_3;Severe Depopulation;Forte dépopulation;Schwerwiegender Bevölkerungsverlust;;Despoblación grave;;;;;;;;;x
+depopulated_3_desc;This county has been depopulated to a severe extent as a result of an epidemic or substantial migration. When conditions improve it will take many years to repopulate.;La population de ce comté a chuté fortement suite à une épidémie. Quand les maladies ne le frapperont plus, celui-ci se repeuplera pendant de nombreuses années.;Aufgrund einer Epidemie ging die Bevölkerungsanzahl in dieser Provinz extrem zurück. Sobald die Krankheiten in dieser Provinz ausgemerzt sind, wird sich die Bevölkerung nur über viele Jahre hinweg erholen.;;Esta provincia se ha despoblado muy gravemente a causa de una epidemia. Cuando la enfermedad deje la provincia, llevará muchos años hasta repoblarse.;;;;;;;;;x
+#OPINION MODIFIERS;;;;;;;;;;;;;x
+opinion_left_to_rot;¹ØÔÚ¼àÓüÀï¸¯ÀÃ;;;;;;;;;;;;;x
+opinion_looted_holding;ÂÓ¶áÁìµØ;;;;;;;;;;;;;x
+opinion_razed_holding;½«ÁìµØÒÄÎªÆ½µØ;;;;;;;;;;;;;x
+devious_plotter;½Æ»«µÄÒõÄ±¼Ò;;;;;;;;;;;;;x
+opinion_plot_help;Íâ½»×ËÌ¬;;;;;;;;;;;;;x
+pope_heathen_removal_approve;Çå³ıÒé»áÖĞµÄÒì½ÌÍ½;;;;;;;;;;;;x
+pope_heathen_removal_approve_2;ÇıÖğÒì½ÌÍ½;;;;;;;;;;;;x
+pope_heathen_removal_approve_3;¹ØÑºÒì½ÌÍ½;;;;;;;;;;;;x
+resentful_of_my_behaviour;Ô¹ºŞ;;;;;;;;;;;;;x
+force_vassalized;Ğ§ÖÒĞûÊÄ;;;;;;;;;;;;;x
+opinion_count_wrong_gov_vs_liege;²»Í¬Õş¸®ĞÎÊ½;;;;;;;;;;;;x
+opinion_job_security_concerns;Òé»áÖ°Î»±ä¶¯;;;;;;;;;;;;;x
+opinion_realm_foreign_culture;ÖÖ×å²îÒì;;;;;;;;;;;;;x
+opinion_realm_related_culture;ÎÄ»¯²îÒì;;;;;;;;;;;;;x
+opinion_foreign_culture;ÖÖ×å²îÒì;;;;;;;;;;;;;x
+opinion_related_culture;ÎÄ»¯²îÒì;;;;;;;;;;;;;x
+opinion_infidel;×Ú½Ì²îÒì;;;;;;;;;;;;;x
+opinion_heretic;ĞÅÑö´íÎóÕß;;;;;;;;;;;;;x
+opinion_related_religion;×Ú½Ì²îÒì;;;;;;;;;;;;;x
+opinion_stolen_sword;µÁÈ¡Excalibur;;;;;;;;;;;;;x
+opinion_killed_family;É±º¦ÁËÒ»¸ö¼ÒÍ¥³ÉÔ±;;;;;;;;;;;;;x
+opinion_denounced_mithraism;·Ï³ıÃÜÌØÀ­ĞÖµÜ»á;;;;;;;;;;;;;x
+opinion_father;ÎÒµÄ¸¸Ç×;;;;;;;;;;;;;x
+opinion_mother;ÎÒµÄÄ¸Ç×;;;;;;;;;;;;;x
+opinion_sibling;ÎÒµÄĞÖµÜæ¢ÃÃ;;;;;;;;;;;;;x
+opinion_brother;ÎÒµÄĞÖµÜ;;;;;;;;;;;;;x
+opinion_sister;ÎÒµÄ½ãÃÃ;;;;;;;;;;;;;x
+opinion_grandfather;ÎÒµÄ×æ¸¸/Íâ×æ¸¸;;;;;;;;;;;;;x
+opinion_grandmother;ÎÒµÄ×æÄ¸/Íâ×æÄ¸;;;;;;;;;;;;;x
+opinion_child;ÎÒµÄº¢×Ó;;;;;;;;;;;;;x
+opinion_grandchild;ÎÒµÄËï×Ó/ËïÅ®;;;;;;;;;;;;;x
+opinion_uncle;ÎÒµÄÊå²®/¾Ë¸¸;;;;;;;;;;;;;x
+opinion_aunt;ÎÒµÄ¹ÃÄ¸/ÒÌÄ¸;;;;;;;;;;;;;x
+opinion_nephew;ÎÒµÄÖ¶×Ó/ÍâÉû;;;;;;;;;;;;;x
+opinion_niece;ÎÒµÄÖ¶Å®/ÍâÉûÅ®;;;;;;;;;;;;;x
+opinion_cousin;ÎÒµÄÌÃ±íÇ×;;;;;;;;;;;;;x
+opinion_husband;ÎÒµÄÕÉ·ò;;;;;;;;;;;;;x
+opinion_wife;ÎÒµÄÆŞ×Ó;;;;;;;;;;;;;x
+opinion_father_in_law;ÎÒµÄÔÀ¸¸/¹«¹«;;;;;;;;;;;;;x
+opinion_mother_in_law;ÎÒµÄÔÀÄ¸/ÆÅÆÅ;;;;;;;;;;;;;x
+opinion_son_in_law;ÎÒµÄÅ®Ğö;;;;;;;;;;;;;x
+opinion_daughter_in_law;ÎÒµÄ¶ùÏ±;;;;;;;;;;;;;x
+opinion_brother_in_law;ÎÒµÄÒöĞÖµÜ;;;;;;;;;;;;;x
+opinion_sister_in_law;ÎÒµÄÒö½ãÃÃ;;;;;;;;;;;;;x
+opinion_betrayed_britannia;±³ÅÑ²»ÁĞµßÄáÑÇ;;;;;;;;;;;;;x
+opinion_refused_sacea;¾Ü¾ø³öÏ¯Sacea;;;;;;;;;;;;;x
+opinion_held_sacea;¾Ù°ìSacea;;;;;;;;;;;;;x
+opinion_inspiring_leader;Î°´óÁìĞä;;;;;;;;;;;;;x

@@ -1,0 +1,28 @@
+obj_become_independent_title;独立;;;;;;;;;;;;;x
+obj_become_independent_desc;[This.GetTitledFirstName]脱离[This.GetHerHis]封君，获得独立。;;;;;;;;;;;;;x
+obj_find_lover_title;坠入爱河;;;;;;;;;;;;;x
+obj_find_lover_desc;[This.GetTitledFirstName]渴望浪漫与激情。;;;;;;;;;;;;;x
+obj_befriend_liege_title;成为封君的朋友;;;;;;;;;;;;;x
+obj_befriend_liege_desc;[This.GetTitledFirstName]想要和[This.GetHerHis]封君搞好关系。;;;;;;;;;;;;;x
+obj_win_the_war_title;赢得战争;;;;;;;;;;;;;x
+obj_win_the_war_desc;[This.GetTitledFirstName]想要赢得战争。;;;;;;;;;;;;;x
+won_the_war;我打赢了！;;;;;;;;;;;;;x
+won_the_war_desc;此人最近赢得了一场战争。;;;;;;;;;;;;;x
+obj_become_a_formidable_fighter_title;成为一名超凡的战士;;;;;;;;;;;;;x
+obj_become_a_formidable_fighter_desc;[This.GetTitledFirstName]想要成为一名杰出的战士。;;;;;;;;;;;;;x
+obj_reign_20_years_title;在位20年;;;;;;;;;;;;;x
+obj_reign_20_years_desc;[This.GetTitledFirstName]渴望统治长达20年之久。;;;;;;;;;;;;;x
+obj_peace_10_year_title;和平统治10年;;;;;;;;;;;;;x
+obj_peace_10_year_desc;[This.GetTitledFirstName]想要他的国家保持10年的和平状态。;;;;;;;;;;;;;x
+10_years_peace_TT;和平统治了 10 年;;;;;;;;;;;;;x
+obj_lead_troops_title;指挥部队作战;;;;;;;;;;;;;x
+obj_lead_troops_desc;[This.GetTitledFirstName]想要在战场上证明他的价值。;;;;;;;;;;;;;x
+obj_great_council_title;聚集优秀的议员;;;;;;;;;;;;;x
+obj_great_council_desc;[This.GetTitledFirstName]想要聚集已知世界最优秀的人才，让他们在[This.GetHerHis]议会任职。;;;;;;;;;;;;;x
+obj_improve_intrigue_desc;[This.GetTitledFirstName]想要提升[This.GetHerHis]阴谋能力，因为它少得可怜 (低于 10).;;;;;;;;;;;;;x
+obj_improve_diplomacy_desc;[This.GetTitledFirstName]想要提升[This.GetHerHis]外交能力，因为它少得可怜 (低于 10).;;;;;;;;;;;;;x
+obj_improve_learning_desc;[This.GetTitledFirstName]想要提升[This.GetHerHis]学习能力，因为它少得可怜 (低于 10).;;;;;;;;;;;;;x
+obj_improve_stewardship_desc;[This.GetTitledFirstName]想要提升[This.GetHerHis]管理能力，因为它少得可怜 (低于 10).;;;;;;;;;;;;;x
+obj_improve_martial_desc;[This.GetTitledFirstName]想要提升[This.GetHerHis]军事能力，因为它少得可怜 (低于 10).;;;;;;;;;;;;;x
+obj_become_druid_title;成为德鲁伊;;;;;;;;;;;;;x
+obj_become_druid_desc;[This.GetTitledFirstName]想要提升[This.GetHerHis]学习能力，并成为一个德鲁伊。;;;;;;;;;;;;;x

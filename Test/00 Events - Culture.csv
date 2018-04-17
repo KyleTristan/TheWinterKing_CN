@@ -1,0 +1,33 @@
+EVTDESC55000;[Root.GetName]的[Root.Culture.GetName]在过去的几年里缓慢地改变他们的习惯，大多数人已经接受了[Root.Holder.Culture.GetName]的生活方式和语言。;;;;;;;;;;;;;x
+EVTOPTA55000;很好。;;;;;;;;;;;;;x
+EVTDESC55001;[Root.GetName]的[Root.Culture.GetName]对我作为统治者深感不满，还觉得我是个外国人，然而我要靠这些人去收我的税，补充我的军队。这根本行不通。我认为是时候从本国带一些移民过来帮着解决这里的事了。;;;;;;;;;;;;;x
+EVTDESC190041;我开始深受[Root.Capital.GetName]的文化的浸染，言行举止穿着打扮都像个本地人。;;;;;;;;;;;;;x
+EVTOPTA190041;我已成为[Root.Capital.Culture.GetName]。;;;;;;;;;;;;;x
+EVTDESC55002;随着[Root.GetName]被日耳曼部落所征服，罗马人的城市化文明正处于衰退之中。城市正在被废弃，基础设施也在朽坏，该省的人口都在向乡村流动，部落体系再次登上历史舞台。;;;;;;;;;;;;;x
+EVTOPTA55002;这是我们人民的道路。;;;;;;;;;;;;;x
+EVTDESC55010;After years of foreign rule, the [Root.Culture.GetName] people settled in [Root.GetName] have slowly lost their separate identity and have assimilated into the larger Romano-Gallic culture.;;;;;;;;;;;;;x
+EVTDESC55010_1;After years of Roman rule, the [Root.Culture.GetName] people settled in [Root.GetName] have slowly lost their separate identity and have assimilated into the larger Romano-Gallic culture.;;;;;;;;;;;;;x
+EVTOPTA55010;Very well then.;;;;;;;;;;;;;x
+EVTDESC55011;After years of Celtic rule, the [Root.Culture.GetName] people settled in [Root.GetName] have slowly lost their separate identity and have assimilated into the larger Armorican culture.;;;;;;;;;;;;;x
+EVTDESC55011_1;After years of Celtic rule, the [Root.Culture.GetName] people settled in [Root.GetName] have slowly lost their separate identity and have assimilated into the larger Breton culture.;;;;;;;;;;;;;x
+EVTOPTA55011;Very well then.;;;;;;;;;;;;;x
+EVTDESC55012;After years of Roman rule, the [Root.Culture.GetName] people settled in [Root.GetName] have slowly lost their separate identity and have assimilated into the larger Romano-British culture.;;;;;;;;;;;;;x
+EVTOPTA55012;Very well then.;;;;;;;;;;;;;x
+EVTDESC55013;After years of foreign rule, the [Root.Culture.GetName] people settled in [Root.GetName] have slowly lost their separate Celtic identity and have assimilated into the larger Romano-Gallic culture.;;;;;;;;;;;;;x
+EVTOPTA55013;Very well then.;;;;;;;;;;;;;x
+EVTDESC55014;After years of Roman rule, the [Root.Culture.GetName] people settled in [Root.GetName] have slowly lost their separate identity and have assimilated into the larger Romano-Germanic culture.;;;;;;;;;;;;;x
+EVTOPTA55014;Very well then.;;;;;;;;;;;;;x
+EVTDESC55020;With the fall of the Romanized cities of Lloegyr, the Roman way of life is fading away in Cymry as well. The Latin tongue is slowly disappearing from the towns of [Root.GetName] as the Romans of the region assimilate into the larger Briton culture.;;;;;;;;;;;;;x
+EVTOPTA55020;The legacy of Rome is fading away...;;;;;;;;;;;;;x
+EVTDESC55030;Our people came to Britannia as a mix a different peoples, tribes of Angles, Saxons, Jutes and Frisians alike crossing the German Sea to settle on the island we have made ours. As our people settled, they mixed together, blurring the lines between the tribes while forming a distinct culture from our cousins on the continent. Now, the people of [Root.GetName] cannot be said to be purely [Root.Culture.GetName], but something else - Anglo-Saxon.;;;;;;;;;;;;;x
+EVTOPTA55030;A new nation is being built.;;;;;;;;;;;;;x
+EVTDESC55031;While we were once divided into Angles, Saxons, Jutes and Frisians, the people of our lands have been mixing together, blurring the lines between our tribes while forming a distinct, seperate culture from our cousins across the German Sea. It is time to adopt this new identity, as not just merely [Root.Culture.GetName], but Anglo-Saxon.;;;;;;;;;;;;;x
+EVTOPTA55031;Our tribes will become one.;;;;;;;;;;;;;x
+EVTDESC55040;Influence from the Franks to the south and the solidification of the Frisian identity has caused a distinct shift in the culture of [Root.GetName]. The Frisian culture and tongue have continued to develop, and have now become more distinct from their Saxon cousins to the east and their Anglo-Saxon brothers in Britannia.;;;;;;;;;;;;;x
+EVTOPTA55040;Interesting news.;;;;;;;;;;;;;x
+EVTDESC55041;You are beginning to notice a shift in the Frisian identity of your lands and court. No longer just one of many Ingvaeonic peoples along the German Sea, we are now embracing a stronger, more distinct Frisian culture and identity.;;;;;;;;;;;;;x
+EVTOPTA55041;A new kind of Frisian.;;;;;;;;;;;;;x
+EVTDESC55050;The influence of the Franks to the west, the Norse to the North, and the Irminonic peoples to the south is causing a cultural shift in [Root.GetName]. A more distinctive Saxon culture is developing in the region, and the Saxons are becoming increasingly divergent from their Ingvaeonic cousins to the west.;;;;;;;;;;;;;x
+EVTOPTA55050;Interesting news.;;;;;;;;;;;;;x
+EVTDESC55051;The speech and culture of the Frisians to the west and our brothers in Britannia no longer seem as similar and familiar as they once were. As the Saxon culture of your lands become increasingly divergent, no longer just one of many Ingvaeonic peoples, we are now embracing a stronger, more distinct Saxon culture and identity.;;;;;;;;;;;;;x
+EVTOPTA55051;A new kind of Saxon.;;;;;;;;;;;;;x

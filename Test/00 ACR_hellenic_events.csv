@@ -1,0 +1,76 @@
+# #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+# #Event/decision/modifier definitions;;;;;;;;;;;;;;x
+# ###### Hellenic revival;;;;;;;;;;;;;;x
+# nick_the_apostate;the Apostate;;;;;;;;;;;;;x
+# opinion_no_hellenic_state_religion;Did not establish a Hellenic state religion;N'a pas choisi l'hell閚isme comme religion d'閠at;;;;;;;;;;;;x
+# opinion_no_forced_hellenic_state_religion;Did not enforce a Hellenic state religion;N'a pas forc?l'hell閚isme en tant que religion d'閠at;;;;;;;;;;;;x
+# opinion_hellenic_state_religion;Established a Hellenic state religion;A 閠abli l'hell閚isme comme religion d'閠at;;;;;;;;;;;;x
+# opinion_forced_hellenic_state_religion;Enforced a Hellenic state religion;A forc?l'hell閚isme comme religion d'閠at;;;;;;;;;;;;x
+# opinion_adopted_hellenic_state_religion;Adopted the Hellenic state religion;A adopt?l'hell閚isme d'閠at;;;;;;;;;;;;x
+# opinion_rejected_hellenic_state_religion;Rejected the Hellenic state religion;A rejet?l'hell閚isme d'閠at;;;;;;;;;;;;x
+# EVTDESCancrel.2100;Having long studied the old Greek and Roman classics you are wondering if their religious views aren't better than your own.;Apr鑣 avoir longtemps 閠udi?les oeuvres classiques grecques et romaines, vous vous demandez si leur religion n'閠ait pas meilleur que la votre.;;;;;;;;;;;;x
+# EVTOPTAancrel.2100;Yes, the old religion was better;Oui, l'ancienne religion 閠ait meilleure;;;;;;;;;;;;x
+# EVTOPTBancrel.2100;No, I'm secure in my faith;Non, je suis convaincu dans ma foi;;;;;;;;;;;;x
+# EVTDESCancrel.2101;As you are sitting down to dinner, your [Root.GetLordSpiritualName] comes up to you and tells you that [From.GetBestName] has strayed from the true faith. Claiming to have found enlightenment in the classical texts of ancient Rome and Greece, [From.GetSheHe] has forsaken [Root.Religion.GetRandomGodName] and professed his devotion to [From.Religion.GetRandomGodName].;Alors que vous vous asseyez pour d頽er, votre [Root.GetLordSpiritualName] s'approche et vous explique que [From.GetBestName] s'est 閏art?de la vraie foi. Pr閠endant avoir trouv?l'illumination dans les textes classiques de la Rome et Gr鑓e antique, [From.GetSheHe] a d閘aiss?[Root.Religion.GetRandomGodName] et proclam?sa d関otion ?[From.Religion.GetRandomGodName].;;;;;;;;;;;;x
+# EVTOPTAancrel.2101;My [From.GetSonDaughter] did WHAT?;[From.GetSonDaughter] a fait QUOI ?;;;;;;;;;;;;x
+# EVTOPTBancrel.2101;[From.GetSheHe] did WHAT?;[From.GetSheHe] a fait QUOI ?;;;;;;;;;;;;x
+# EVTDESCancrel.2102;With the restoration of the religious institutions of old, you have the opportunity to re-establish the old imperial state religion once again, but your Christian vassals are not likely to appreciate such a decree.;Suite ?la restauration des institutions religieuses du pass? vous avez l'opportunit?de r閠ablir l'ancienne religion imp閞iale ?nouveau, mais vos vassaux chr閠iens ne vont probablement pas appr閏ier un tel d閏ret.;;;;;;;;;;;;x
+# EVTOPTAancrel.2102;We must restore the glory of the old faith!;Nous devons restaurer la gloire de foi antique !;;;;;;;;;;;;x
+# EVTTOOLTIPAancrel.2102;Parts of the Empire will convert to the re-established imperial state religion.\n;Des parties de l'Empire vont se convertir ?la religion imp閞iale r閠ablie.\n;;;;;;;;;;;;x
+# EVTOPTBancrel.2102;Let my vassals choose their own faith.;Laissons me vassaux choisir leur propre foi.;;;;;;;;;;;;x
+# EVTDESCancrel.2103;[From.GetTitledName] has endeavored to restore the ancient faith to the Empire, and demands that you convert.;[From.GetTitledName] s'efforce de restaurer la foi antique de l'Empire, et exige votre conversion.;;;;;;;;;;;;x
+# EVTOPTAancrel.2103;Glory to [From.Religion.GetRandomGodName] and the Empire!;Gloire ?[From.Religion.GetRandomGodName] et ?l'Empire !;;;;;;;;;;;;x
+# EVTOPTBancrel.2103;May [Root.Religion.GetRandomGodName] protect us.;Que [Root.Religion.GetRandomGodName] nous prot鑗e.;;;;;;;;;;;;x
+###### Pontifex Maximus;;;;;;;;;;;;;;x
+pontifex_restored;祭司职恢复;;;;;;;;;;;;;x
+recreate_pontificate;恢复最高祭司职;;;;;;;;;;;;;x
+recreate_pontificate_desc;重建罗马信仰的祭司制度，并自封为最高祭司！;;;;;;;;;;;;;x
+EVTNAMEancrel.2104;最高祭司职的回归;;;;;;;;;;;;;x
+EVTDESCancrel.2104;在君士坦丁大帝将基督教传入罗马之后经历了几个世纪，希腊宗教作为[From.PrimaryTitle.GetName]的国教回归了，[From.GetTitledFirstName]已下令重建大祭司团。\n\n最高祭司将成为罗马世界的最高宗教权威，n最高祭司长将成为罗马世界的最高宗教权威，从未来军事远征的祝福到贞女及祭司的任命皆由其掌管。这个宗教一度衰落，而如今，回归的帝国罗马信仰即将登上舞台。;;;;;;;;;;;;;x
+EVTOPTAancrel.2104;喜闻乐见！;R閖ouissons-nous !;Frohlocket!;;egocijaos!;;;;;;;;;x
+EVTOPTBancrel.2104;异教徒！;Pa飁ns !;Ketzer!;;aganos!;;;;;;;;;x
+# ###### Roman revival;;;;;;;;;;;;;;x
+# was_refused_roman_revival;Roman revival refused;S'est vu refus?la renaissance romaine;;;;;;;;;;;;x
+# was_allowed_roman_revival;Roman revival allowed;S'est vu autoris?la renaissance romaine;;;;;;;;;;;;x
+# refused_roman_revival;Refused Roman revival;A refus?la renaissance romaine;;;;;;;;;;;;x
+# allowed_roman_revival;Allowed Roman revival;A autoris?la renaissance romaine;;;;;;;;;;;;x
+# EVTDESCancrel.2152;As you are holding court, [From.GetTitledFirstName] approaches you with a petition supported by several prominent burghers in [From.PrimaryTitle.GetName], asking for your permission to restore the rights and customs befitting citizens of a Roman city.;Tandis que vous recevez la cour, [From.GetTitledFirstName] vous approche avec une p閠ition sign閑 par plusieurs citoyens 閙inents de [From.PrimaryTitle.GetName], demandant la permission de restaurer les droits et coutumes convenant aux citoyens d'une ville romaine.;;;;;;;;;;;;x
+# EVTOPTAancrel.2152;Of course, Roman customs are far superior to [From.Capital.Culture.GetName]!;Bien sur, les coutumes romaines sont bien meilleures que [From.Capital.Culture.GetName] !;;;;;;;;;;;;x
+# EVTOPTBancrel.2152;If that is the will of the people, so be it.;Si c'est le volont?du peuple, qu'il en soit ainsi.;;;;;;;;;;;;x
+# EVTOPTCancrel.2152;No, [Root.Culture.GetName] customs are superior and should be maintained!;Non, les coutumes [Root.Culture.GetName] sont meilleures et doivent 阾re conserv閑s !;;;;;;;;;;;;x
+# EVTOPTDancrel.2152;No, I will not have any walking relics in my realm!;Non, je ne veut pas de reliques vivantes sur mon domaine !;;;;;;;;;;;;x
+# EVTOPTAancrel.2153;An excellence idea, let's get started immediately!;Une excellente id閑, commen鏾ns imm閐iatement !;;;;;;;;;;;;x
+# EVTOPTBancrel.2153;You'll have my permission;Vous aurez ma permission.;;;;;;;;;;;;x
+# EVTDESCancrel.2154;[From.GetTitledFirstName] has approved the petition of [From.From.GetTitledFirstName] and allowed the burghers in [From.From.PrimaryTitle.GetName] to restore the rights and customs they think befitting citizens of a Roman city.;[From.GetTitledFirstName] a approuv?la p閠ition de [From.From.GetTitledFirstName] et autoris?les citoyens de [From.From.PrimaryTitle.GetName] ?restaurer les droits et coutumes qu'ils pensent convenables pour des citoyens d'une ville romaine.;;;;;;;;;;;;x
+# EVTOPTAancrel.2154;Excelent, let's get started immediately!;Excellent, mettons nous au travail tout de suite !;;;;;;;;;;;;x
+# EVTOPTBancrel.2154;Good for them, I guess...;C'est bon pour eux, je suppose...;;;;;;;;;;;;x
+# EVTOPTCancrel.2154;Great news!;Excellente nouvelle !;;;;;;;;;;;;x
+# EVTDESCancrel.2156;The burghers in [From.From.PrimaryTitle.GetName] have chosen to restore most customs practiced in old Roman times. With time, Roman culture may spread to the whole province.;Les citoyens de [From.From.PrimaryTitle.GetName] ont choisi de restaurer la plupart des coutumes pratiqu閑s au temps de la Rome antique. Avec du temps, la culture romaine pourrait se propager ?toute la province.;;;;;;;;;;;;x
+# EVTOPTAancrel.2156;Perhaps I should do the same;Peut 阾re je devrais faire de m阭e;;;;;;;;;;;;x
+# EVTDESCancrel.2158;With the restoration of Roman customs in [From.PrimaryTitle.GetName] the populace in [From.Capital.GetName] have embraced Roman culture.;Suite a la restauration de la culture romaine ?[From.PrimaryTitle.GetName], la population de [From.Capital.GetName] a adopt?la culture romaine.;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;x
+EVTDESCancrel.2110;因为没有朱庇特女祭司协助你履行职责，古老的宗教法律规定你必须退职。;;;;;;;;;;;;;x
+EVTDESCancrel.2111;因为没有马尔斯女祭司协助你履行职责，古老的宗教法律规定你必须退职。;;;;;;;;;;;;;x
+EVTDESCancrel.2112;因为没有奎里努斯女祭司协助你履行职责，古老的宗教法律规定你必须退职。;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+nominate_vestalis_decision;将[Root.GetTitledFirstName]提名为维斯塔贞女;;;;;;;;;;;;;x
+nominate_vestalis_decision_desc;提名[Root.GetFirstName]来为维斯塔女神竭诚侍奉30年。如果提名被接受，她将放弃所有在世俗权力上的宣称。;;;;;;;;;;;;;x
+opinion_nominated_vestalis;提名了一位维斯塔贞女;;;;;;;;;;;;;x
+EVTDESCancrel.2121;你为侍奉维斯塔而奉献了30年的生命，是时候从公职岗位退休了。;;;;;;;;;;;;;x
+EVTDESCancrel.2124;你的一位封臣提名了一个孩子去侍奉维斯塔。;;;;;;;;;;;;;x
+EVTOPTAancrel.2124;任命她为维斯塔贞女;;;;;;;;;;;;;x
+EVTOPTBancrel.2124;我可以找到更好的人;;;;;;;;;;;;;x
+EVTOPTCancrel.2124;恐怕维斯塔祭司团里没有空缺职位。;;;;;;;;;;;;;x
+EVTDESCancrel.2240;A local Augur has come to your court to perform a public Auguria, the ceremony is held in a plain outside the castle walls and while approaching clouds make you worrisome, the Augur will not postpone it. After observing the entrails of many sacrifices, the Augur is about to proclaim the will of the gods when a bolt of lightning strikes him violently!;;;;;;;;;;;;;x
+EVTOPTAancrel.2240;It seems the gods spoke for themselves;;;;;;;;;;;;;x
+EVTOPTBancrel.2240;Am I next?;;;;;;;;;;;;;x
+EVTDESCancrel.2241;While watching the latest play from a local philosopher, you notice that some of the actors are completely drunk. This is an insult to your honor and to the art of the Theatre, though the man in charge assures you they will be taken care of, it is your duty to take charge.;;;;;;;;;;;;;x
+EVTOPTAancrel.2241;Kick them out!;;;;;;;;;;;;;x
+EVTOPTBancrel.2241;Actually, this strengthens the play;;;;;;;;;;;;;x
+ancrel.2010.title;The Sacred Band Founded;La Bande Sacr閑 Fond閑;The Sacred Band Founded;;The Sacred Band Founded;;;;;;;;;x
+ancrel.2010.desc;We have founded the Sacred Band, a closed brotherhood of soldiers whose iron discipline shall defend Hellenic believers everywhere.;Nous avons fond?la Bande Sacr閑, une fraternit?de soldats tri閟 sur le volet dont la discipline de fer viendra ?la d閒ense des disciples hell閚iques o?qu'ils soient.;We have founded the Sacred Band, a closed brotherhood of soldiers whose iron discipline shall defend Hellenic believers everywhere.;;We have founded the Sacred Band, a closed brotherhood of soldiers whose iron discipline shall defend Hellenic believers everywhere.;;;;;;;;;x
+ancrel.2010.a;Excellent...;;;;;;;;;;;;;x
+ancrel.2011.title;The Sacred Band;La Bande Sacr閑;The Sacred Band Founded;;The Sacred Band Founded;;;;;;;;;x
+ancrel.2011.desc;The Sacred Band are a brotherhood of soldiers noted for their stalwart discipline and unwavering resolution who have sworn to never rest until the Gods of Olympus are granted the respect they are due.;La Bande Sacr閑 est une fraternit?de soldats connus pour leur discipline, leur loyaut?et leur d閠ermination sans faille, qui ont fait le serment de ne jamais trouver le repos jusqu'?ce que les Dieulx de l'Olympe re鏾ivent le respect qu'ils m閞itent.;The Sacred Band are a brotherhood of soldiers noted for their stalwart discipline and unwavering resolution who have sworn to never rest until the Gods of Olympus are granted the respect they are due.;;The Sacred Band are a brotherhood of soldiers noted for their stalwart discipline and unwavering resolution who have sworn to never rest until the Gods of Olympus are granted the respect they are due.;;;;;;;;;x
+ancrel.2011.a;Very good!;;;;;;;;;;;;;x
+ancrel.2011.b;This is grave news...;;;;;;;;;;;;;x

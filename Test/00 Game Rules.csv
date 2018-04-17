@@ -1,0 +1,8 @@
+RULE_EPIDEMICS;查士丁尼瘟疫;;;;;;;;;;;;;x
+RULE_EPIDEMICS_HISTORICAL_DESC;查士丁尼瘟疫将出现在公元540年并遵循其历史路线，肆虐于高卢和不列颠尼亚。;;;;;;;;;;;;;x
+RULE_EPIDEMICS_DELAYED_DYNAMIC_DESC;查士丁尼瘟疫最早将出现于公元600年，并且至少是在游戏开始25年后。在一次重大疫情爆发后，疫病会流行开来。;;;;;;;;;;;;;x
+RULE_EPIDEMICS_DYNAMIC_DESC;查士丁尼瘟疫最早将出现在游戏开始130年后，而且也许会在游戏开始250年后再次出现。在一次重大疫情爆发后，疫病会流行开来。;;;;;;;;;;;;;x
+RULE_EPIDEMICS_DEADLY_DESC;查士丁尼瘟疫将频繁地出现，并且极其致命。警告: 这会使游戏开启地狱难度！;;;;;;;;;;;;;x
+RULE_RAIDING_OFF_DESC;不允许人物劫掠。警告: 这也禁止了所有的蛮族劫掠，不推荐。;;;;;;;;;;;;;x
+RULE_IFM_RESTRICTED_DESC;无关联宗教的统治者绝对不会接受提亲。警告: 此选项不契合于时代，不推荐。;;;;;;;;;;;;;x
+RULE_DYNASTY_TITLE_NAMES_ON_DESC;盖尔文化以统治王朝来命名他们的头衔 (e.g. Dál nAraide, Uí Liathain, etc.);;;;;;;;;;;;;x

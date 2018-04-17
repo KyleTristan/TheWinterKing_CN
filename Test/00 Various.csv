@@ -1,0 +1,472 @@
+HINT_SPLASH_TITLE;不列颠尼亚 479 AD - “凛冬王”;;;;;;;;;;;;x
+HINT_SPLASH_START;作为一位新的封建领主，你的当务之急是拥有一个继承人。如果当你的角色死亡时你还没有一个合法继承人，游戏就会结束。其他需要关注的紧急事项将作为警报出现在屏幕上方。;;;;;;;;;;;;x
+HINT_SPLASH_TIME;你可以在游戏暂停或时钟运行时发布命令。点击右上角的日期或按下空格键，来暂停或继续游戏。使用加减标志来加速时间流逝或放慢之。;;;;;;;;;;;;x
+HINT_SPLASH_VICTORY;除非你的家族绝嗣或你失去了最后一片土地，否则游戏将在公元867年结束，你可以将你的成绩与真实历史中的其他王朝进行比较。;;;;;;;;;;;;x
+HINT_SPLASH_TEXT;在“凛冬王”中，你扮演一位黑暗时代的北欧封建领主。你的目标是为自己获得尽可能多的土地和威望，以及继承人。你可以在左上角看到你的头像。点击头像来知道你的角色是谁。;;;;;;;;;;;;x
+HINT_SPLASH_MAP;战役发生在一张全3D地图上。你可以用鼠标滚轮进行放大缩小。按住滚轮移动鼠标以进行旋转。按下退格键Backspace重置地图。;;;;;;;;;;;;x
+recently_conquered;新近征服;;;;;;;;;;;;x
+new_administration;统治转变;;;;;;;;;;;;x
+obj_become_king_title;成为[This.Capital.Kingdom.GetName]国王;;;;;;;;;;;;x
+obj_become_king_desc;[This.GetTitledFirstName]想要成为[This.Capital.Kingdom.GetName]国王。;;;;;;;;;;;;x
+obj_become_king_tip;是[This.Capital.Kingdom.GetName]国王;;;;;;;;;;;;x
+obj_buddhist_stop_drinking_title;Stop Drinking;Fini la boisson;Entsagt dem Alkohl;; Deja de beber;;;;;;;;;x
+obj_buddhist_stop_drinking_desc;[This.GetTitledFirstName], as a devoted Manichean, is trying to learn to abandon [This.GetHerHis] harmful drinking habits.;[This.GetTitledFirstName], bouddhiste z閘? tente d'apprendre ?abandonner son penchant pour la boisson qui lui cause tant de souffrances.;[This.GetTitledFirstName] ist 黚erzeugter Buddhist und versucht, [This.GetHerHis]e sch鋎lichen Trinkgewohnheiten abzulegen.;;[This.GetTitledFirstName], como budista devoto/a, trata de aprender a abandonar [This.GetHerHis] da駃nos h醔itos de consumir bebidas alcoh髄icas.;;;;;;;;;x
+obj_buddhist_reject_empty_pleasures_title;Learn to Reject Empty Pleasures;Apprendre ?rejeter les plaisirs inutiles;Lernt, leere Vergn黦ungen abzulehnen;;Aprender a Rechazar Placeres Vac韔s;;;;;;;;;x
+obj_buddhist_reject_empty_pleasures_desc;[This.GetTitledFirstName], as a devoted Manichean, is trying to learn to reject emply pleasures.;[This.GetTitledFirstName], bouddhiste z閘? tente d'apprendre ?rejeter les plaisirs inutiles.;[This.GetTitledFirstName] ist 黚erzeugter Buddhist und versucht, leere Vergn黦ungen abzulehnen.;;[This.GetTitledFirstName], como budista devoto/a, trata de aprender a rechazar placeres vac韔s..;;;;;;;;;x
+obj_buddhist_abstain_sexual_excess_title;Learn to Abstain from Excesses of the Flesh;Apprendre ?s'abstenir des exc鑣 de la chair;Lernt, fleischlichen Exzessen zu entsagen;; Aprender a abstenerse de impulsos carnales.;;;;;;;;;x
+obj_buddhist_abstain_sexual_excess_desc;[This.GetTitledFirstName], as a devoted Manichean, is trying to learn to abstain from excesses of the flesh.;[This.GetTitledFirstName], bouddhiste z閘? tente d'apprendre ?s'abstenir des exc鑣 de la chair.;[This.GetTitledFirstName] ist 黚erzeugter Buddhist und versucht, fleischlichen Exzessen zu entsagen.;;[This.GetTitledFirstName], como budista devoto/a, trata de aprender a abstenerse de impulsos carnales.;;;;;;;;;x
+obj_buddhist_reject_cruelty_title;Reject Cruelty;Rejeter la cruaut?Lehnt Grausamkeit ab;; Rechazar la crueldad;;;;;;;;;x
+obj_buddhist_reject_cruelty_desc;[This.GetTitledFirstName], as a devoted Manichean, is trying to learn to reject cruelty.;[This.GetTitledFirstName], bouddhiste z閘? tente d'apprendre ?rejeter la cruaut?;[This.GetTitledFirstName] ist 黚erzeugter Buddhist und versucht, Grausamkeit abzulehnen.;; [This.GetTitledFirstName], como budista devoto/a, trata de aprender a rechazar la crueldad.;;;;;;;;;x
+obj_buddhist_temperance_food_title;Learn Temperance with Food;Apprendre ?mod閞er son app閠it;Lernt M溥igung beim Essen;; Aprender a ser moderado con la comida;;;;;;;;;x
+obj_buddhist_temperance_food_desc;[This.GetTitledFirstName], as a devoted Manichean, is trying to learn to eat without excess.;[This.GetTitledFirstName], bouddhiste z閘? tente d'apprendre ?manger sans exc鑣.;[This.GetTitledFirstName] ist 黚erzeugter Buddhist und versucht, beim Essen Ma?zu halten.;; [This.GetTitledFirstName], como budista devoto/a, trata de aprender a dejar de comer en exceso.;;;;;;;;;x
+obj_buddhist_reject_greed_title;Learn to Reject the Poison of Greed;Apprendre ?rejeter le poison de l'avarice;Lernt, das Gift der Gier abzulehnen;;Aprender a rechazar el veneno de la codicia;;;;;;;;;x
+obj_buddhist_reject_greed_desc;[This.GetTitledFirstName], as a devoted Manichean, is trying to learn to reject the poison that greed brings to the mind.;[This.GetTitledFirstName], bouddhiste z閘? tente d'apprendre ?rejeter ce poison de l'esprit qu'est l'avarice.;[This.GetTitledFirstName] ist 黚erzeugter Buddhist und versucht, die Vergiftung des Geistes durch Gier abzulehnen.;;[This.GetTitledFirstName], como budista devoto/a, trata de aprender a rechazar el veneno que la codicia trae a la mente.;;;;;;;;;x
+obj_buddhist_reject_envy_title;Learn to Reject Envy;Apprendre ?rejeter l'envie;Lernt, Neid abzulehnen;; Aprender a rechazar la envidia;;;;;;;;;x
+obj_buddhist_reject_envy_desc;[This.GetTitledFirstName], as a devoted Manichean, is trying to learn to reject the poison that envy brings to the mind.;[This.GetTitledFirstName], bouddhiste z閘? tente d'apprendre ?rejeter ce poison de l'esprit qu'est l'envie.;[This.GetTitledFirstName] ist 黚erzeugter Buddhist und versucht, die Vergiftung des Geistes durch Neid abzulehnen.;; [This.GetTitledFirstName], como budista devoto/a, trata de aprender a rechazar el veneno que la envidia trae a la mente.;;;;;;;;;x
+obj_buddhist_reject_hate_title;Learn to Reject Hate;Apprendre ?rejeter la haine;Lernt, Hass abzulehnen;; Aprender a rechazar el odio;;;;;;;;;x
+obj_buddhist_reject_hate_desc;[This.GetTitledFirstName], as a devoted Manichean, is trying to learn to reject the poison that hate and anger brings to the mind.;[This.GetTitledFirstName], bouddhiste z閘? tente d'apprendre ?rejeter la haine et la col鑢e qui sont des poisons de l'esprit.;[This.GetTitledFirstName] ist 黚erzeugter Buddhist und versucht, die Vergiftung des Geistes durch Hass und Zorn abzulehnen.;; [This.GetTitledFirstName], como budista devoto/a, trata de aprender a rechazar el veneno que el odio y la ira traen a la mente.;;;;;;;;;x
+obj_buddhist_reject_pride_title;Learn to Reject Pride;Apprendre ?rejeter l'orgueil;Lernt, Stolz abzulehnen;; Aprender a rechazar el orgullo;;;;;;;;;x
+obj_buddhist_reject_pride_desc;[This.GetTitledFirstName], as a devoted Manichean, is trying to learn to reject pride.;[This.GetTitledFirstName], bouddhiste z閘? tente d'apprendre ?rejeter l'orgueil.;[This.GetTitledFirstName] ist 黚erzeugter Buddhist und versucht, den Stolz abzulehnen.;; [This.GetTitledFirstName], como budista devoto/a, trata de aprender a rechazar el orgullo.;;;;;;;;;x
+obj_buddhist_defeat_fear_title;Defeat Fear;Vaincre la peur;Besiegt die Furcht;; Vencer el Miedo;;;;;;;;;x
+obj_buddhist_defeat_fear_desc;[This.GetTitledFirstName], as a devoted Manichean, is trying to learn to defeat [This.GetHerHis] fear of the world and of the designs of others.;[This.GetTitledFirstName], bouddhiste z閘? tente d'apprendre ?vaincre sa peur du monde et des projets d'autrui.;[This.GetTitledFirstName] ist 黚erzeugter Buddhist und versucht, [This.GetHerHis] Furcht vor der Welt und der Hinterh鋖tigkeit anderer Menschen zu besiegen.;;[This.GetTitledFirstName], como budista devoto/a, trata de aprender a derrotar [This.GetHerHis] miedo al mundo y a los designios de otros.;;;;;;;;;x
+TOGGLE_LOOTER;切换劫掠;;;;;;;;;;;;x
+TOGGLE_LOOTER_DESC;将此单位设置为劫掠部队，这将允许它劫掠其他宗教的省份和资产。\n然而这将造成一个与他们的暂时敌对状态，允许他们攻击你的任何部队。;;;;;;;;;;;;x
+PORTAGE;$FROM$与$TO$之间的陆上运输路线;;;;;;;;;;;;x
+PORTAGE_DESC;陆上运输路线允许船只从沿海省份移动到一个内陆省份。;;;;;;;;;;;;x
+NUM_CULTURE_REALM_PROVS_LESS;在国内少于$NUM$个$CULTURE$省份;;;;;;;;;;;;x
+NUM_CULTURE_REALM_PROVS_MORE;在国内至少$NUM$个$CULTURE$省份;;;;;;;;;;;;x
+NUM_TITLE_REALM_PROVS_LESS;在国内少于$NUM$个省份在$TITLE$范围内;;;;;;;;;;;;x
+NUM_TITLE_REALM_PROVS_MORE;在国内至少$NUM$个省份在$TITLE$范围内;;;;;;;;;;;;x
+BASE_TROOP_VALUE_GARRISON;基础驻军规模: $VALUE$;;;;;;;;;;;;x
+MODIFIED_TROOP_VALUE_GARRISON;最终驻军规模: $VALUE$;;;;;;;;;;;;x
+continent_britain;不列颠;;;;;;;;;;;;x
+continent_ireland;爱尔兰;;;;;;;;;;;;x
+continent_europe;高卢;;;;;;;;;;;;x
+continent_ynys_man;马恩岛;;;;;;;;;;;;x
+continent_hebrides;赫布里底群岛;;;;;;;;;;;;x
+occupied;新近征服;;;;;;;;;;;;x
+occupied_different_religion;新近征服 （不同宗教）;;;;;;;;;;;;x
+occupied_different_religiongroup;新近征服 （不同宗教组）;;;;;;;;;;;;x
+occupied_different_culture;新近征服 （不同文化）;;;;;;;;;;;;x
+occupied_different_culturegroup;新近征服 （不同文化组）;;;;;;;;;;;;x
+feudal_elective;封建选举继承法;;;;;;;;;;;;;x
+gavelkind;分封继承法;;;;;;;;;;;;;x
+seniority;年长者继承法;;;;;;;;;;;;;x
+primogeniture;长子继承法;;;;;;;;;;;;;x
+turkish_succession;旧式封建继承法;;;;;;;;;;;;;x
+open_elective;开放选举继承法;;;;;;;;;;;;;x
+catholic_bishopric;授职继承法;;;;;;;;;;;;;x
+succ_primogeniture;长子继承法;;;;;;;;;;;;;x
+succ_primogeniture_desc;统治者的长子继承所有头衔。你的继承人会喜欢这个法律，但是你家族其他成员都会对此法律有少许反感。;;;;;;;;;;;;;x
+succ_seniority;年长者继承法;;;;;;;;;;;;;x
+succ_seniority_desc;家族里最年长的成员继承所有的头衔。你的长子会非常讨厌这个法律，但是其他家族成员会喜欢。;;;;;;;;;;;;;x
+succ_feudal_elective;封建选举继承法;;;;;;;;;;;;;x
+succ_feudal_elective_desc;统治者和下级封臣可以从下级封臣以及现任统治者的合法子嗣或兄弟之中提名继任者。封臣们会很喜欢选举继承，但是如果统治者个人拥有的选举继承法头衔过多的话他们也会很不满。;;;;;;;;;;;;;x
+succ_gavelkind;分封继承法;;;;;;;;;;;;;x
+succ_gavelkind_desc;统治者的头衔在他的众子之间分封，长子获得主要头衔。除了长子以外的所有人都很喜欢分封继承。;;;;;;;;;;;;;x
+succ_turkish_succession;旧式封建继承法;;;;;;;;;;;;;x
+succ_turkish_succession_desc;统治者最强大的儿子继承，但是其他强大的儿子可能会干涉。这个法律会受到你所有孩子的欢迎（除了长子），其他家族成员也会认同这个法律。;;;;;;;;;;;;;x
+succ_open_elective;开放选举继承法;;;;;;;;;;;;;x
+succ_open_elective_desc;所有的封臣和廷臣都有选举权和被选举权。;;;;;;;;;;;;;x
+succ_catholic_bishopric;教区继承法;;;;;;;;;;;;;x
+succ_catholic_bishopric_desc;如果封君提名了一个继任者，则此人继任，否则由教宗决定继任者。;;;;;;;;;;;;;x
+papal_succession;学院继承法;;;;;;;;;;;;;x
+agnatic_succession;男性;;;;;;;;;;;;;x
+agnatic_succession_desc;只有男性可以继承。;;;;;;;;;;;;;x
+cognatic_succession;男性优先;;;;;;;;;;;;;x
+cognatic_succession_desc;女人可以继承，但只是在没有合适的男性的情况下。;;;;;;;;;;;;;x
+true_cognatic_succession;男女平等;;;;;;;;;;;;;x
+true_cognatic_succession_desc;女性享有与男性同等的继承权利。;;;;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_0;你的恶行从不列颠到君士坦丁堡无人不知，无人不晓。;;;;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_1;愿你被活活缝进死牛的肚子里。;;;;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_2;愿你的体液在躯体里腐臭。;;;;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_3;希望你的一生短暂而不幸。;;;;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_4;诅咒智慧永远弃你而去。;;;;;;;;;;;;;x
+ATPEACE;和平;;;;;;;;;;;;;x
+ATWAR;战争中;;;;;;;;;;;;;x
+UNKNOWN_LOCATION;目前位置未知;;;;;;;;;;;;;x
+EXCELLENT;好。;;;;;;;;;;;;;x
+CHAR_PRIEST;一个牧师;;;;;;;;;;;;;x
+CHAR_SOLDIER;一个战士;;;;;;;;;;;;;x
+CHAR_STEWARD;一个管理者;;;;;;;;;;;;;x
+CHAR_INTRIGUER;一个阴谋家;;;;;;;;;;;;;x
+CHAR_DIPLOMAT;一个外交家;;;;;;;;;;;;;x
+CHAR_LADY;一位女士;;;;;;;;;;;;;x
+CHAR_KNIGHT;一个角色;;;;;;;;;;;;;x
+HAVE_NOT_CULTURE_GROUP;文化组不是 ;;;;;;;;;;;;;x
+HAVE_CULTURE_GROUP;文化组是 ;;;;;;;;;;;;;x
+HAVNT_CULTURE;文化不是 ;;;;;;;;;;;;;x
+HAVE_CULTURE;文化是 ;;;;;;;;;;;;;x
+HAVE_NOT_RELIGION;宗教不是 ;;;;;;;;;;;;;x
+HAVE_RELIGION;宗教是 ;;;;;;;;;;;;;x
+IS_NOT_OF_CULTURE;文化不是 ;;;;;;;;;;;;;x
+IS_OF_CULTURE;文化是 ;;;;;;;;;;;;;x
+county_isolated;孤立省份;;;;;;;;;;;;;x
+CHAR_STATUS_PILGRIM;$NAME$? is currently traveling in distant lands, or missing, or in an unknown location.;;;;;;;;;;;;;x
+DEATH_SACRIFICED;被$KILLER$献祭给了诸神;;;;;;;;;;;;;x
+DEATH_SACRIFICED_NO_KILLER;被献祭给了诸神。;;;;;;;;;;;;;x
+DEATH_HUNTING_ACCIDENT;死于一场狩猎事故;;;;;;;;;;;;;x
+DEATH_HUNTING_ACCIDENT_NO_KILLER;死于一场狩猎事故;;;;;;;;;;;;;x
+DEATH_ESCAPE;死于一次冒险的越狱;;;;;;;;;;;;;;x
+has_missing_death;生死未卜，或许是失踪了;;;;;;;;;;;;;x
+pregnant_death;分娩;;;;;;;;;;;;;x
+drunkard_death;酒精性肝病;;;;;;;;;;;;;x
+weak_death;一种未知疾病;;;;;;;;;;;;;x
+soft_death;一种未知疾病;;;;;;;;;;;;;x
+hunchback_death;长年驼背;;;;;;;;;;;;;x
+lunatic_death;自残;;;;;;;;;;;;;x
+bubonic_plague;查士丁尼瘟疫;;;;;;;;;;;;;x
+BUBONIC_PLAGUE_INFO;这可怕的流行病自东罗马帝国而来，被称为“查士丁尼瘟疫”，将黑色的死神带到这片土地。;;;;;;;;;;;;;x
+has_bubonic_plague;身染查士丁尼瘟疫;;;;;;;;;;;;;x
+has_bubonic_plague_desc;此人身染可怕的腺鼠疫，也被称为“查士丁尼瘟疫”。此病在公元541年爆发于东罗马帝国，从首都君士坦丁堡传播到整个已知世界的港口城市。;;;;;;;;;;;;;x
+has_bubonic_plague_death;可怕的查士丁尼瘟疫;;;;;;;;;;;;;x
+SAXON_PLAGUE_INFO;The foreign people who have arrived on these isles have bought with them new diseases, which collectively are killing off the local Britons.;;;;;;;;;;;;;x
+has_saxon_plague;Has the Saxon Plague;;;;;;;;;;;;;x
+has_saxon_plague_desc;This character has the Saxon plague, a collection of diseases introduced to the British Isles by the invading Germans.;;;;;;;;;;;;;x
+has_saxon_plague_death;of the Saxon Plague;;;;;;;;;;;;;x
+fragile_death;of poor health;;;;;;;;;;;;;x
+normal_spring;春季;;;;;;;;;;;;;x
+normal_summer;夏季;;;;;;;;;;;;;x
+normal_autumn;秋季;;;;;;;;;;;;;x
+normal_winter;冬季;;;;;;;;;;;;;x
+northern_spring;春季（北方）;;;;;;;;;;;;;x
+northern_summer;夏季（北方）;;;;;;;;;;;;;x
+northern_autumn;秋季（北方）;;;;;;;;;;;;;x
+northern_winter;冬季（北方）;;;;;;;;;;;;;x
+continental_spring;春季（大陆）;;;;;;;;;;;;;x
+continental_summer;夏季（大陆）;;;;;;;;;;;;;x
+continental_autumn;秋季（大陆）;;;;;;;;;;;;;x
+continental_winter;冬季（大陆）;;;;;;;;;;;;;x
+woods;森林;;;;;;;;;;;;;x
+marsh;沼泽;;;;;;;;;;;;;x
+arctic;北方平原;;;;;;;;;;;;;x
+fosse_way;福斯路;;;;;;;;;;;;;x
+highlands;高地;;;;;;;;;;;;;x
+CB_NAME_GALLIC_DEPOSITION;高卢废黜;;;;;;;;;;;;;x
+WAR_NAME_GALLIC_DEPOSITION;高卢的奥古斯都废黜;;;;;;;;;;;;;x
+gallic_deposition_desc;There is only one empire and one emperor in the West! Anyone else who claims the imperial purple must be crushed immediately!;;;;;;;;;;;;;x
+CB_NAME_SAXON_REVOLT;Great Saxon Revolt;;;;;;;;;;;;;x
+WAR_NAME_SAXON_REVOLT;Great Saxon Revolt;;;;;;;;;;;;;x
+saxon_revolt_desc;For too long the Anglo-Saxons have been fighting the wars and battles of the hapless Britons while they rule over us. It is time for us to rise and take our rightful place as masters of Britannia!;;;;;;;;;;;;;x
+CB_NAME_CULTURAL_RECONQUEST;[Title.GetBaseName]的文化再征服;;;;;;;;;;;;;x
+WAR_NAME_CULTURAL_RECONQUEST;$ORDER$对$OTHER_TITLE$的文化再征服;;;;;;;;;;;;;x
+cultural_reconquest_desc;$CLAIMANT$可以用这个宣战理由夺回他的人民与文化的古老核心，目前正处于$TARGET$的异族统治下。;;;;;;;;;;;;;x
+WAR_NAME_FACTION_INDEPENDENCE;$ORDER$$FIRST_ADJ$独立起义;;;;;;;;;;;;;x
+CB_IMPERIAL_INVASION_HIBERNIA;[Title.GetBaseName]的帝国征服;;;;;;;;;;;;;x
+WAR_NAME_IMPERIAL_INVASION_HIBERNIA;$ORDER$$FIRST_ADJ$对$OTHER_TITLE$的帝国征服;;;;;;;;;;;;;x
+imperial_invasion_hibernia_desc;在不列颠尼亚成功地恢复“帝国权利”（Ius Imperii）之后，雄心勃勃的罗马皇帝已做好准备，横渡爱尔兰海首次夺取希伯尼亚的土地。$CLAIMANT$可以用这个针对$TARGET$的宣战理由来入侵并征服$TITLE$的土地。如果成功，所有目前已占领领地的头衔将被篡夺。;;;;;;;;;;;;;x
+CB_NAME_IRISHINVASION;入侵[Title.GetBaseName];;;;;;;;;;;;;x
+irishinvasion_desc;作为爱尔兰的至尊王，$CLAIMANT$ 已获得了入侵并夺取$TITLE$的权利。如果成功，所有目前已占领领地的头衔将被篡夺。;;;;;;;;;;;;;x
+WAR_NAME_IRISHINVASION;$ORDER$$FIRST_ADJ$对$OTHER_TITLE$的入侵;;;;;;;;;;;;;x
+CB_NAME_DISPUTEBRITANNIA;争夺不列颠尼亚;;;;;;;;;;;;;x
+WAR_NAME_DISPUTEBRITANNIA;$FIRST_ADJ$为$CLAIMANT$对不列颠尼亚至尊王国的宣称而战;;;;;;;;;;;;;x
+disputeBritanniaHighKingship_desc;$CLAIMANT$可以用这个宣战理由证明他在战场上的价值并为他对不列颠尼亚至尊王国的宣称获取支持。;;;;;;;;;;;;;x
+CB_NAME_DISPUTEAENGLAND;争夺英格兰;;;;;;;;;;;;;x
+WAR_NAME_DISPUTEAENGLAND;$FIRST_ADJ$为$CLAIMANT$对英格兰王国的宣称而战;;;;;;;;;;;;;x
+disputeAenglandHighKingship_desc;$CLAIMANT$可以用这个宣战理由证明他在战场上的价值并为他对英格兰王国的宣称获取支持。;;;;;;;;;;;;;x
+CB_RAID;掠袭;;;;;;;;;;;;;x
+WAR_RAID;$ORDER$$FIRST_ADJ$对$SECOND_ADJ$土地的掠袭;;;;;;;;;;;;;x
+raid_cb_desc;屠杀他们的士兵，强奸他们的女人，抢走他们的财富！是时候掠夺了！;;;;;;;;;;;;;x
+CB_NAME_COUNTY_CONQUEST;征服[Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_COUNTY_CONQUEST;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ 对$OTHER_TITLE$的征服;;;;;;;;;;;;;x
+county_conquest_desc;我们可以通过入侵并占领接壤的省份来开拓我们的边界，征服更多的土地。;;;;;;;;;;;;;x
+invasion_desc;因为他的头衔、威望和军事能力，$CLAIMANT$有权入侵$TITLE$，此地不与他属于同一宗教，也非同一文化。如果成功，所有目前已占领领地的头衔将被篡夺。;;;;;;;;;;;;;x
+CB_IMPERIAL_RECLAIM;[Title.GetBaseName]的帝国再征服;;;;;;;;;;;;;x
+WAR_NAME_IMPERIAL_RECLAIM;$ORDER$$FIRST_ADJ$对$OTHER_TITLE$的帝国再征服;;;;;;;;;;;;;x
+imperial_reclaim_desc;罗马帝国所失去的版图必将被收复！$CLAIMANT$可以用这个针对$TARGET$的宣战理由来入侵并征服$TITLE$的土地。如果成功，所有目前已占领领地的头衔将被篡夺。;;;;;;;;;;;;;x
+imperial_reclaim_tip;[Root.GetTitledFirstName]? takes all former Roman territory within the [This.GetFullBaseName]?.\n;;;;;;;;;;;;;x
+imperial_conquest_tip;[Root.GetTitledFirstName]? takes all territory within the [This.GetFullBaseName]?.\n;;;;;;;;;;;;;x
+invasion_succ_tip;[Root.GetTitledFirstName]获得所有已占领的领地。;;;;;;;;;;;;;x
+CB_NAME_VASSALIZE;[Title.GetBaseName]的法理收复;;;;;;;;;;;;;x
+WAR_NAME_VASSALIZE;$ORDER$$FIRST_ADJ$对$SECOND$的法理收复战争;;;;;;;;;;;;;x
+vassalize_desc;任何接壤的独立统治者，只要在你的法理内，就可以被迫向你宣誓效忠，成为你国内的法理封臣。;;;;;;;;;;;;;x
+vassalize_non_dejure_desc;你的高威望和军事允许你强迫任何接壤的独立下级统治者（伯爵或公爵级）向你宣誓效忠，成为你境内的封臣。;;;;;;;;;;;;;x
+vassalize_frankish_desc;Your superior prestige and martial allows you to subjugate other Frankish rulers in pursuit of your ambition to unite all the Franks under a single banner.;;;;;;;;;;;;;x
+liberation_revolt_succ_tip;[This.GetFullBaseName]将被授予此王座的一位合适宣称者，他将得到所有已占领的领地，并获得或附庸[This.GetFullBaseName]境内属于[From.GetTitledFirstName]的所有头衔。如果没有合适的宣称者，[Root.GetTitledFirstName]将得到这些头衔。;;;;;;;;;;;;;x
+viking_invasion_britannia_desc;作为维京入侵者，我们可以入侵并占领接壤的公爵领，以寻求更多的土地来征服。;;;;;;;;;;;;;x
+viking_invasion_britannia_cb_succ_tip;[Root.GetTitledFirstName]获得$TITLE$境内所有领地，以及任何其他已占领的省份。\n;;;;;;;;;;;;;x
+duchy_invasion_desc;我们可以用这个宣战理由来入侵并征服一整个公爵领。;;;;;;;;;;;;;x
+duchy_invasion_cb_succ_tip;[Root.GetTitledFirstName]获得$TITLE$境内所有领地。\n;;;;;;;;;;;;;x
+duchy_invasion_event_desc;With our superior martial and prestige, we can use this casus belli to invade and conquer an entire high lordship.;;;;;;;;;;;;;x
+duchy_invasion_event_cb_succ_tip;[Root.GetTitledFirstName]? takes all territory within the [This.GetFullBaseName]?.\n;;;;;;;;;;;;;x
+bid_for_independence_history_desc;$CLAIMANT$可以试图宣布从$TARGET$独立;Le(la) $CLAIMANT$? peut tenter de d閏larer son ind閜endance vis-?vis de : $TARGET$?;$CLAIMANT$? kann versuchen, von $TARGET$? die Unabh鋘gigkeit zu erlangen;;$CLAIMANT$? puede intentar declarar la independencia de $TARGET$?;;;;;;;;;x
+tribal_invasion_toulouse_succ_tip;[Root.GetTitledFirstName]? takes all occupied territory.\n[Root.GetTitledFirstName]? takes or vassalizes all titles in Aquitania? and Tolosa? belonging to [From.GetTitledFirstName]?.\n;;;;;;;;;;;;;x
+CB_NAME_VISIGOTH_RECONQUEST;Reconquest of Aquitania;;;;;;;;;;;;;x
+WAR_NAME_VISIGOTH_RECONQUEST;Visigothic Reconquest of Aquitania;;;;;;;;;;;;;x
+visigoth_reconquest_desc;Aquitania must be reclaimed! We can use this casus belli to invade and recover our lands in Aquitania.;;;;;;;;;;;;;x
+visigoths_reconquest_1_succ_tip;[Root.GetTitledFirstName]? takes or vassalizes all titles in Southern Aquitania? belonging to [From.GetTitledFirstName]?.\n;;;;;;;;;;;;;x
+visigoths_reconquest_2_succ_tip;[Root.GetTitledFirstName]? takes or vassalizes all titles in Aquitania? belonging to [From.GetTitledFirstName]?.\n;;;;;;;;;;;;;x
+PROV_CULTURECHANGE_SETUP;省份文化转变;;;;;;;;;;;;;x
+PROV_CULTURECHANGE_LOG;$NAME$的大多数民众改变文化，成了$CULTURENAME$人。;;;;;;;;;;;;;x
+PROV_RELIGIONCHANGE_SETUP;省份宗教转变;;;;;;;;;;;;;x
+PROV_RELIGIONCHANGE_LOG;$NAME$的大多数民众转变为$RELIGIONNAME$。;;;;;;;;;;;;;x
+county_heresy;不同宗教信仰;;;;;;;;;;;;;x
+MODIFIER_LEVY_REINFORCE_RATE;征召增兵率;;;;;;;;;;;;;x
+MODIFIER_LEVY_SIZE;征召规模;;;;;;;;;;;;;x
+LEVY_SIZE;征召规模;;;;;;;;;;;;;x
+GARRISON_SIZE;驻军规模;;;;;;;;;;;;;x
+MAXIMUM_RAISABLE_LEVY;可支配的征召兵数取决于法律和统治者的军事能力：$VALUE$%;;;;;;;;;;;;;x
+MORALE_DEFENCE;防御士气;;;;;;;;;;;;;x
+MORALE_OFFENCE;进攻士气;;;;;;;;;;;;;x
+SUPPLY_OWNER;拥有国家：$VALUE$;;;;;;;;;;;;;x
+SUPPLY_CONTROLLER;控制领地：$VALUE$;;;;;;;;;;;;;x
+SUPPLY_NEUTRAL;中立领地：$VALUE$;;;;;;;;;;;;;x
+SUPPLY_ENEMY;敌对领地：$VALUE$;;;;;;;;;;;;;x
+SUPPLY_RELIGION;不同宗教组：$VALUE$;;;;;;;;;;;;;x
+SUPPLY_COASTAL;沿海地区：$VALUE$;;;;;;;;;;;;;x
+SUPPLY_NEIGHBOR;控制接壤领地：$VALUE$;;;;;;;;;;;;;x
+SUPPLY_BASE_MODIFIED;修正基值：$VALUE$;;;;;;;;;;;;;x
+ATTRITION_CURRENT;每月损耗：$VALUE$%;;;;;;;;;;;;;x
+ATTRITION_MAX;省份最大每月损耗：$VALUE$%;;;;;;;;;;;;;x
+TOTAL_COUNTY_TAX;地方税总和;;;;;;;;;;;;;x
+TOTAL_COUNTY_TAX_DESC;每年上交给我们的税收/年收入总和;;;;;;;;;;;;;x
+TOTAL_COUNTY_LEVY;地方征召兵总和;;;;;;;;;;;;;x
+TOTAL_COUNTY_LEVY_DESC;我们可召集的征召兵/最大征召兵总和;;;;;;;;;;;;;x
+CASTLE_TAX;封建税;;;;;;;;;;;;;x
+CITY_TAX;城镇税;;;;;;;;;;;;;x
+CHURCH_TAX;宗教税;;;;;;;;;;;;;x
+CITY_TAX_MODIFIER;城镇税收;;;;;;;;;;;;x
+CASTLE_TAX_MODIFIER;封建税收;;;;;;;;;;;;x
+TEMPLE_TAX_MODIFIER;宗教税收;;;;;;;;;;;;x
+TRADE_POST_TAX_MODIFIER;贸易站税收;;;;;;;;;;;;x
+CITY_VASSAL_TAX_MODIFIER;城镇附庸税;;;;;;;;;;;;x
+CASTLE_VASSAL_TAX_MODIFIER;封建附庸税;;;;;;;;;;;;x
+TEMPLE_VASSAL_TAX_MODIFIER;宗教附庸税;;;;;;;;;;;;x
+MODIFIER_CITY_LEVY_SIZE;城镇征召规模;;;;;;;;;;;;x
+MODIFIER_CASTLE_LEVY_SIZE;封建征召规模;;;;;;;;;;;;x
+MODIFIER_TEMPLE_LEVY_SIZE;宗教征召规模;;;;;;;;;;;;x
+CITY_VASSAL_MIN_LEVY;最小城镇征兵;;;;;;;;;;;;x
+CASTLE_VASSAL_MIN_LEVY;最小封建征兵;;;;;;;;;;;;x
+TEMPLE_VASSAL_MIN_LEVY;最小宗教征兵;;;;;;;;;;;;x
+CITY_VASSAL_MAX_LEVY;可征召的城镇征兵;;;;;;;;;;;;x
+CASTLE_VASSAL_MAX_LEVY;可征召的封建征兵;;;;;;;;;;;;x
+TEMPLE_VASSAL_MAX_LEVY;可征召的宗教征兵;;;;;;;;;;;;x
+LOCAL_REVOLT_RISK;当地叛乱风险;;;;;;;;;;;;x
+GLOBAL_REVOLT_RISK;整体叛乱风险;;;;;;;;;;;;x
+LOCAL_TAX_MODIFIER;当地税收;;;;;;;;;;;;x
+GLOBAL_TAX_MODIFIER;总税收;;;;;;;;;;;;x
+REPUBLIC_HELD_CITY;共和国机构;;;;;;;;;;;;x
+REPUBLIC_HELD_COASTAL_CITY;贸易中心;;;;;;;;;;;;x
+REPUBLIC_GRAND_CAPITAL_CITY;共和国都城;;;;;;;;;;;;x
+feudal_contract;封建征兵法;;;;;;;;;;;;x
+feudal_contract_desc;封建征兵法控制着封臣名义上必须提供给封君的征召兵比例。;;;;;;;;;;;;x
+feudal_contract_0;少量封建征召兵;;;;;;;;;;;;x
+feudal_contract_0_option;少量;;;;;;;;;;;;x
+feudal_contract_0_desc;封臣只需提供给你一小部分的征召兵。;;;;;;;;;;;;x
+feudal_contract_1;中等封建征召兵;;;;;;;;;;;;x
+feudal_contract_1_option;中等;;;;;;;;;;;;x
+feudal_contract_1_desc;封臣可以为自己保留相当一部分的征召兵。;;;;;;;;;;;;x
+feudal_contract_2;大量封建征召兵;;;;;;;;;;;;x
+feudal_contract_2_option;大量;;;;;;;;;;;;x
+feudal_contract_2_desc;封臣除了他们的驻军以外只保留少量的地方随员。;;;;;;;;;;;;x
+feudal_contract_3;无限封建征召兵;;;;;;;;;;;;x
+feudal_contract_3_option;所有;;;;;;;;;;;;x
+feudal_contract_3_desc;封臣有义务向他们的封君提供全部的征召兵。;;;;;;;;;;;;x
+feudal_tax;封建税法;;;;;;;;;;;;x
+feudal_tax_desc;一般来说，封臣不需要向他们的封君交税。但是其他情况也存在——虽然他们不会喜欢。;;;;;;;;;;;;x
+feudal_tax_0;免税;;;;;;;;;;;;x
+feudal_tax_0_option;无;;;;;;;;;;;;x
+feudal_tax_0_desc;封臣不需要交税，他们喜欢这个法律。;;;;;;;;;;;;x
+feudal_tax_1;领主费;;;;;;;;;;;;x
+feudal_tax_1_option;低;;;;;;;;;;;;x
+feudal_tax_1_desc;封臣需要为国家利益提供少量的经济贡献。他们对此轻度地不满。;;;;;;;;;;;;x
+feudal_tax_2;适度封建税;;;;;;;;;;;;x 
+feudal_tax_2_option;中等;;;;;;;;;;;;x
+feudal_tax_2_desc;封臣需要为国家利益提供一定的经济贡献。他们也会希望表达对此税法的普遍失望。;;;;;;;;;;;;x
+feudal_tax_3;苛重封建税;;;;;;;;;;;;x
+feudal_tax_3_option;苛重;;;;;;;;;;;;x
+feudal_tax_3_desc;封臣需要为国家利益提供大量的经济贡献。他们的不满之情无以言表。;;;;;;;;;;;;x
+city_contract;城镇征兵法;;;;;;;;;;;;x 
+city_contract_desc;城镇征兵法涉及城镇和城市为他们的封君提供部队的义务。;;;;;;;;;;;;x
+city_contract_0;少量城镇征召兵;;;;;;;;;;;;x
+city_contract_0_option;少量;;;;;;;;;;;;x
+city_contract_0_desc;城镇需要为国防事业提供少量的部队。;;;;;;;;;;;;x
+city_contract_1;中等城镇征召兵;;;;;;;;;;;;x
+city_contract_1_option;中等;;;;;;;;;;;;x
+city_contract_1_desc;城镇需要为国防事业提供适量的部队。;;;;;;;;;;;;x
+city_contract_2;大量城镇征召兵;;;;;;;;;;;;x
+city_contract_2_option;大量;;;;;;;;;;;;x
+city_contract_2_desc;城镇需要为国防事业提供大量的部队。;;;;;;;;;;;;x
+city_contract_3;最大城镇征召兵;;;;;;;;;;;;x
+city_contract_3_option;最大;;;;;;;;;;;;x
+city_contract_3_desc;城镇需要为国防事业尽最大可能地提供可用的部队。;;;;;;;;;;;;x
+city_tax;城镇税法;;;;;;;;;;;;x
+city_tax_desc;城镇和它们的市场每个国家的摇钱树，但他们上交的税收可以由本法调控。;;;;;;;;;;;;x
+city_tax_0;最少城镇税;;;;;;;;;;;;x
+city_tax_0_option;最少;;;;;;;;;;;;x
+city_tax_0_desc;城镇需要为国家利益提供少量的经济贡献。;;;;;;;;;;;;x
+city_tax_1;适度城镇税;;;;;;;;;;;;x
+city_tax_1_option;低;;;;;;;;;;;;x
+city_tax_1_desc;城镇需要为国家利益提供适当的经济贡献。;;;;;;;;;;;;x
+city_tax_2;大量城镇税;;;;;;;;;;;;x
+city_tax_2_option;中等;;;;;;;;;;;;x
+city_tax_2_desc;城镇需要为国家利益提供大量的经济贡献。;;;;;;;;;;;;x
+city_tax_3;苛重城镇税;;;;;;;;;;;;x
+city_tax_3_option;苛重;;;;;;;;;;;;x
+city_tax_3_desc;城镇需要为国家利益提供巨大的经济贡献。;;;;;;;;;;;;x
+temple_contract;宗教征兵法;;;;;;;;;;;;x
+temple_contract_desc;此法控制着作为封臣的德鲁伊、异教祭司和主教在形式上有义务提供给世俗封君的征召兵规模。;;;;;;;;;;;;x
+temple_contract_0;少量宗教征召兵;;;;;;;;;;;;x
+temple_contract_0_option;少量;;;;;;;;;;;;x
+temple_contract_0_desc;祭司们需要为国防事业提供少量的部队。;;;;;;;;;;;;x
+temple_contract_1;中等宗教征召兵;;;;;;;;;;;;x
+temple_contract_1_option;中等;;;;;;;;;;;;x
+temple_contract_1_desc;祭司们需要为国防事业提供适量的部队。;;;;;;;;;;;;x
+temple_contract_2;大量宗教征召兵;;;;;;;;;;;;x
+temple_contract_2_option;大量;;;;;;;;;;;;x
+temple_contract_2_desc;祭司们需要为国防事业提供大量的部队。;;;;;;;;;;;;x
+temple_contract_3;最大宗教征召兵;;;;;;;;;;;;x
+temple_contract_3_option;最大;;;;;;;;;;;;x
+temple_contract_3_desc;祭司们需要为国防事业提供海量的部队。;;;;;;;;;;;;x
+temple_tax;宗教税法;;;;;;;;;;;;x
+temple_tax_desc;祭司和主教们名义上向他们的封君定期缴纳什一税，除非他们更喜欢他们的宗教领袖。;;;;;;;;;;;;x
+temple_tax_0;免税;;;;;;;;;;;;x
+temple_tax_0_option;无;;;;;;;;;;;;x
+temple_tax_0_desc;祭司们不需要交税。;;;;;;;;;;;;x
+temple_tax_1;少量宗教税;;;;;;;;;;;;x
+temple_tax_1_option;低;;;;;;;;;;;;x
+temple_tax_1_desc;祭司们需要为国家利益提供少量的经济贡献。;;;;;;;;;;;;x
+temple_tax_2;适度宗教税;;;;;;;;;;;;x
+temple_tax_2_option;中等;;;;;;;;;;;;x
+temple_tax_2_desc;祭司们需要为国家利益提供适当的经济贡献。;;;;;;;;;;;;x
+temple_tax_3;苛重宗教税;;;;;;;;;;;;x
+temple_tax_3_option;苛重;;;;;;;;;;;;x
+temple_tax_3_desc;祭司们需要为国家利益提供大量的经济贡献。;;;;;;;;;;;;x
+mil_train_laws;征召兵控制;;;;;;;;;;;;;x
+mil_train_laws_desc;此法用于调整国内征召兵所必需的战斗训练量和纪律。训练得更多，你的战士们在战场上就会更有信心和效率，但需要更多的时间来恢复损耗。;;;;;;;;;;;;;x
+mil_train_0;自由从军者;;;;;;;;;;;;;x
+mil_train_0_desc;你的征召兵包括自由人、当地农夫和平民，他们领取分配的武器，在必要时召唤加入战争。他们没有接受过直接的训练，也没有严格的纪律。;;;;;;;;;;;;;x
+mil_train_0_option;无;;;;;;;;;;;;;x
+mil_train_1;受训征召兵;;;;;;;;;;;;;x
+mil_train_1_desc;当人们应募或被强制征入你的征召部队时，他们会从老兵那里接受基础的演习课程和武器训练。;;;;;;;;;;;;;x
+mil_train_1_option;低;;;;;;;;;;;;;x
+mil_train_2;职业征召兵;;;;;;;;;;;;;x
+mil_train_2_desc;你的征召兵由能干且训练有素的职业军人组成，接受过老兵和熟练指挥官的操练及培训。他们全副武装，纪律严明，甚至连城镇卫兵和瞭望哨兵也是如此。农夫出身的征召民兵每周用一天时间，在经验丰富的战士们指导下进行训练。;;;;;;;;;;;;;x
+mil_train_2_option;高;;;;;;;;;;;;;x
+investiture_law;授职法;;;;;;;;;;;;x
+investiture_law_desc;此法决定了由谁来任命有封地的祭司和主教————世俗封君或宗教权威。;;;;;;;;;;;;x
+investiture_law_0;教宗授职;;;;;;;;;;;;x
+investiture_law_0_option;教宗;;;;;;;;;;;;x
+investiture_law_0_desc;只有教宗可以任命国内的主教。这项法案将使国王向教宗求助（比如离婚和开除教籍）时减免50%的虔诚。;;;;;;;;;;;;x
+investiture_law_1;自由授职;;;;;;;;;;;;x
+investiture_law_1_option;自由;;;;;;;;;;;;x
+investiture_law_1_desc;王国内有封地的祭司可以由他们的世俗封君来任命，他们将对封君更加忠诚，而不是宗教领袖。;;;;;;;;;;;;x
+crown_city_charters_only;宪章城社;;;;;;;;;;;;x
+crown_city_charters_only_desc;王国内的城镇和城市只能是国王的附庸。;;;;;;;;;;;;x
+crown_authority;王权法;;;;;;;;;;;;x
+crown_authority_desc;古代的帝王与其封臣之间进行着一场围绕着特权、权利和义务的持久较量。领主们自然地热衷于削弱中央权力...;;;;;;;;;;;;x
+crown_authority_0;封臣自治;;;;;;;;;;;;x
+crown_authority_0_option;最低;;;;;;;;;;;;x
+crown_authority_0_desc;封臣们自行其是，像小王国一样统治着他们的领地。他们需对封君所尽的义务极少。;;;;;;;;;;;;x
+crown_authority_1;限制王权;;;;;;;;;;;;x
+crown_authority_1_option;低;;;;;;;;;;;;x
+crown_authority_1_desc;封臣们享有高度的自治，但必须向他们的封君提供相当一部分的征召兵。;;;;;;;;;;;;x
+crown_authority_2;中等王权;;;;;;;;;;;;x
+crown_authority_2_option;中等;;;;;;;;;;;;x
+crown_authority_2_desc;贵族与君主的力量维持着微妙的平衡。封臣们不能在国内发动私人战争。;;;;;;;;;;;;x
+crown_authority_3;高王权;;;;;;;;;;;;x
+crown_authority_3_option;高;;;;;;;;;;;;x
+crown_authority_3_desc;君主抑制高等贵族的权利，而依赖于下层贵族所领导的萌芽中的官僚政治。;;;;;;;;;;;;x
+crown_authority_4;绝对王权;;;;;;;;;;;;x
+crown_authority_4_option;最高;;;;;;;;;;;;x
+crown_authority_4_desc;国内的领主们对一位绝对君主的无限制权力感到不满。;;;;;;;;;;;;x
+roman_culture_group_0;文化;;;;;;;;;;;;x
+roman_culture_group_0_desc;某些文化的传统和管理机构更有利于维持一个更大的王国或帝国。;;;;;;;;;;;;x
+roman_culture_0;罗马政治;;;;;;;;;;;;x
+roman_culture_0_option;罗马;;;;;;;;;;;;x
+roman_culture_0_desc;我们的罗马传统和行政机构让我们更有效率地管理封臣，统治更大面积的土地。;;;;;;;;;;;;x
+frankish_culture_group_0;文化;;;;;;;;;;;;x
+frankish_culture_group_0_desc;某些文化的传统和管理机构更有利于维持一个更大的王国或帝国。;;;;;;;;;;;;x
+frankish_culture_0;法兰克政治;;;;;;;;;;;;x
+frankish_culture_0_option;法兰克;;;;;;;;;;;;x
+frankish_culture_0_desc;我们的法兰克传统和行政机构让我们更有效率地管理封臣，统治更大面积的土地。;;;;;;;;;;;;x
+visigoth_culture_group_0;文化;;;;;;;;;;;;x
+visigoth_culture_group_0_desc;某些文化的传统和管理机构更有利于维持一个更大的王国或帝国。;;;;;;;;;;;;x
+visigoth_culture_0;西哥特政治;;;;;;;;;;;;x
+visigoth_culture_0_option;西哥特;;;;;;;;;;;;x
+visigoth_culture_0_desc;我们的西哥特传统和行政机构让我们更有效率地管理封臣，统治更大面积的土地。;;;;;;;;;;;;x
+burgundian_culture_group_0;文化;;;;;;;;;;;;x
+burgundian_culture_group_0_desc;某些文化的传统和管理机构更有利于维持一个更大的王国或帝国。;;;;;;;;;;;;x
+burgundian_culture_0;勃艮第政治;;;;;;;;;;;;x
+burgundian_culture_0_option;勃艮第;;;;;;;;;;;;x
+burgundian_culture_0_desc;我们的勃艮第传统和行政机构让我们更有效率地管理封臣，统治更大面积的土地。;;;;;;;;;;;;x
+realm_peace_law;Realm Peace;;;;;;;;;;;;x
+realm_peace_law_desc;These laws govern the ability of vassals to fight their own individual wars against each other and outside realms.;;;;;;;;;;;;x
+realm_peace_law_0;No Realm Peace;;;;;;;;;;;;x
+realm_peace_law_0_option;None;;;;;;;;;;;;x
+realm_peace_law_0_desc;Vassals are allowed to wage war against other vassals in the realm, as well as against foreign realms.;;;;;;;;;;;;x
+realm_peace_law_1;Internal Realm Peace;;;;;;;;;;;;x
+realm_peace_law_1_option;Internal;;;;;;;;;;;;x
+realm_peace_law_1_desc;Vassals are not allowed to wage war against other vassals, but can declare war on foreign realms.;;;;;;;;;;;;x
+realm_peace_law_2;Total Realm Peace;;;;;;;;;;;;x
+realm_peace_law_2_option;Total;;;;;;;;;;;;x
+realm_peace_law_2_desc;Vassals are completely restricted from declaring war.;;;;;;;;;;;;x
+ze_administration_laws_1;Romanized Administration;;;;;;;;;;;;x
+ze_administration_laws_1_option;Romanized;;;;;;;;;;;;x
+ze_administration_laws_1_desc;While not a fully fledged imperial, bureaucratic system, Romanized realms retain the concept of the realm as a proper state rather than the more personal feudal system. Romanized realms are more centralized and tend to have greater control over their vassals, as well as a system of inheritance that transfers the state or administration in full.;;;;;;;;;;;;x
+succession_voting_power_desc;The Council's authority in regards to the right of holding office.;;;;;;;;;;;;x
+succession_voting_power_0_desc;The ruler has full authority over the choice of who sits on the council.;;;;;;;;;;;;x
+succession_voting_power_1_desc;The Council's authority reaches its peak, with the ruler unable to fire council members at will.;;;;;;;;;;;;x
+succession_voting_power_1_effect_tooltip;Powerful Vassals? cannot be fired from the Council?;;;;;;;;;;;;x
+succession_voting_power_0_effect_tooltip;Powerful Vassals? can be fired from the Council?;;;;;;;;;;;;x
+CROWN_LAW_DESC;$CROWN_TITLE$的王权法\n适用于$TITLE$;;;;;;;;;;;;x
+TOO_MANY_HELD_DUCHIES;过多大领地头衔;;;;;;;;;;;;x
+TITLE_CREATION_REQ_DUCHIES;我们需要持有至少$DUCHIES$个大领地头衔。;;;;;;;;;;;;x
+TITLE_CREATION_EMPEROR_DESC;我们需要控制$REQ_PERC$%的法理省份来创建这个头衔。目前，我们控制$PERC$（$HELD$/$ALL$）。创建此头衔将给你带来$PRESTIGE$威望，花费你$GOLD$黄金和$PIETY$虔诚。;;;;;;;;;;;;x
+TITLE_CREATION_KING_DESC;我们需要控制$REQ_PERC$%的法理省份来创建这个头衔。目前，我们控制$PERC$（$HELD$/$ALL$）。创建此头衔将给你带来$PRESTIGE$威望，花费你$GOLD$黄金和$PIETY$虔诚。;;;;;;;;;;;;x
+TITLE_CREATION_DESC;我们需要控制$REQ_PERC$%的法理省份来创建这个头衔。目前，我们控制$PERC$（$HELD$/$ALL$）。创建此头衔将给你带来$PRESTIGE$威望，花费你$GOLD$黄金和$PIETY$虔诚。;;;;;;;;;;;;x
+TITLE_USURPATION_DESC;我们需要控制$REQ_PERC$%的法理省份来篡夺这个头衔。目前，我们控制$PERC$（$HELD$/$ALL$）。篡夺此头衔将给你带来$PRESTIGE$威望，花费你$GOLD$黄金。;;;;;;;;;;;;x
+alert_dejure_claim_instant;你可以索要法理宣称;;;;;;;;;;;;x
+alert_dejure_claim_delayed;可以索要以下宣称：$LIST$;;;;;;;;;;;;x
+EDUCATE_CHARACTER_INTERACTION_LETTER;我们建议[AdultExtra.GetBestName]成为小[ChildExtra.GetBestName]的监护人和导师，因此[ChildExtra.GetSubjectPronoun]可以被培养成一个合格的[AdultExtra.Religion.GetName]的[AdultExtra.Culture.GetName]。;;;;;;;;;;;;x
+years_of_peace;和平年数;;;;;;;;;;;;x
+realm_size;总领地数;;;;;;;;;;;;x
+Friend;朋友;;;;;;;;;;;;x
+Rival;仇敌;;;;;;;;;;;;x
+Lover;情人;;;;;;;;;;;;x
+weaken_vassal_plot_desc;此宣战理由用于密谋：削弱一个封臣。;;;;;;;;;;;;x
+claim_on_vassal_plot_desc;此宣战理由用于密谋：得到对一个封臣的宣称。;;;;;;;;;;;;x
+claim_on_liege_plot_desc;此宣战理由用于密谋：得到对一个封君的宣称。;;;;;;;;;;;;x
+MIL_ARMIES;军队;;;;;;;;;;;;x
+MIL_NAVIES;船只;;;;;;;;;;;;x
+MIL_VASSALS;封臣;;;;;;;;;;;;x
+MIL_MERCANARIES;雇佣军;;;;;;;;;;;;x
+EXCELLENT;好极了！;;;;;;;;;;;;x
+END_GAME_OVER;不列颠尼亚 479 AD - 凛冬王;;;;;;;;;;;;x
+ENDGAME_TEXT_ENDGAME;是年，耶稣·基督诞生后第867个春秋，凛冬王的黑暗时代最终落下帷幕。;;;;;;;;;;;;x
+ENDGAME_TEXT_LANDLESS;在扮演了$NUMCHARS$个角色之后，你失去了所有土地。$ENDCHAR$消失在茫茫人海中。;;;;;;;;;;;;x
+faction_claimant_timer;;;;;;;;;;;;;x
+faction_independence_ultimatum_timer;;;;;;;;;;;;;x
+faction_lower_CA_ultimatum_timer;;;;;;;;;;;;;x
+faction_succ_gavelkind_ultimatum_timer;;;;;;;;;;;;;x
+faction_succ_feudal_elective_ultimatum_timer;;;;;;;;;;;;;x
+faction_succ_primogeniture_ultimatum_timer;;;;;;;;;;;;;x
+faction_succ_seniority_ultimatum_timer;;;;;;;;;;;;;x
+ransom_timer;;;;;;;;;;;;;x
+OK;好的;;;;;;;;;;;;;x
+Ok;好的;;;;;;;;;;;;;x
+I see...;我明白了...;;;;;;;;;;;;;x
+Well...;好吧...;;;;;;;;;;;;;x
+This is troubling news...;这是一则令人不安的消息...;;;;;;;;;;;;;x
+Yes, well...;哦，好吧...;;;;;;;;;;;;;x
+Indeed.;的确。;;;;;;;;;;;;;x
+So be it.;那就这样吧。;;;;;;;;;;;;;x
+Excellent.;太好了。;;;;;;;;;;;;;x
+Good.;好。;;;;;;;;;;;;;x
+This is not good.;这可不行。;;;;;;;;;;;;;x
+Who cares?;谁在乎呢？;;;;;;;;;;;;;x
+Very well.;很好。;;;;;;;;;;;;;x
+I can not resist.;我无法抗拒。;;;;;;;;;;;;;x
+Are they plotting against me?;他们在密谋反对我吗？;;;;;;;;;;;;;x
+I want more.;我想要更多。;;;;;;;;;;;;;x
+This is troubling news!;这是一则令人不安的消息！;;;;;;;;;;;;;x
+Painful.;痛苦。;;;;;;;;;;;;;x
+Pain is a blessed reminder of our Lord's Passion.;痛苦是天赐的启示，令我们记起主的爱。;;;;;;;;;;;;;x
+This is terrible news!;糟糕！;;;;;;;;;;;;;x
+I need some rest!;我要休息一会儿！;;;;;;;;;;;;;x
+Where is my ale?;我的啤酒在哪里？;;;;;;;;;;;;;x
+Troubling news...;麻烦事...;;;;;;;;;;;;;x
+Enough of this.;够了。;;;;;;;;;;;;;x
+Troubling.;令人不安。;;;;;;;;;;;;;x
+So what?;那又如何？;;;;;;;;;;;;;x
+You're not supposed to see this...;你不应该看到这个...;;;;;;;;;;;;;x

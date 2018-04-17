@@ -1,0 +1,32 @@
+feudal_government;城市;;;;;;;;;;;;;x
+feudal_government_desc;城市政体采用罗马帝国传播的概念，围绕着选举、任命和世袭统治者的制度，服务于更高的权力。城市统治者只能拥有一定数量的资产，然后就必须开始承担风险授予权力。有一些继承法可供挑选，它们各有其优点。集权法控制你个人领地的最大规模，以及可拥有的直属封臣数量。;;;;;;;;x;;;;;
+imperial_government;帝国;;;;;;;;;;;;;x
+imperial_government_desc;帝国政体是一个官僚化和组织严密的统治体系，被罗马帝国的残余领土所采用。帝国统治者减少了军队中来自征召兵的比例，而依赖于高度组织化和纪律严明的军团。在帝国体系下，民事和军事管理是完全分开的，总督没有任何正式地军事指挥权，只作为管理者来效力，而在一个分离的军队结构下，军团最终只对皇帝负责。;;;;;;;;;;;;;x
+imperial_government_FEATURES;* 只有军团指挥官或恺撒可以做元帅或指挥官;;;;;;;;;;;;;x
+high_tribal_government;传统;;;;;;;;;;;;;x
+high_tribal_government_desc;传统的统治方式是更遥远土地上混沌的部落制所使用的手段，允许持有城市和更先进的定居点。然而，它显然仍是无组织的。;;;;;;;;;;;;;x
+sub_roman_government;子罗马;;;;;;;;;;;;;x
+sub_roman_government_desc;子罗马政体是罗马帝国的前领地所采用的专制和有组织的统治制度，是他们对罗马文化和习俗的弱化理解的一部分。;;;;;;;;x;;;;;
+legion_government;军团;;;;;;;;;;;;;x
+legion_government_desc;罗马军团是罗马帝国在其鼎盛时期的组织性与纪律性的象征，罗马军队的精锐重装步兵组成了帝国军队的中坚力量。在帝国政体下，军团代表军事力量，与民政完全区分开来。除了皇帝和恺撒，只有军团的指挥官才能担任元帅指挥军队，每个指挥官负责其君主麾下各自的军团，指挥时不得持有其他头衔。失去军团根据地与在战役中被彻底歼灭的军团将不复存在，但一位成功夺回军团根据地的罗马皇帝可以下令将其重建。;;;;;;;;;;;;;x
+legion_government_FEATURES;* 不允许同时持有有地头衔与一个或多个军团的指挥权\n* 不能被转让给其他封臣;;;;;;;;;;;;;x
+gov_county_roman;罗马村落;;;;;;;;;;;;;x
+gov_duchy_roman;罗马城社;;;;;;;;;;;;;x
+gov_kingdom_roman;罗马行省;;;;;;;;;;;;;x
+gov_empire_roman;罗马帝国;;;;;;;;;;;;;x
+gov_roman_warlord;罗马军阀政府;;;;;;;;;;;;;x
+gov_roman_warlord_kingdom;罗马军阀王国;;;;;;;;;;;;;x
+gov_roman_legion;罗马军团;;;;;;;;;;;;;x
+gov_armorican_principality;[Culture.GetName]公国;;;;;;;;;;;;;x
+gov_foederati_settlement;盟军聚居地;;;;;;;;;;;;;x
+gov_foederati_state;盟军政府;;;;;;;;;;;;;x
+gov_foederati_kingdom;盟军王国;;;;;;;;;;;;;x
+gov_hereditary_danelaw;丹麦法区[PrimaryTitle.GetTier];;;;;;;;;;;;;x
+gov_hereditary_danelaw_borough;丹麦法区自治镇;;;;;;;;;;;;;x
+gov_tribal_confederation;部落联盟;;;;;;;;;;;;;x
+gov_norse_chiefdom;诺斯酋邦;;;;;;;;;;;;;x
+gov_norse_fylki;诺斯郡;;;;;;;;;;;;;x
+gov_norse_kingdom;诺斯部落王国;;;;;;;;;;;;;x
+gov_chiefdom;[Culture.GetName]酋邦;;;;;;;;;;;;;x
+gov_high_chiefdom;[Culture.GetName]大酋邦;;;;;;;;;;;;;x
+gov_tribal_kingdom;[Culture.GetName]部落王国;;;;;;;;;;;;;x

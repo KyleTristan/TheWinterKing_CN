@@ -1,0 +1,135 @@
+#CODE;ENGLISH;;;;;;;;;;;;;x
+##### Decisions ;;;;;;;;;;;;;x;
+prepare_titan_thysia;你开始为祭典做准备。;;;;;;;;;;;;;x
+titan_thysia_begins;绞刑吏准备好了他的绳索...;;;;;;;;;;;;;x
+EVTDESCancrel.3600;你向所有封臣发出了邀请参加大祭典的召唤。那些受洗之人，自称听从先知教诲之人，或是追随普罗米修斯之人，将不得不给一些黄金来免于这场华丽的盛宴。;;;;;;;;;;;;;x
+EVTOPTAancrel.3600;我迫不及待了！;;;;;;;;;;;;;x
+EVTTOOLTIPancrel.3601;被召唤参加祭典。;;;;;;;;;;;;;x
+EVTTOOLTIPancrel.3602;免除参加祭典。;;;;;;;;;;;;;x
+EVTDESCancrel.3601;你睿智的封君，[From.GetTitledFirstName]，召唤你和[From.GetHerHis]其他封臣参加一场大祭典。在那里你将膜拜泰坦诸神，并向祂们献祭，随后还会参加一个盛大的宴会，席间你们为诸神的名字而举杯祝贺。;;;;;;;;;;;;;x
+EVTOPTAancrel.3601;我不会错过这个。.;;;;;;;;;;;;;x
+EVTDESCancrel.3602;你的封君，[From.GetTitledFirstName]，依然陷于[From.GetHerHis]异教行径之中，现在[From.GetSheHe]召唤[From.GetHerHis]所有封臣参加一场大祭典，[From.GetSheHe]打算在那里向泰坦诸神献祭。因为你不信奉他们的异教，你应该贡献黄金来免除参加这次庆典。;;;;;;;;;;;;;x
+EVTOPTAancrel.3602;我想我在这件事上没有选择。;;;;;;;;;;;;;x
+EVTOPTBancrel.3602;[This.Religion.GetRandomGodNameCap]为我作证，我一毛钱都不会给！;;;;;;;;;;;;;x
+EVTTOOLTIPancrel.3603;你的付款已被接收。;;;;;;;;;;;;;x
+EVTDESCancrel.3603;[From.GetTitledFirstName]，你的封臣，坚持[From.GetHerHis]的信仰，并只谈及[From.Religion.GetRandomGodNameCap]的仁慈，但[From.GetSheHe]明智地决定给您一些黄金来免除参加祭典。;;;;;;;;;;;;;x
+EVTOPTAancrel.3603;[From.GetSheHe]理应如此。;;;;;;;;;;;;;x
+EVTTOOLTIPancrel.3636;你拒绝支付的消息已被接收。;;;;;;;;;;;;;x
+EVTDESCancrel.3636;尽管宣誓效忠于你，[From.GetTitledFirstName]还是拒绝提供黄金来免除祭典！据[From.GetFirstName]所说，如果[From.GetSheHe]向一个异教节日贡献哪怕一枚铜钱，[From.Religion.GetRandomGodName]也不会原谅[From.GetHerHim]的。;;;;;;;;;;;;;x
+EVTOPTAancrel.3636;此等奇耻大辱，我铭记在心。;;;;;;;;;;;;;x
+EVTDESCancrel.3604;宾客们已到齐，是时候开始祭典了！你们聚集在神庙之外，开始向泰坦诸神献祭牲畜。肉，为接下来的宴会而准备；血，则洒在克洛诺斯的雕像上，洒在泰西斯的雕像上，洒在许珀里翁和其他泰坦神祇的雕像上，洒在参拜者们的身上。;;;;;;;;;;;;;x
+EVTOPTAancrel.3604;现在该献人祭了...;;;;;;;;;;;;x
+EVTDESCancrel.3605;是时候开始由[From.GetTitledFirstName]主持的大祭典了！你们聚集在神庙之外，开始向泰坦诸神献祭牲畜。肉，为接下来的宴会而准备；血，则洒在克洛诺斯的雕像上，洒在泰西斯的雕像上，洒在许珀里翁和其他泰坦神祇的雕像上，洒在参拜者们的身上。;;;;;;;;;;;;;x
+EVTDESCancrel.3606;虽然你一无所知，但你牢房外面的噪声说明了一切，你的俘虏者，[Root.Host.GetTitledFirstName]正在主持一场大祭典，[Root.Host.GetSheHe]将通过献祭来膜拜泰坦诸神。守卫闯进你的牢房，把你拖到当地神庙外面的绞刑架上... ;;;;;;;;;;;;x
+EVTOPTAancrel.3606;不！不要这样！;;;;;;;;;;;;;x
+EVTDESCancrel.3610;[From.GetTitledFirstName]从你的地牢里被带出来，押送到了神庙。[From.GetSheHe]被缚在巨大的石头祭坛上。[From.GetFirstName]的两脚之间的地上多了一滩黄色的不明液体。;;;;;;;;;;;;;x
+EVTOPTAancrel.3610;伟大的克洛诺斯，我们向你献上此祭...;;;;;;;;;;;;x
+EVTOPTBancrel.3610;不，我改主意了。;;;;;;;;;;;;;x
+EVTDESCancrel.3611;[From.GetTitledFirstName]从你的地牢里被带出来，押送到了神庙。当[From.GetFirstName]被缚在巨大的石头祭坛上时，[From.GetSheHe]稳住[From.GetHerselfHimself]的身体，默念着几个段落，你辨认出那出自基督教的圣书。;;;;;;;;;;;;;x
+EVTOPTAancrel.3611;你的圣母现在哪儿去了，[From.GetFirstName]？;;;;;;;;;;;;;x
+EVTOPTBancrel.3611;不，也许这是个坏主意...;;;;;;;;;;;;x
+EVTDESCancrel.3612;[From.GetTitledFirstName]从你的地牢里被带出来，押送到了神庙。你的守卫把[From.GetHerHim]放在祭坛上，开始绑上链条，这时[From.GetSheHe]紧闭双眼，默念着一个出自穆罕默德圣书的段落。;;;;;;;;;;;;;x
+EVTOPTAancrel.3612;很快你就能见到你的先知了，旁友。;;;;;;;;;;;;;x
+EVTOPTBancrel.3612;不，也许这是个坏主意...;;;;;;;;;;;;x
+EVTDESCancrel.3613;你的兄弟，[From.GetTitledFirstName]，从他的牢房里被带出来，押送到了神庙。当他被缚在巨大的石头祭坛上时，他用哀求的目光看着你。“别这么做，[Root.GetFirstName]。一定还有其他的方法...”;;;;;;;;;;;;x
+EVTOPTAancrel.3613;恐怕没有了。乃伊组特。;;;;;;;;;;;;;x
+EVTOPTBancrel.3613;不，我不能对自己的兄弟做这样的事情...;;;;;;;;;;;;;x
+EVTDESCancrel.3614;你的姐妹，[From.GetTitledFirstName]，从她的牢房里被带出来，押送到了神庙。当你的守卫将她的手腕用链子锁起来时，她泪流满面地看着你。“求求你，[Root.GetFirstName]，”她用颤抖的声音说道，“别让他们这么干。”;;;;;;;;;;;;x
+EVTOPTAancrel.3614;现在已经不能回头了。抱歉。;;;;;;;;;;;;;x
+EVTOPTBancrel.3614;不...不能是我的姐妹...;;;;;;;;;;;;x
+EVTDESCancrel.3615;守卫拽着你的父亲，[From.GetTitledFirstName]，从他的牢房里出来，并押送他到神庙，然后把他锁在祭坛上。“我的[Root.GetSonDaughter]，”他看着你，用沙哑的嗓音说，“你难道不能打心眼儿里原谅我吗？”;;;;;;;;;;;;x
+EVTOPTAancrel.3615;克洛诺斯会原谅我的。;;;;;;;;;;;;;x
+EVTOPTBancrel.3615;我不能对自己的父亲做这样的事情...;;;;;;;;;;;;x
+EVTDESCancrel.3616;远远的就能听见哀鸣，守卫拽着你的母亲，[From.GetTitledFirstName]，从她的牢房里出来。他们把她带到神庙，锁在祭坛上，她以怜悯的目光注视着你。“请再给你自己一次机会吧，我的孩子！”;;;;;;;;;;;x
+EVTOPTAancrel.3616;但是别无他法...;;;;;;;;;;;;;x
+EVTOPTBancrel.3616;放了她。;;;;;;;;;;;x
+EVTDESCancrel.3617;守卫从地牢里带来了你的儿子，[From.GetTitledFirstName]，把他领到神庙。在那里他被锁在巨大的石头祭坛上。在你用献祭匕首插入他的心脏之前，你的儿子眼泪汪汪地看着你。“求求你不要，[Root.GetFatherMother]...别这样。”;;;;;;;;;;;x
+EVTOPTAancrel.3617;泰坦需要鲜血。;;;;;;;;;;;;;x
+EVTOPTBancrel.3617;我是不是疯了？这可是我儿子...;;;;;;;;;;;x
+EVTDESCancrel.3618;你的女儿，[From.GetTitledFirstName]，被你的守卫从牢里拉出来，带到了神庙。当他们把她锁在祭坛上时，她以绝望而锐利的目光怒视着你。“这真的是你不得不去做的么，[Root.GetFatherMother]？对你的女儿...做这种事情？”;;;;;;;;;;;x
+EVTOPTAancrel.3618;你让我别无选择。;;;;;;;;;;;;;x
+EVTOPTBancrel.3618;不，送她回去...;;;;;;;;;;;x
+EVTDESCancrel.3619;[From.GetTitledFirstName]被你的守卫从地牢里带出来，来到神庙前的祭坛上。当他们将[From.GetHerHis]的手腕锁上镣铐时，[From.GetFirstName]朝你哭喊。“别这么做，[Root.GetFirstName]！我们是血浓于水的一家人！”;;;;;;;;;;;;x
+EVTOPTAancrel.3619;没错，但这能证明我对克洛诺斯的忠诚。;;;;;;;;;;;;;x
+EVTOPTBancrel.3619;确实如此...[From.GetSheHe]是我的亲戚。;;;;;;;;;;;;;x
+EVTDESCancrel.3620;你的配偶，[From.GetTitledFirstName]，被拽到神庙前的祭坛上，你的守卫将[From.GetHerHis]的手腕锁上铁链。作为最后绝望的自救的努力，[From.GetFirstName]呼唤着希望得到你的怜悯。“我一直爱着你，[Root.GetFirstName]...也将永远爱你。”;;;;;;;;;;;;;x
+EVTOPTAancrel.3620;但我必须如此，原谅我，亲爱的。;;;;;;;;;;;;;x
+EVTOPTBancrel.3620;够了...都给我住手。;;;;;;;;;;;;;x
+EVTDESCancrel.3621;从你的地牢深处，守卫们带出了信奉奥林匹斯的囚犯，[From.GetTitledFirstName]。当他们将[From.GetHerHim]拽到神庙前面并把[From.GetHerHim]锁在祭坛上时，这个奥林匹斯信徒向[From.GetHerHis]篡位的诸神祈祷，挑衅地盯着你。;;;;;;;;;;;;;x
+EVTOPTAancrel.3621;让你看看什么是完美的献祭。;;;;;;;;;;;;;x
+EVTOPTBancrel.3621;不，这勇敢的奥林匹斯信徒应该活着看到明天的太阳。;;;;;;;;;;;;;x
+EVTDESCancrel.3622;[FromFrom.GetTitledFirstName]被拽到神庙前的大祭坛上，锁在满是血污的石柱上。很快[FromFrom.GetFirstName]的身体就无力地挂在了在冰冷的石柱上，雾气从地上的血泊中腾腾升起。;;;;;;;;;;;;;x
+EVTOPTAancrel.3622;这应该能取悦泰坦诸神！;;;;;;;;;;;;;x
+EVTDESCancrel.3623;你封君的守卫们把一个基督教徒，[FromFrom.GetTitledFirstName]，带到神庙前的祭坛上。当铁链锁上[FromFrom.GetHerHis]手腕，[FromFrom.GetSheHe]继续默念着什么圣灵，还有我们将如何在地狱中因我们的罪而受苦...然而[FromFrom.GetSheHe]很快便不再说话了。;;;;;;;;;;;;;x
+EVTDESCancrel.3624;[FromFrom.GetTitledFirstName]，你封君地牢中的一个穆罕默德信徒，被带到神庙并将成为献给泰坦诸神的祭品。当[FromFrom.GetSheHe]被锁在大祭坛上时，[FromFrom.GetSheHe]引述了他们圣书中的一个段落，直到刀子插入其心脏，[FromFrom.GetHerHis]的鲜血涌到地上。;;;;;;;;;;;;;x
+EVTDESCancrel.3625;你的封君让[From.GetHerHis]人去把[FromFrom.GetTitledFirstName]，[From.GetHerHis]亲兄弟，从地牢里带来。[From.GetFirstName]面无表情地看着[FromFrom.GetFirstName]被带到神庙前的祭坛上，很快他那绵软的身体就在祭坛上突然倒下，流尽了鲜血。;;;;;;;;;;;;;x
+EVTDESCancrel.3626;看起来你的封君决定将[FromFrom.GetTitledFirstName]，[From.GetHerHis]亲姐妹，献祭给泰坦诸神。她从[From.GetFirstName]黑暗的地牢里被带出来，当她还在暌违已久的日光下眯着眼睛时，守卫们就把她锁在祭坛上。片刻之后，她的眼睛里一片死寂，了无生气。;;;;;;;;;;;;;x
+EVTDESCancrel.3627;令你吃惊的是，[FromFrom.GetTitledFirstName]命令[FromFrom.GetHerHis]守卫去将[FromFrom.GetTitledFirstName] - [FromFrom.GetHerHis]父亲 - 带出来。他被带到神庙前的祭坛上，不久便与祭坛上淌血的其他人在一起了。;;;;;;;;;;;;;x
+EVTDESCancrel.3628;[FromFrom.GetTitledFirstName]，你的封君的母亲，出现在神庙，两边是守卫们，令你吃惊的是，他们将她押送到了祭坛。她徒劳地恳求[From.GetTitledFirstName]，但[From.GetSheHe]不会被打动。不出片刻，她挨着其他的祭品，一同躺在了神庙之外的祭坛上。;;;;;;;;;;;;;x
+EVTDESCancrel.3629;[From.GetTitledFirstName]押着[From.GetTitledHerHis]儿子，[FromFrom.GetTitledFirstName]，去往神庙之外的祭坛。他将成为下一个祭品。他的所有恳求仿佛都进了聋子的耳朵，片刻之后守卫们将她所在石柱上，然后他便永久地沉寂了。;;;;;;;;;;;;;x
+EVTDESCancrel.3630;那些被召集来参加大祭典的人们纷纷惊呼，因为[FromFrom.GetTitledFirstName]，[From.GetTitledFirstName]的女儿，作为下一个祭品被拽到了祭坛上。她向她的[From.GetFatherMother]乞求怜悯，但是没有得到任何回应。;;;;;;;;;;;;;x
+EVTDESCancrel.3631;[FromFrom.GetTitledFirstName]，[From.GetFirstName]家族中的成员，从地牢里被拽出来，带到了神庙。尽管（或者是因为）他们拥有相同的血脉，[From.GetFirstName]毫不留情地按计划执行献祭。;;;;;;;;;;;;;x
+EVTDESCancrel.3632;[From.GetTitledFirstName]似乎决定献祭[From.GetHerHis]配偶，[FromFrom.GetTitledFirstName]，给泰坦诸神，[FromFrom.GetSheHe]带着锁链被送到神庙。尽管[FromFrom.GetSheHe]表达了一直以来的爱，但是[From.GetFirstName]还是决定继续献祭。;;;;;;;;;;;;;x
+EVTDESCancrel.3633;为了纪念这次祭典，你的封君从[From.GetHerHis]地牢深处选出了一个奥林匹斯信徒。[FromFrom.GetTitledFirstName]被带到神庙成为祭品，每个人都同意这是一个非常有价值的祭品。;;;;;;;;;;;;;x
+EVTDESCancrel.3634;当你的地牢里没有囚犯适合成为大祭典的祭品时，你被迫用一些随机购买的奴隶来将就。他们被带到神庙之外的祭坛上，不久之后，他们毫无生气的躯体在古老的石坛上流尽了鲜血。;;;;;;;;;;;;;x
+EVTOPTAancrel.3634;总比什么都没有要好。;;;;;;;;;;;;;x
+EVTDESCancrel.3635;当[From.GetTitledFirstName]的地牢里没有囚犯适合成为大祭典的祭品时，你的封君被迫用一些随机购买的奴隶来将就。他们被带到神庙之外的祭坛上，不久之后，他们毫无生气的躯体在古老的石坛上流尽了鲜血。;;;;;;;;;;;;;x
+EVTOPTAancrel.3635;我想，总比什么都没有要好。;;;;;;;;;;;;;x
+EVTTOOLTIPancrel.3637;处决中止。;;;;;;;;;;;;;x
+EVTDESCancrel.3637;当你手腕上带着镣铐，瑟瑟发抖地站着，[From.GetTitledFirstName]似乎突然改主意了。镣铐被除去，而你被带回了地牢。看起来你可以活着看到第二天的太阳。;;;;;;;;;;;;;x
+EVTOPTAancrel.3637;我...怎么...什么？;;;;;;;;;;;;;x
+EVTDESCancrel.3640;随着献祭的结束，大祭典最后的宴会现在可以开始了。被献祭的动物的肉已经准备妥当，还有足够的葡萄酒可供在座之人品尝。;;;;;;;;;;;;;x
+EVTOPTAancrel.3640;庆祝会开始！;;;;;;;;;;;;;x
+EVTOPTAancrel.3641;早该如此！;;;;;;;;;;;;;x
+EVTDESCancrel.3642;宴会结束了，大祭典也是如此。至少在九年以后你才能举办下一场，而当你的封臣们回家时，看起来大多数人都认为这次庆典是不虚此行的。;;;;;;;;;;;;;x
+EVTOPTAancrel.3642;下次再来！;;;;;;;;;;;;;x
+EVTDESCancrel.3643;宴会结束了，大祭典也是如此。至少在九年以后你才能举办下一场，而当你和其他封臣们回家时，看起来大多数人都认为这次庆典是不虚此行的。;;;;;;;;;;;;;x
+EVTDESCancrel.3650;宴会上提供的葡萄酒和兴致支配了你。这一次你试图变得更加的坚强，你尽了最大的努力要敬而远之，但是这诱惑太大了...;;;;;;;;;;;;x
+EVTOPTAancrel.3650;*嗝* 浪偶债豁一杯...;;;;;;;;;;;x
+EVTDESCancrel.3651;自从宴会开始，[From.GetTitledFirstName]就一杯接一杯不停地喝，[From.GetSheHe]现在喝得都站不起来了。在一大堆空酒杯之中，[From.GetFirstName]声嘶力竭地唱着歌，躺在水陆毕陈的餐桌上。;;;;;;;;;;;;;x
+EVTOPTAancrel.3651;我认为[From.GetSheHe]喝得够多了。;;;;;;;;;;;;;x
+EVTOPTBancrel.3651;*嗝* 我兹...造介叟锅！;;;;;;;;;;;;;x
+EVTDESCancrel.3653;当侍者将一盘接一盘的食物放到餐桌上时，你的嘴角流下了哈喇子，其他的宾客们都还在忙于交流，只有你那角落发出了饕餮般的吭哧声和饱嗝声。一股突如其来的反胃涌上喉咙，你急着跑向出口，但只来得及呕吐在[From.GetTitledFirstName]的膝盖上...;;;;;;;;;;;;;x
+EVTOPTAancrel.3653;唔呃啊啊啊啊啊...;;;;;;;;;;;;;x
+EVTTOOLTIPancrel.3654;被呕吐在了身上。;;;;;;;;;;;;x
+EVTDESCancrel.3654;食物的碎屑和被啃得干干净净的骨头从[From.GetTitledFirstName]的方位飞向四面八方，就在[From.GetSheHe]贪婪地用桌上的美食填满[From.GetHerselfHimself]的肚子的时候。突然[From.GetHerHis]脸色怪异地发青，然后[From.GetSheHe]冲向出口，但只来得及赶到你的座位，[From.GetSheHe]就开始把[From.GetHerHis]胃里的东西呕吐到你的膝盖上...;;;;;;;;;;;;x
+EVTOPTAancrel.3654;那是我最好的裤子！;;;;;;;;;;;;;x
+EVTDESCancrel.3655;食物的碎屑和被啃得干干净净的骨头从[From.GetTitledFirstName]的方位飞向四面八方，就在[From.GetSheHe]贪婪地用桌上的美食填满[From.GetHerselfHimself]的肚子的时候。突然[From.GetHerHis]脸色怪异地发青，然后[From.GetSheHe]冲向出口，但只来得及赶到[FromFrom.GetTitledFirstName]那里，[From.GetSheHe]就开始把[From.GetHerHis]胃里的东西呕吐到可怜的[FromFrom.GetFirstName]的膝盖上...;;;;;;;;;;;;x
+EVTOPTAancrel.3655;还好不是我...;;;;;;;;;;;x
+EVTDESCancrel.3656;当你正在享受宴会时，你诧异于邻座之人的温暖与友善。事实上，就是有点太暖和了。你脱掉衣服，跳到桌子上。救命，我着火了！你声嘶力竭地惊叫着，挥动你的手臂，令围观的其他宾客不知所措。;;;;;;;;;;;;;x
+EVTOPTAancrel.3656;扑灭我，扑灭我！;;;;;;;;;;;;;x
+EVTDESCancrel.3657;你正享受着宴会，这时一声刺耳的尖叫从房间的另一边传来，突然引起了你的注意。[From.GetTitledFirstName]一丝不挂，正绕着桌子跑来跑去，挥舞[From.GetHerHis]手臂，大声喊着说[From.GetSheHe]着火了。你发出痛苦的呻吟，用手捂住你的脸。;;;;;;;;;;;;;x
+EVTOPTAancrel.3657;那个疯子...;;;;;;;;;;;;;x
+EVTOPTBancrel.3657;[From.GetSheHe]确实如此！我...我也是！啊啊啊！;;;;;;;;;;;;;x
+EVTDESCancrel.3658;自从你到达宴会之后，一个侍女总是盯着你看，而现在，在蜂蜜酒的影响下，你的双手摩挲着她的胴体，而她回应了这份好意。你们褪去彼此的衣物，屈服于干柴烈火般的激情。就在加入了她愉悦的尖叫时，你突然意识到你们正在众目睽睽之下行那苟且之事，其他的宾客们目瞪口呆...;;;;;;;;;;;;x
+EVTOPTAancrel.3658;枣糕...;;;;;;;;;;;;;x
+EVTOPTBancrel.3658;[Root.Spouse.GetFirstName]不会对此感到高兴的...;;;;;;;;;;;x
+EVTDESCancrel.3659;你正在与另一位宾客进行交谈，这时响亮的激情呻吟声打断了你们。在房间的一个角落里，众目睽睽之下，[From.GetTitledFirstName]正和一个侍女纵情于肉体的愉悦。两人一丝不挂，只在他们注意到房间里那谜一般的寂静时，似乎才记起来自己身处何地。;;;;;;;;;;;;;x
+EVTOPTAancrel.3659;[This.Religion.GetRandomGodNameCap]在上...;;;;;;;;;;;;x
+EVTOPTBancrel.3659;哈哈，你这条老狗！干得不错嘛！;;;;;;;;;;;;;x
+EVTOPTCancrel.3659;不！[From.GetFirstName]，你干了什么？！;;;;;;;;;;;;;x
+EVTDESCancrel.3661;宴会期间你就座在[From.GetTitledFirstName]的旁边，你发现[From.GetHerHim]是一个非常讨喜的人。你们似乎有很多共同点。;;;;;;;;;;;;;x
+EVTOPTAancrel.3661;看起来我有了个新朋友。;;;;;;;;;;;;;x
+EVTDESCancrel.3664;宴会期间，当你坐在桌边的时候你的思绪开始游离，这时你突然将目光锁定在[From.GetTitledFirstName]身上。[From.GetHerHis]的凝视似乎能够直达我的灵魂深处，然后当[From.GetSheHe]走到外面呼吸新鲜空气的时候，你很快就说服了自己去加入[From.GetHerHim]。;;;;;;;;;;;;;x
+EVTOPTAancrel.3664;我认为我是唯一的一个...;;;;;;;;;;;x
+EVTTOOLTIPancrel.3669;你们被发现了！;;;;;;;;;;;;;x
+EVTDESCancrel.3669;你沉溺在情人的怀抱里，而就在你们亲吻彼此的时候，另一位宾客漫步走出宴会厅，注意到了你们。即使你们立刻放开对方，但这位愤慨的客人冲回室内告诉所有人他所看到的情景，大错已然铸成。;;;;;;;;;;;;;x
+EVTOPTAancrel.3669;事...事情并非如表面看上去的那样！;;;;;;;;;;;;;x
+EVTDESCancrel.3670;你喝光了所有的蜂蜜酒，觉得天旋地转，你跌跌撞撞地走向出口想要方便一下。当你走到外面时，你看到[From.GetTitledFirstName]和[FromFrom.GetTitledFirstName]，拥抱着彼此，忘情地激吻。他们突然注意到了你，于是立刻停下。;;;;;;;;;;;;;x
+EVTOPTAancrel.3670;[This.Religion.GetRandomGodNameCap]在上！你...你们两个...！;;;;;;;;;;;;;x
+EVTOPTBancrel.3670;噢，别在意我。继续，朋友们。;;;;;;;;;;;;;x
+EVTDESCancrel.3680;[From.GetTitledFirstName]从你的地牢里被带出来，押送至神庙。当[From.GetSheHe]看到祭坛上已经干结的血液，[From.GetSheHe]推开离得最近的守卫，拼了命地奔跑，但是无济于事。你的人把尖叫打闹着的[From.GetHerHim]拽回到了神庙。;;;;;;;;;;;;;x
+EVTDESCancrel.3681;[From.GetTitledFirstName]从你的地牢里被带出来，押送至神庙。正当铁链环上[From.GetHerHis]手腕时，[From.GetFirstName]神情茫然地盯着前方，没有流露出任何的情绪。看起来[From.GetSheHe]已经接受了[From.GetHerHis]的命运。;;;;;;;;;;;;;x
+EVTDESCancrel.3682;[From.GetTitledFirstName]从你的地牢里被带出来，押送至神庙。[From.GetSheHe]一从那些聚集到附近的人里面认出你，[From.GetSheHe]就大声辱骂和唾弃你的行为，一直持续到[From.GetSheHe]被绑到那血腥的祭坛上时。[From.GetHerHis]眼中的仇恨无法被错认。;;;;;;;;;;;;;x
+opinion_held_titan_thysia;主持祭典;;;;;;;;;;;;;x
+opinion_refused_titan_thysia;拒绝参加祭典;;;;;;;;;;;;;x
+held_titan_thysia_timer;make Validator happy;;;;;;;;;;;;;x
+CHRONICLE_HELD_THYSIA;[Root.GetTitledName]在[Root.Location.GetName]举办了一场大祭典。;;;;;;;;;;;;;x
+found_sickles;Organize the Sickles;;;;;;;;;;;;;x
+found_sickles_desc;Create The Sickles, a Holy Order of the Titan Cult.;;;;;;;;;;;;;x
+ancrel.3700.title;The Sickles of Kronos;;;;;;;;;;;;;x
+ancrel.3700.desc;The hand of Kronos is mighty, but he still requires a sharp blade to fell his enemies. The Sickles are an order of fanatical warriors formed in the wake of increasing numbers of Titan worshipers. Dedicated to culling all infidels and heretics from Mother Gaia, they charge into battle with a total disregard for their own safety.;;;;;;;;;;;;;x
+ancrel.3700.a;I have done well by Lord Kronos...;;;;;;;;;;;;;x
+ancrel.3700.b;For the Titans!;;;;;;;;;;;;;x
+ancrel.3700.c;[Religion.GetRandomGodName] help us...;;;;;;;;;;;;;x
+CHRONICLE_SICKLES;[From.GetTitledName] formed The Sickles. Chosen by the Titans through glorious combat, [GetTitledName] is made Warchief, in the name of mighty Kronos.;;;;;;;;;;;;;x

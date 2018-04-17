@@ -1,0 +1,5 @@
+SM_DISABLEWIKIPEDIA;无效的传记链接;;;;;;;;;;;;;x
+WIKIPEDIA_LINK; 传记链接;;;;;;;;;;;;;x
+WIKIPEDIA_LINK_DESC;打开浏览器至该人物的介绍页面;;;;;;;;;;;;;x
+WIKIPEDIA_LINK_MISSING;此人没有传记链接;;;;;;;;;;;;;x
+WIKIPEDIA_LINK_DISABLED;传记链接是无效的;;;;;;;;;;;;;x

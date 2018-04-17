@@ -1,0 +1,11 @@
+ransom_all;向所有囚犯索要赎金;;;;;;;;;;;;;x
+ransom_all_desc;向所有囚犯开出一份赎金报价。;;;;;;;;;;;;;x
+ransom_all_tooltip;角色被要求支付赎金。;;;;;;;;;;;;;x
+ransomall.0.desc;[Root.Host.GetTitledFirstName]提议，如果我支付赎金就释放我。;;;;;;;;;;;;;x
+ransomall.0.a;如果负担得起，我会为我的自由付这笔钱。;;;;;;;;;;;;;x
+ransomall.0.b;没钱。;;;;;;;;;;;;;x
+ransomall.0.w;你收到一个赎金要求，为了赎回你的一位廷臣。这是一笔很好的交易...;;;;;;;;;;;;;x
+ransomall.0.w1;把人送回来，我会付钱的。;;;;;;;;;;;;;x
+ransomall.0.w2;抱歉，在下囊中羞涩。;;;;;;;;;;;;;x
+ransomall.0.ww;赎金要求被拒绝了！;;;;;;;;;;;;;x
+ransomall.0.ww1;好吧，让他们烂在地牢里...;;;;;;;;;;;;;x

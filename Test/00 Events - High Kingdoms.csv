@@ -1,0 +1,76 @@
+EVTNAME312161;不列颠尼亚至尊王国;;;;;;;;;;;;;x
+EVTDESC312161;[From.GetTitledName]自称无愧于布立吞人的至尊王头衔，但他的合法性取决于其他国王的共识。你会支持[From.GetTitledFirstName]对王座的宣称，承认他是合法的不列颠尼亚至尊王吗？;;;;;;;;;;;;;x
+EVTOPTA312161;[From.GetTitledFirstName]是一位伟大的领袖。我将支持他的事业。;;;;;;;;;;;;;x
+EVTOPTB312161;我不向任何国王俯首称臣。这位也不例外。;;;;;;;;;;;;;x
+EVTOPTC312161;让他去做他的至尊王吧。但我是不会成为他的封臣的。;;;;;;;;;;;;;x
+EVTDESC312162;伟大的[Root.GetTitledName]，我已经考虑过了您的宣称，决定给予您我的支持，并承认您是不列颠尼亚的至尊之王。我准备好宣誓效忠，成为您忠诚的附庸。愿您的统治千秋万代，繁荣昌盛。\n\n敬礼，\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPTA312162;很好。你做了正确的选择。;;;;;;;;;;;;;x
+EVTDESC312163;我的[Root.GetTitle]，我已经考虑过了您的请求，我恭敬地告知您，我不会支持您对不列颠尼亚至尊王国的宣称。\n要想问鼎如此享有盛誉的王座，您还稍显稚嫩。\n\n请放弃您的宣称，\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPTA312163;我明白了...我会暂且放弃我的宣称。;;;;;;;;;;;;;x
+EVTOPTB312163;我相信我们会达成一份互惠协议...;;;;;;;;;;;;;x
+EVTOPTC312163;我将在战场上证明你的错误！准备开战吧！;;;;;;;;;;;;;x
+EVTDESC312164;伟大的[Root.GetTitledName]，我已经考虑过了您的宣称，决定承认您是至尊王。然而，我拒绝向您宣誓效忠，成为您的实质上的藩王。[From.PrimaryTitle.GetFullName]将保持独立。\n\n敬礼，\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPTA312164;足够了。我真正需要的就是正式承认而已。;;;;;;;;;;;;;x
+HK_declare_war;[Root.GetTitledFirstName]对[From.GetTitledName]宣战。\n如果胜利，[Root.GetTitledFirstName]可以再次宣称不列颠尼亚的至尊王座。不再需要[From.GetTitledFirstName]的支持。\n如果失败，[Root.GetTitledFirstName]将失去对至尊王国的一切权利，永远不能再行此宣称。;;;;;;;;;;;;;x
+EVTNAME312165;不列颠尼亚至尊王国;;;;;;;;;;;;;x
+EVTDESC312165;不列颠诸王一致宣布支持[From.GetTitledFirstName]对不列颠尼亚至尊王国的宣称，在[From.Location.GetName]的大礼堂将其加冕为至尊王。\n\n一些国王将宣誓效忠于[From.GetTitledFirstName]，从此作为其治下的藩王统治他们的领地。\n\n而其他国王，虽然支持加冕，但不同意成为另一位国王的实质上的附庸，仍将保持他们的正式独立。;;;;;;;;;;;;;x
+EVTOPTA312165;向[From.GetTitledFirstName]致敬！;;;;;;;;;;;;;x
+EVTOPTB312165;太好了！;;;;;;;;;;;;;x
+EVTOPTC312165;有趣...;;;;;;;;;;;;;x
+EVTNAME3121659;不列颠兄弟会;;;;;;;;;;;;;x
+EVTDESC3121659;[Root.GetTitledName]召集了不列颠群岛上最勇敢与最忠诚的战士，将他们团结在“不列颠兄弟会”的旗帜下。\n\n这个伟大的战士团体里的每一个人都宣誓效忠于[Root.GetTitledFirstName]，愿为不列颠尼亚的至尊王们抵抗外族入侵而奋斗终生。\n\n一旦获得独立，不列颠兄弟会的战士将会光荣地为任何布立吞或罗马-不列颠的国王而战，抵抗日耳曼或帝国的侵略军，并且决不收取酬金。;;;;;;;;;;;;;x
+EVTOPTA3121659;太好了。;;;;;;;;;;;;;x
+EVTOPTB3121659;有趣...;;;;;;;;;;;;;x
+EVTNAME312166;不列颠尼亚至尊王国;;;;;;;;;;;;;x
+EVTDESC312166;不列颠尼亚的至尊王座目前正在一位难负此等盛名的统治者手中。\n\n没有了他的诸位藩王的支持，[From.GetTitledFirstName]还坐在这古老而显赫的宝座上恐怕难以服众，从此刻起他就不再被承认为不列颠尼亚的至尊之王了。\n\n[From.GetTitledFirstName]的所有旧封臣将重新获得独立。;;;;;;;;;;;;;x
+EVTOPTA312166;不可接受！;;;;;;;;;;;;;x
+EVTOPTB312166;没有弱小的统治者可以成为至尊王...;;;;;;;;;;;;;x
+EVTOPTC312166;有趣...;;;;;;;;;;;;;x
+EVTNAME3121618;英格兰王国;;;;;;;;;;;;;x
+EVTDESC3121618;[From.GetTitledName]自称无愧于盎格鲁-撒克逊人的不列颠共主头衔，但他的合法性取决于其他国王的共识。你会支持[From.GetTitledFirstName]对王座的宣称，承认他是合法的英格兰的不列颠共主吗？;;;;;;;;;;;;;x
+EVTOPTA3121618;[From.GetTitledFirstName]是一位伟大的领袖。我将支持他的事业。;;;;;;;;;;;;;x
+EVTOPTB3121618;我不向任何国王俯首称臣。这位也不例外。;;;;;;;;;;;;;x
+EVTDESC3121628;伟大的[Root.GetTitledName]我已经考虑过了您的宣称，并决定全力支持您，承认您是英格兰的不列颠共主。愿您的统治千秋万代，繁荣昌盛。\n\n敬礼，\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPTA3121628;很好。你做了正确的选择。;;;;;;;;;;;;;x
+EVTDESC3121638;我的[Root.GetTitle]，我已经考虑过了您的宣称，我恭敬地告知您，我不会支持您对英格兰王国的宣称。\n要想问鼎如此享有盛誉的王座，您还稍显稚嫩。\n\n请放弃您的宣称，\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPTA3121638;我明白了...我会暂且放弃我的宣称。;;;;;;;;;;;;;x
+EVTOPTB3121638;我相信我们会达成一份互惠协议...;;;;;;;;;;;;;x
+EVTOPTC3121638;我将在战场上证明你的错误！准备开战吧！;;;;;;;;;;;;;x
+HK_aengland_declare_war;[Root.GetTitledFirstName]对[From.GetTitledName]宣战。\n如果胜利，[Root.GetTitledFirstName]可以再次宣称英格兰的不列颠共主头衔。不再需要[From.GetTitledFirstName]的支持。\n如果失败，[Root.GetTitledFirstName]将失去对此王国的一切权利，永远不能再行此宣称。;;;;;;;;;;;;;x
+EVTNAME3121658;英格兰王国;;;;;;;;;;;;;x
+EVTDESC3121658;盎格鲁-撒克逊人的国王们一致宣布支持[From.GetFirstName] [From.GetOnlyDynastyName]对英格兰王国的宣称。\n\n不列颠共主在[From.Location.GetName]的大蜜酒厅接受加冕。其余的盎格鲁-撒克逊国王们宣誓效忠于他，从此作为英格兰的藩王统治他们的领地。\n\n只要不列颠共主能在战场和议会大厅上不断证明自己的价值，他就可以继续持有他的头衔。;;;;;;;;;;;;;x
+EVTOPTA3121658;荣耀属于[From.GetTitledFirstName]！;;;;;;;;;;;;;x
+EVTOPTB3121658;太好了！以[From.Religion.GetRandomGodName]之名，吾乃不列颠共主。;;;;;;;;;;;;;x
+EVTOPTC3121658;有趣...;;;;;;;;;;;;;x
+EVTNAME3121668;英格兰王国;;;;;;;;;;;;;x
+EVTDESC3121668;英格兰的不列颠共主头衔目前正在一位难堪此等大任的统治者手中。\n\n没有了他的诸位藩王的支持，[From.GetTitledFirstName]还坐在这荣耀的宝座上恐怕难以服众，从此刻起他就不再被承认为英格兰的不列颠共主了。\n\n[From.GetTitledFirstName]的所有旧封臣将重新获得独立。;;;;;;;;;;;;;x
+EVTOPTA3121668;不可接受！;;;;;;;;;;;;;x
+EVTOPTB3121668;没有弱小的统治者可以成为不列颠共主！;;;;;;;;;;;;;x
+EVTOPTC3121668;有趣...;;;;;;;;;;;;;x
+aengland_require_tooltip;只有最伟大与最有力的盎格鲁-撒克逊国王可以宣称英格兰的不列颠共主头衔，而且必须得到其余盎格鲁-撒克逊国王的一致支持。;;;;;;;;;;;;;x
+aengland_kingdoms_required_tooltip;存在至少两位另外的独立的盎格鲁-撒克逊国王;;;;;;;;;;;;;x
+britannia_require_tooltip;只有最伟大与最有声望的布立吞统治者可以宣称不列颠尼亚的至尊王头衔，而且必须得到其余布立吞国王的一致支持。;;;;;;;;;;;;;x
+EVTNAME3129165;[Root.PrimaryTitle.GetFullName];;;;;;;;;;;;;x
+EVTDESC3129165;在成功征服了爱尔兰的土地之后，[Root.GetFullName]自称无愧于[Root.PrimaryTitle.GetName]至尊王的神圣头衔。他的封臣们承认他的最高统治权，在[Root.Location.GetName]的大礼堂将其加冕为至尊王。\n\n据说，基督教教会乐于见到一个更强大的政治权威出现在爱尔兰。它的神职人员一直在宣扬高王权理论，写作短文劝谏国王们进行实际的统治，而非统而不治。;;;;;;;;;;;;;x
+EVTOPTA3129165;向[From.GetTitledFirstName]致敬！;;;;;;;;;;;;;x
+EVTOPTB3129165;太好了！以[From.Religion.GetRandomGodName]之名，吾乃至尊王。;;;;;;;;;;;;;x
+EVTOPTC3129165;有趣...;;;;;;;;;;;;;x
+EVTNAME3129166;阿尔巴王国;;;;;;;;;;;;;x
+EVTDESC3129166;在成功征服了广阔寒冷的北方高地之后，[Root.GetFullName]自称为“阿尔巴的至尊之王”，将皮克特人、盖尔人、坎伯兰人和盎格鲁-撒克逊人联合为一个统一的王国，疆域从不列颠尼亚北端的高地，一直到安东尼长城以南的坎伯兰低地。他的封臣们承认他的最高统治权，并在[Root.Location.GetName]的大礼堂将其加冕为至尊王。\n\n即便各自为战，凶猛的高地勇士仍以其勇力著称，被认为是不可战胜的。如今北境终于联合在一位统治者麾下，还有谁可以真正地撼动他们吗？;;;;;;;;;;;;;x
+EVTOPTA3129166;向[From.GetTitledFirstName]致敬！;;;;;;;;;;;;;x
+EVTOPTB3129166;太好了！;;;;;;;;;;;;;x
+EVTOPTC3129166;有趣...;;;;;;;;;;;;;x
+EVTNAME3129167;汉奥格莱德;;;;;;;;;;;;;x
+EVTDESC3129167;在不列颠的北方诸省，古代坎伯兰人的旧北境王国，也被称作“汉奥格莱德”，在[Root.GetFullName]的统治下获得重生。他的封臣们承认他的最高统治权，在[Root.Location.GetName]的大礼堂将其加冕为至尊王。\n\n据说南方的盎格鲁-撒克逊人如钢铁，而北境的人们像磐石。预言中，北境的诸位真王将重获他们的疆土，并将他们的统治开拓到不列颠群岛上的每一寸土地。这统一的坎伯兰人的北境能否将日耳曼入侵者彻底赶出不列颠呢？;;;;;;;;;;;;;x
+EVTOPTA3129167;向[From.GetTitledFirstName]致敬！;;;;;;;;;;;;;x
+EVTOPTB3129167;我是旧北境的至尊王。;;;;;;;;;;;;;x
+EVTOPTC3129167;有趣...;;;;;;;;;;;;;x
+EVTNAME3129168;库姆里至尊王国;;;;;;;;;;;;;x
+EVTDESC3129168;随着东方被盎格鲁-撒克逊入侵者所攻陷，布立吞人向西逃亡，最终被迫进入了库姆里的丘陵和山谷。如今，[Root.GetFullName]成功统一了各个互相征战的布立吞人的小王国，在[Root.Location.GetName]的大礼堂被加冕为库姆里的至尊之王。\n\n当盎格鲁-撒克逊人征服了分裂为一个个小国的洛吉尔地区时，库姆里的布立吞人现在联合为一体。布立吞人能否一雪前耻，将日耳曼入侵者驱逐回海洋呢？;;;;;;;;;;;;;x
+EVTOPTA3129168;向[From.GetTitledFirstName]致敬！;;;;;;;;;;;;;x
+EVTOPTB3129168;我是布立吞人的至尊王。;;;;;;;;;;;;;x
+EVTOPTC3129168;有趣...;;;;;;;;;;;;;xEVTNAME314440;High Kingdom of Armorica;;;;;;;;;;;;;x
+EVTDESC314440;In the far northwest of Gaul, [Root.GetFullName] has managed to unite the principalities of the Armorican pennisula under his rule and conquer vast territories beyond into the heart of what was once known as Armorica. Now, his vassals have recognized his sovereign lordship, no longer a mere king among many, and crowned him High King in the Great Hall of [Root.Location.GetName]. \n\nWhile province after province fell to the barbarian invaders, Armorica stood as a bastion for Romans and Celts alike, successfully resisting every attempt to truly subjugate the pennisula. Will a unified Armorica be strong enough to resist the predations of the Germanic invaders and restore Celtic dominance over Gaul?;;;;;;;;;;;;;x
+EVTOPTA314440;Armorica shall prevail!;;;;;;;;;;;;;x
+EVTOPTB314440;Hail to [From.GetTitledFirstName]!;;;;;;;;;;;;;x
+EVTOPTC314440;This is interesting news...;;;;;;;;;;;;;x

@@ -1,0 +1,142 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+REL_CAPTOR;捕获者;;;;;;;;;;;;;;x
+PALACE_NAME;$DYNASTY$宫殿;;;;;;;;;;;;;;x
+family_palace;宫殿;;;;;;;;;;;;;;x
+family_palace_baron;公民;;;;;;;;;;;;;;x
+family_palace_baron_oldfrankish;贵族;;;;;;;;;;;;;;x
+family_palace_baron_roman;贵族;;;;;;;;;;;;;;x
+family_palace_baron_oldfrisian;贵族;;;;;;;;;;;;;;x
+family_palace_baron_frisian;贵族;;;;;;;;;;;;;;x
+family_palace_baron_female;女士;;;;;;;;;;;;;;x
+family_palace_barony_of;宫殿;;;;;;;;;;;;;;x
+family_palace_baron_foa;先生;;;;;;;;;;;;;;x
+family_palace_baron_deed;主席;;;;;;;;;;;;;;x
+fp_mansion_1;庄园;;;;;;;;;;;;;;x
+fp_mansion_2;大庄园;;;;;;;;;;;;;;x
+fp_mansion_3;宫殿;;;;;;;;;;;;;;x
+fp_mansion_4;大宫殿;;;;;;;;;;;;;;x
+fp_barracks_1;卫队营房;;;;;;;;;;;;;;x
+fp_barracks_2;铸剑房;;;;;;;;;;;;;;x
+fp_barracks_3;军械库;;;;;;;;;;;;;;x
+fp_stable_1;小马厩;;;;;;;;;;;;;;x
+fp_stable_2;跑马场;;;;;;;;;;;;;;x
+fp_stable_3;育马司;;;;;;;;;;;;;;x
+fp_bowyer_1;制弓匠;;;;;;;;;;;;;;x
+fp_bowyer_2;靶场;;;;;;;;;;;;;;x
+fp_bowyer_3;制弩坊;;;;;;;;;;;;;;x
+fp_shipyard_1;私人码头;;;;;;;;;;;;;;x
+fp_shipyard_2;私人船坞;;;;;;;;;;;;;;x
+fp_shipyard_3;船坞;;;;;;;;;;;;;;x
+fp_warehouse_1;私人档案馆;;;;;;;;;;;;;;x
+fp_warehouse_2;仓库;;;;;;;;;;;;;;x
+fp_warehouse_3;宫殿档案馆;;;;;;;;;;;;;;x
+fp_garden_1;庭院;;;;;;;;;;;;;;x
+fp_garden_2;花园;;;;;;;;;;;;;;x
+fp_garden_3;水池;;;;;;;;;;;;;;x
+fp_cellar_1;酒窖;;;;;;;;;;;;;;x
+fp_cellar_2;地牢;;;;;;;;;;;;;;x
+fp_cellar_3;地下迷宫;;;;;;;;;;;;;;x
+fp_shrine_1;僻静神社;;;;;;;;;;;;;;x
+fp_shrine_2;雕像画廊;;;;;;;;;;;;;;x
+fp_shrine_3;寺庙大殿;;;;;;;;;;;;;;x
+fp_vault_1;设防卧室;;;;;;;;;;;;;;x
+fp_vault_2;秘密通道;;;;;;;;;;;;;;x
+fp_vault_3;隐藏石窟;;;;;;;;;;;;;;x
+tr_port_1;小型贸易港口;;;;;;;;;;;;;;x
+tr_port_2;贸易港口;;;;;;;;;;;;;;x
+tr_port_3;大型贸易港口;;;;;;;;;;;;;;x
+tr_warehouse_1;小型仓库;;;;;;;;;;;;;;x
+tr_warehouse_2;仓库;;;;;;;;;;;;;;x
+tr_warehouse_3;大型仓库;;;;;;;;;;;;;;x
+tr_enclave_1;小型贸易飞地;;;;;;;;;;;;;;x
+tr_enclave_2;贸易飞地;;;;;;;;;;;;;;x
+tr_enclave_3;大型贸易飞地;;;;;;;;;;;;;;x
+tr_garrison_1;小型卫戍区;;;;;;;;;;;;;;x
+tr_garrison_2;卫戍区;;;;;;;;;;;;;;x
+tr_garrison_3;大型卫戍区;;;;;;;;;;;;;;x
+tr_fort_1;小型堡垒;;;;;;;;;;;;;;x
+tr_fort_2;堡垒;;;;;;;;;;;;;;x
+tr_fort_3;大型堡垒;;;;;;;;;;;;;;x
+title_state_inquisitor;国家检察官;;;;;;;;;;;;;;x
+title_state_inquisitor_desc;三位国家检察官负责解决内外威胁，确保共和国的安全。;;;;;;;;;;;;;;x
+title_high_admiral;海军上将;;;;;;;;;;;;;;x
+title_high_admiral_desc;海军上将在形式上是海军部的长官，负责共和国的海军，尽管他通常依赖一名可靠的职员。;;;;;;;;;;;;;;x
+title_high_judge;大法官;;;;;;;;;;;;;;x
+title_high_judge_desc;大法官是共和国的最高法官，在大多数法律事务中只向议会汇报。;;;;;;;;;;;;;;x
+EXPENSE_FAMILY_DUES;家族税;;;;;;;;;;;;;;x
+TRIGGER_CAPITAL_HOLDING;首都领地;;;;;;;;;;;;;;x
+LIFT_EMBARGO_EFFECT;解除对$WHO$的禁运\n;;;;;;;;;;;;;;x
+TRADE_INCOME;贸易收入;;;;;;;;;;;;;;x
+TRIGGER_TRADE_POST_OWNER;贸易站拥有者;;;;;;;;;;;;;;x
+FAM_REAL_FATHER;生父;;;;;;;;;;;;;;x
+AN_UNKNOWN_FATHER;未知父亲;;;;;;;;;;;;;;x
+WAS_NOT_CONCEIVED_A_BASTARD;不被认为是私生子;;;;;;;;;;;;;;x
+WAS_CONCEIVED_A_BASTARD;被认为是私生子;;;;;;;;;;;;;;x
+FATHER_OF_UNBORN_KNOWN;这未出生婴儿的父亲是未知的;;;;;;;;;;;;;;x
+FATHER_OF_UNBORN_NOT_KNOWN;这未出生婴儿的父亲是已知的;;;;;;;;;;;;;;x
+EVTOPTA319;哎呀...;;;;;;;;;;;;;;x
+RESPECT;德望;;;;;;;;;;;;;;x
+RESPECT_DESC;德望是一种基于共和国公民的年龄和威望的价值，决定了他有多大的可能被选入公共机构。;;;;;;;;;;;;;;x
+AGE_FACTOR;年龄因素;;;;;;;;;;;;;;x
+IS_PATRICIAN;是共和国公民;;;;;;;;;;;;;;x
+ISNT_PATRICIAN;不是共和国公民;;;;;;;;;;;;;;x
+IS_MERCHANT_REPUBLIC;是商业共和国;;;;;;;;;;;;;;x
+ISNT_MERCHANT_REPUBLIC;不是商业共和国;;;;;;;;;;;;;;x
+patrician_elective;共和国选举;;;;;;;;;;;;;;x
+succ_patrician_elective;共和国选举;;;;;;;;;;;;;;x
+succ_patrician_elective_desc;这是商业共和国和公民主教区所采用的继承类型。下一任统治者是根据年龄、威望和被投入的公民基金，从五大家族的首领中选出。;;;;;;;;;;;;;;x
+IN_FAVOR_OF;支持 $NAME$;;;;;;;;;;;;;;x
+NO_BANKRUPT;你没有破产;;;;;;;;;;;;;;x
+TRADEPOST_PROV;$PROV$的贸易站;;;;;;;;;;;;;;x
+TRADEPOST_PROV_LONG;$PROV$的贸易站 - $REPUBLIC$ ( $FAMILY$ );;;;;;;;;;;;;;x
+BUILD_TRADE_POST;建造一个新的贸易站;;;;;;;;;;;;;;x
+TRADE_COST_DIST_TOTAL;距离惩罚: +$PENALTY$% ( 总距离的 $MULT$% );;;;;;;;;;;;;;x
+TRADE_COST_DIST;与共和国省份的距离 ( $PROVINCE$ ): $COST$;;;;;;;;;;;;;;x
+TRADE_COST_REGION_PEN;不同贸易地区: +$PENALTY$;;;;;;;;;;;;;;x
+TRADE_COST_MULT;与成本乘数的距离: $MULT$%;;;;;;;;;;;;;;x
+TOTAL_COST;总成本: $COST$;;;;;;;;;;;;;;x
+TRADEPOST_FINISHED_SETUP;贸易站建成;;;;;;;;;;;;;;x
+TRADEPOST_FINISHED_LOG;$REPUBLIC$的$FAMILY$家族在$PROVINCE$建造了一座新的贸易站;;;;;;;;;;;;;;x
+TRADEPOST_OWNER;贸易站被 $FAMILY$ 家族拥有;;;;;;;;;;;;;;x
+TRADEZONE_OWNER;这个贸易区被$REPUBLIC$的$FAMILY$家族所拥有;;;;;;;;;;;;;;x
+TRADEREGION_DESC;这个省份属于 $REGION$?;;;;;;;;;;;;;;x
+TRADE;贸易;;;;;;;;;;;;;;x
+TRADE_ZONE;贸易区:;;;;;;;;;;;;;;x
+TOTAL_TRADE_FAMILY;家族总数:;;;;;;;;;;;;;;x
+TRADE_ZONE_BONUS;贸易区奖励;;;;;;;;;;;;;;x
+TRADE_CONNECTED_BONUS;与首都相连;;;;;;;;;;;;;;x
+CURRENT_INCOME;目前基本收入: $INCOME$;;;;;;;;;;;;;;x
+INCOME_TRADEPOST;来自该贸易站的收入;;;;;;;;;;;;;;x
+TRADEZONE_SIZE;贸易区规模;;;;;;;;;;;;;;x
+TRADEZONE_SIZE_DESC;该贸易站所在的贸易区中的贸易站数量;;;;;;;;;;;;;;x
+TRADEZONE_VALUE;贸易区价值;;;;;;;;;;;;;;x
+TRADEZONE_VALUE_DESC;该贸易区所有领地的价值\n增加该贸易区中的贸易站和城市的价值:\n贸易站: $TPBONUS$\n城市: $CTBONUS$;;;;;;;;;;;;;;x
+TRADEZONE_INCOME;贸易区收入;;;;;;;;;;;;;;x
+TRADEZONE_INCOME_DESC;来自该贸易区所有贸易站的总收入: $INCOME$;;;;;;;;;;;;;x
+TheRepublicDLC;共和国;La R閜ublique;Die Republik;;La Rep鷅lica;;;;;;;;;x
+CONFIRM_BUILD_TRADEPOST_TITLE;建造贸易站;;;;;;;;;;;;;;x
+CONFIRM_BUILD_TRADEPOST_DESC;你确定想要建造一座贸易站吗？\n这将花费你$COST$，并会在$FINISHED$完成;;;;;;;;;;;;;;x
+TRADEFAMILY_INCOME;家族总收入;;;;;;;;;;;;;;x
+TRADEFAMILY_INCOME_DESC;来自$FAMILY$家族所属贸易站的总收入: $INCOME$;;;;;;;;;;;;;x
+TRADEFAMILY_SIZE;家族总规模;;;;;;;;;;;;;;x
+TRADEFAMILY_SIZE_DESC;$FAMILY$家族所属贸易站的数量;;;;;;;;;;;;;;x
+TRADEPOST_UNDER_CONSTRUCTION;$BUILDER$建造中的贸易站\n将在$DATE$完成;;;;;;;;;;;;;;x
+MODIFIER_TRADEVALUE;贸易价值;;;;;;;;;;;;;;x
+MODIFIER_RETINUESIZE;扈从规模;;;;;;;;;;;;;;x
+CAMPAIGN_FUND;公民基金;;;;;;;;;;;;;;x
+CAMPAIGN_FUND_DESC;公民基金中的钱将增加你在参议院中的德望，并使你的候选人更有可能被选为下一任的$RULER_TITLE$。你可以自由地调整基金数额直到现在的$RULER_TITLE$去世，届时基金将被用在竞选中。;;;;;;;;;;;;;;x
+EXPECTED_SUCCESSOR;预计继任者;;;;;;;;;;;;;;x
+EXPECTED_SUCCESSOR_DESC;$HEIR$被普遍地预测将会继任$RULER$。然而，在选举中总是存在着一些不确定性 - 为了确保成功，你也许想要在你的公民基金中投入比严格的最低额度更多的钱。;;;;;;;;;;;;;;x
+THE_REPUBLIC;共和国;;;;;;;;;;;;;;x
+PATRICIAN_DYNASTY_FALLS_SETUP;共和国家族衰落;;;;;;;;;;;;;;x
+PATRICIAN_DYNASTY_FALLS_LOG;随着$PATRICIAN$之死，声名显赫的共和国家族$DYNASTY$就此绝迹。;;;;;;;;;;;;;;x
+PATRICIAN_DYNASTY_RISES_SETUP;共和国家族崛起;;;;;;;;;;;;;;x
+PATRICIAN_DYNASTY_RISES_LOG;一个伟大而强有力的商人家族从此兴起，并在$PATRICIAN$领导下成为了$TITLE_ADJ$政坛上一颗闪耀的新星。;;;;;;;;;;;;;;x
+NEW_DOGE_ELECTED_SETUP;共和国选举;;;;;;;;;;;;;;x
+NEW_DOGE_ELECTED_LOG;$NEW_DOGE$被选为$TITLE$公民共和国的$RULER_TITLE$。;;;;;;;;;;;;;;x
+CB_NAME_EMBARGO;禁运;;;;;;;;;;;;;;x
+WAR_NAME_EMBARGO;$ORDER$ $FIRST_ADJ$-$SECOND_ADJ$ 禁运战争;;;;;;;;;;;;;;x
+CB_NAME_COASTAL_REPUBLIC;夺取[Title.GetBaseName]的城镇;;;;;;;;;;;;;;x
+WAR_NAME_COASTAL_REPUBLIC;$ORDER$ $FIRST_ADJ$-$SECOND_ADJ$ 夺取$OTHER_TITLE$城镇战争;;;;;;;;;;;;;;x
+CB_NAME_COASTAL_COUNTY_REPUBLIC;夺取[Title.GetBaseName];;;;;;;;;;;;;;x
+WAR_NAME_COASTAL_COUNTY_REPUBLIC;$ORDER$ $FIRST_ADJ$-$SECOND_ADJ$ 夺取$OTHER_TITLE$海岸战争;;;;;;;;;;;;;;x

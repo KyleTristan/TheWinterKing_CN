@@ -1,0 +1,88 @@
+HINT_TECH_VIEW_TEXT_2;所有领主等级以上的统治者都会根据他们的属性逐渐累加三个组别的科技点数。\n这些点数可以用来提升他们首都的科技水平。\n科技也会传播到邻近的省份，在领地省份之间或者在贸易区中。;;;;;;;;;;;;x
+PROVINCE_TECHNOLOGY;当地文明发展;;;;;;;;;;;;;x
+TECH_BOWS;箭术;;;;;;;;;;;;;x
+TECH_BOWS_DESC;改进弓弩。;;;;;;;;;;;;;x
+TECH_LIGHT_ARMOUR;轻甲;;;;;;;;;;;;;x
+TECH_LIGHT_ARMOUR_DESC;为轻装部队和弓箭手加强皮甲。;;;;;;;;;;;;;x
+TECH_HEAVY_ARMOUR;重甲;;;;;;;;;;;;;x
+TECH_HEAVY_ARMOUR_DESC;为战士和骑兵加强盔甲。;;;;;;;;;;;;;x
+TECH_INFANTRY_MELEE_WEAPONS;步兵武器;;;;;;;;;;;;;x
+TECH_INFANTRY_MELEE_WEAPONS_DESC;为长枪兵和战士精锻武器。;;;;;;;;;;;;;x
+TECH_CAVALRY_MELEE_WEAPONS;骑兵武器;;;;;;;;;;;;;x
+TECH_CAVALRY_MELEE_WEAPONS_DESC;为轻骑兵和重骑兵精锻武器。;;;;;;;;;;;;;x
+TECH_SIEGE_EQUIPMENT;围城策略;;;;;;;;;;;;;x
+TECH_SIEGE_EQUIPMENT_DESC;优化围城策略并改进围城器械。;;;;;;;;;;;;;x
+TECH_TACTICS;战术;;;;;;;;;;;;;x
+TECH_TACTICS_DESC;改进军事策略以增强士气，以更小的损失取胜。;;;;;;;;;;;;;x
+TECH_CASTLE_TAXES;农业;;;;;;;;;;;;;x
+TECH_CASTLE_TAXES_DESC;改进种植方法以城堡领有的农田获得更大的收入。;;;;;;;;;;;;;x
+TECH_CITY_TAXES;商业;;;;;;;;;;;;;x
+TECH_CITY_TAXES_DESC;发展商业以从城镇和城市获得更多的税收。;;;;;;;;;;;;;x
+TECH_TEMPLE_TAXES;宗教税;;;;;;;;;;;;;x
+TECH_TEMPLE_TAXES_DESC;研究新方法来从当地牧师处收取你的税。;;;;;;;;;;;;;x
+TECH_CASTLE_CONSTRUCTION;军事基础设施;;;;;;;;;;;;;x
+TECH_CASTLE_CONSTRUCTION_DESC;为城堡升级建筑和设施。;;;;;;;;;;;;;x
+TECH_CITY_CONSTRUCTION;民用基础设施;;;;;;;;;;;;;x
+TECH_CITY_CONSTRUCTION_DESC;为城镇升级建筑和设施。;;;;;;;;;;;;;x
+TECH_TEMPLE_CONSTRUCTION;宗教基础设施;;;;;;;;;;;;;x
+TECH_TEMPLE_CONSTRUCTION_DESC;为寺庙和教堂升级建筑和设施。;;;;;;;;;;;;;x
+TECH_FORTIFICATIONS_CONSTRUCTION;军事防御工事;;;;;;;;;;;;;x
+TECH_FORTIFICATIONS_CONSTRUCTION_DESC;升级堡垒，城墙和防御工事。;;;;;;;;;;;;;x
+TECH_CONSTRUCTION;建筑业;;;;;;;;;;;;;x
+TECH_CONSTRUCTION_DESC;优化建筑解决方案，提高建筑技术。;;;;;;;;;;;;;x
+TECH_NOBLE_CUSTOMS;封建习俗;;;;;;;;;;;;;x
+TECH_NOBLE_CUSTOMS_DESC;提升和封建领主附庸的关系。;;;;;;;;;;;;;x
+TECH_POPULAR_CUSTOMS;市民习俗;;;;;;;;;;;;;x
+TECH_POPULAR_CUSTOMS_DESC;提升与城镇公民附庸的关系。;;;;;;;;;;;;;x
+TECH_RELIGIOUS_CUSTOMS;宗教习俗;;;;;;;;;;;;;x
+TECH_RELIGIOUS_CUSTOMS_DESC;提升与牧师附庸的关系。;;;;;;;;;;;;;x
+TECH_MAJESTY;国家王权;;;;;;;;;;;;;x
+TECH_MAJESTY_DESC;我们的家族变得更加富有声望。;;;;;;;;;;;;;x
+TECH_SPIRITUAL_ART;精神艺术;;;;;;;;;;;;;x
+TECH_SPIRITUAL_ART_DESC;鼓励精神艺术来赞美神灵。;;;;;;;;;;;;;x
+TECH_CULTURE_FLEX;文化自由;;;;;;;;;;;;;x
+TECH_CULTURE_FLEX_DESC;接受不同文化的人。;;;;;;;;;;;;;x
+TECH_RELIGION_FLEX;宗教宽容;;;;;;;;;;;;;x
+TECH_RELIGION_FLEX_DESC接受不同信仰的人。;;;;;;;;;;;;;x
+TECH_LEGALISM;法条主义;;;;;;;;;;;;;x
+TECH_LEGALISM_DESC;有了明确成文的法律，人民会更加容易接受新统治者的合法性。;;;;;;;;;;;;;x
+TECH_LIGHT_INFANTRY;轻步兵;;;;;;;;;;;;;x
+TECH_LIGHT_INFANTRY_DESC;为民兵和弓箭手生产更好的武器和盔甲。;;;;;;;;;;;;;x
+TECH_HEAVY_INFANTRY;重步兵;;;;;;;;;;;;;x
+TECH_HEAVY_INFANTRY_DESC;为战士和长枪兵生产更好的武器和盔甲。;;;;;;;;;;;;;x
+TECH_CAVALRY;骑兵;;;;;;;;;;;;;x
+TECH_CAVALRY_DESC;为轻骑兵和重骑兵生产更好的武器和盔甲。;;;;;;;;;;;;;x
+TECH_NAVAL;造船业;;;;;;;;;;;;;x
+TECH_NAVAL_DESC;更好的造船技术。;;;;;;;;;;;;;x
+TECH_TRADE_PRACTICES;贸易;;;;;;;;;;;;;x
+TECH_TRADE_PRACTICES_DESC;更好的贸易习惯和活动。;;;;;;;;;;;;;x
+TECH_CULTURE_FLEX_DESC;接受他人使得更便于统治不同文化和不同宗教的地区。;;;;;;;;;;;;;x
+TECH_INVEST;投资 $TECHNAME$\n花费: $COST$/$MAX$;;;;;;;;;;;;;x
+TECH_INVEST_DESC;通过花费 $POINTS$ $POINTTYPE$ 你可以将这项科技提升至 $NEXTLEVEL$;;;;;;;;;;;;;x
+POINTTYPE_MIL;军事科技点数;;;;;;;;;;;;;x
+POINTTYPE_ECO;经济科技点数;;;;;;;;;;;;;x
+POINTTYPE_CUL;文化科技点数;;;;;;;;;;;;;x
+TECH_FROM_ATTRIBUTES;$GROWTH$ / 月 ，根据统治者属性;;;;;;;;;;;;;x
+TECH_DESC_CAPITAL;在你的首都$PROV$的进展;;;;;;;;;;;;;x
+SPREAD_FROM_TRADE;贸易站奖励;;;;;;;;;;;;;x
+MODIFIER_TECH_GROWTH_MODIFIER;科技传播率;;;;;;;;;;;;;x
+MODIFIER_TECH_GROWTH_MILITARY;军事科技传播率;;;;;;;;;;;;;x
+MODIFIER_TECH_GROWTH_ECONOMY;经济科技传播率;;;;;;;;;;;;;x
+MODIFIER_TECH_GROWTH_CULTURE;文化科技传播率;;;;;;;;;;;;;x
+SPREAD_FROM_SPYACTION;间谍总管学习和研究;;;;;;;;;;;;;x
+TECH_MAPMODE_BUTTON_IRO;地图模式: 相对传播;;;;;;;;;;;;;x
+TECH_MAPMODE_BUTTON_DRO;世界上目前的技术进步水平（深蓝色最低，白色最高）。;;;;;;;;;;;;;x
+TECH_MARTIAL_VALUE;基础军事科技点数增长;;;;;;;;;;;;;x
+TECH_STEWARDSHIP_VALUE;基础经济科技点数增长;;;;;;;;;;;;;x
+TECH_DIPLOMACY_VALUE;基础文化科技点数增长;;;;;;;;;;;;;x
+TECH_POINTS_PER_MONTH; 点 / 月;;;;;;;;;;;;;x
+TECHPOINT_EFFECT;$DIRECTION$ $VALUE$ $TYPE$.\n;;;;;;;;;;;;;x
+TECH_POINTS_PER_ATTRIBUTE;科技点 / 属性点;;;;;;;;;;;;;x
+PARTIALLY_FILLED;部分填充;;;;;;;;;;;;;x
+COUNT_TECH_POINTS;低等级统治者不会造成文化进步。;;;;;;;;;;;;;x
+alert_can_tech_instant;你应该投资一项技术进步;;;;;;;;;;;;;x
+alert_can_tech_delayed;你在一个科技组内拥有足够的科技点数去投资其中任何一项。;;;;;;;;;;;;;x
+TECH_REMOVE_PAGAN_HOME_ATTRITION;移除异教本土损耗惩罚。;;;;;;;;;;;;;x
+TRADE_TECH_TOO_LOW;目前的贸易技术太低以致不能建造贸易站。;;;;;;;;;;;;;x
+TRADE_TECH_ALLOW_TRADEPOSTS;允许建造贸易站。;;;;;;;;;;;;;x
+TRADE_TECH_TRADEPOST_INC;最大贸易站数量: +$INC$%;;;;;;;;;;;;;x

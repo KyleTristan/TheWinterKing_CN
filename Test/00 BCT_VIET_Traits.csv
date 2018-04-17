@@ -1,0 +1,127 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+tall;高大;Tall;Tall;;Alto;;;;;;;;;x
+tall_desc;此人的身材比大多数人都要高大。; This character is of considerable stature, taller than most.; This character is of considerable stature, taller than most.;;Este personaje tiene una altura considerable, m醩 alto que la mayor韆.;;;;;;;;;x
+agile;敏捷;Agile;Agile;;羐il;;;;;;;;;x
+agile_desc;此人比大数人都灵活敏捷。;This character is nimbler and quicker than most.;This character is nimbler and quicker than most.;;Este personaje es m醩 r醦ido y escurridizo que la mayor韆.;;;;;;;;;x
+perceptive;敏锐;Perceptive;Perceptive;;Perspicaz;;;;;;;;;x
+perceptive_desc;此人非常敏锐，拥有强大的洞察力和直觉。;This character is sharp, possessing excellent senses and intuition.;This character is sharp, possessing excellent senses and intuition.;;Este personaje es sagaz, y posee excelentes sentidos e intuici髇.;;;;;;;;;x
+melodious_voice;悦耳的声线;Melodious Voice;Melodious Voice;;Voz melodiosa;;;;;;;;;x
+melodious_voice_desc;此人的嗓音令人愉悦，听起来像是鸟儿的歌声，或是一众天使的吟唱。; This character has a pleasing voice that sounds like the singing of birds, or a choir of angels.; This character has a pleasing voice that sounds like the singing of birds, or a choir of angels.;;Este personaje tiene una voz agradable que suena como el canto de los p醞aros, o un coro de 醤geles.;;;;;;;;;x
+powerful_voice;响亮的声线;Powerful Voice;Powerful Voice;;Voz poderosa;;;;;;;;;x
+powerful_voice_desc;此人说起话来令人印象深刻，能够说服朋友，威吓敌人，激励下属。; This character speaks in an imposing tone that can persuade friends, frighten enemies, and inspire subordinates.; This character speaks in an imposing tone that can persuade friends, frighten enemies, and inspire subordinates.;;Este personaje habla con un tono imponente que logra persuadir amigos, asustar enemigos e inspirar a sus subordinados;;;;;;;;;x
+ambidextrous;双利手;Ambidextrous;Ambidextrous;;Ambidiestro;;;;;;;;;x
+ambidextrous_desc;此人能自如地使用任何一只手做事。因此无论做任何事，不管是使剑或写信，都更有效率。;;;;Este personaje es capaz de usar ambas manos con igual destreza. Como resultado, es m醩 eficiente en cualquier tarea manual, como manejar la espada o escribir cartas.;;;;;;;;;x
+lefthanded;左利手;Lefthanded;Lefthanded;;Zurdo;;;;;;;;;x
+lefthanded_desc;此人的左手比右手用得要好。当与别人打交道时这提供了很多益处，但这会被宗教权威看作是不虔诚的表现。;;;;Este personaje es m醩 h醔il con la izquierda que con la derecha. Le da mucha ventaja en sus enfrentamientos con los dem醩, pero es visto como imp韔 por las autoridades religiosas.;;;;;;;;;x
+wrymouth;口僻;Wrymouth;Wrymouth;;Quijada deforme;;;;;;;;;x
+wrymouth_desc;此人天生有着奇形怪状的颏或颌，也许太小，或者太小。幸亏这个面部特征不会遗传。;;;;Este personaje ha nacido con la mand韇ula o la barbilla excesivamente prominente o demasiado peque馻. Con algo de suerte este rasgo no se heredar?;;;;;;;;;x
+absentminded;健忘;Absent-Minded;Absent-Minded;;Olvidadizo;;;;;;;;;x
+absentminded_desc;此人行为古怪，天生浮躁。往往容易忘记事情，容易分心，或两者都有。这种行为可能对一些人来说是可爱的，但对于另一些人是一种烦恼。;;;;Este personaje ha nacido con un temperamento err醫ico. Olvida las cosas con facilidad, se distrae a menudo, o ambas cosas. Este comportamiento puede parecer entra馻ble a algunos, pero es un incordio para otros.;;;;;;;;;x
+deaf;失聪;Deaf;Deaf;;Sordo;;;;;;;;;x
+deaf_desc;此人听觉不灵，甚至根本听不到。这种残疾限制了其行动能力。;;;;A este personaje le cuesta escuchar o, peor a鷑, no oye nada.  Esta incapacidad reduce sus posibilidades de acci髇.;;;;;;;;;x
+lip_reader;读唇者;Lip-reader;Lip-reader;;Lector de labios;;;;;;;;;x
+lip_reader_desc;此人通过学习读唇语克服了听觉障碍。;This character has overcome their deafness by learning how to read lips.;This character has overcome their deafness by learning how to read lips.;;Este personaje ha superado su sordera aprendiendo a leer los labios.;;;;;;;;;x
+wrymouth_death;口僻引发的健康并发症;of health complications due to wrymouth;of health complications due to wrymouth;;de complicaciones de salud por quijada deforme;;;;;;;;;x
+EVTDESC1000109212;我从记事起就聋了。我无法理解人们对我说的任何东西，这是我与人交谈时的一个大麻烦。一定有方法让我去理解别人说的话。也许我可以尝试着观察他们嘴唇的动作。;I抳e been deaf for as long as I can remember. I can抰 understand anything when people talk to me, and it抯 a real hassle when I communicate with anybody. There must be a way for me to understand others?speech. Perhaps I can try to watch the way their lips move?I抳e been deaf for as long as I can remember. I can抰 understand anything when people talk to me, and it抯 a real hassle when I communicate with anybody. There must be a way for me to understand others?speech. Perhaps I can try to watch the way their lips move?;Recuerdas haber sido siempre sordo. No entiendes nada cuando la gente te habla, y un aut閚tico l韔 comunicarte con cualquiera. Debe haber una forma para ti de entender lo que dicen los dem醩. Tal vez puedas observar c髆o mueven los labios...;;;;;;;;;x
+EVTOPTA1000109212;让我们来试试！;Let抯 try this!;Let抯 try this!;;ntent閙oslo!;;;;;;;;;x
+EVTOPTB1000109212;我应该仔细地观察每个人说话时的嘴唇。;I should carefully observe everyone抯 lips when they speak.;I should carefully observe everyone抯 lips when they speak.;;Deber韆 observar cuidadosamente los labios de los dem醩 cuando hablan.;;;;;;;;;x
+EVTOPTC1000109212;我多少掌握了一点窍门。;I know a few tricks here and there that may help?I know a few tricks here and there that may help?;Me conozco un par de trucos que podr韆n servir...;;;;;;;;;x
+EVTDESC1000109046;从出生起我就聋了。在小时候这已经足够令人沮丧的了，而现在作为一个成年人，我不堪忍受。我不能像其他人一样在社会中发挥自己的作用，我的残疾在几乎所有领域都限制了我的能力。然而，最近我正在试着学习读唇语。这也许是我克服听觉障碍的唯一途径。;Ever since I was born, I抳e been deaf. As a child, it was frustrating enough, but now, as a grown adult, it is unbearable. I can抰 function in society as well as others, and my disability limits my ability in virtually every field. However, lately I抳e been trying to learn how to lip-read. It may be the only way I can overcome my deafness.;Ever since I was born, I抳e been deaf. As a child, it was frustrating enough, but now, as a grown adult, it is unbearable. I can抰 function in society as well as others, and my disability limits my ability in virtually every field. However, lately I抳e been trying to learn how to lip-read. It may be the only way I can overcome my deafness.;;Has sido sordo desde el momento de nacer. Como ni駉 ya era bastante frustrante, pero ahora de adulto, es insoportable. No te desenvuelves en sociedad tan bien como los dem醩, y tu incapacidad te limita en casi cualquier cosa que haces. Sin embargo, 鷏timamente has estado aprendiendo a leer los labios, puede que sea la 鷑ica manera de sobrellevar tu sordera.;;;;;;;;;x
+EVTOPTA1000109046;我可以做到。;I can do this.;I can do this.;;Puedo hacerlo;;;;;;;;;x
+EVTOPTB1000109046;让我辨别人们说话时嘴唇是如何变化的。;Let me discern how mouths move when people speak.;Let me discern how mouths move when people speak.;;D閖ame que estudie c髆o se mueven las bocas cuando la gente habla.;;;;;;;;;x
+EVTOPTC1000109046;我能琢磨出一些解决这个问题的好办法。;I can reason out a few clever approaches to this problem.;I can reason out a few clever approaches to this problem.;;Puedo elaborar un par de ideas inteligentes sobre c髆o superarlo.;;;;;;;;;x
+EVTDESC1000109041;失明真是糟糕透顶。如今我甚至连读唇语都做不到了。;Being blinded was bad enough. Now I can抰 even lip-read anymore.;Being blinded was bad enough. Now I can抰 even lip-read anymore.;;Por si no tuvieras bastante con ser sordo, ni siquiera eres capaz de leer los labios.;;;;;;;;;x
+EVTOPTA1000109041;不！！！;;;;;NOOOOOOOOOOOOOOOOOO?;;;;;;;;x
+nick_longshanks;长腿;;;;Zancudo;;;;;;;;;x
+nick_wrymouth;歪嘴;;;;Quijada deforme;;;;;;;;;x
+nick_deaf;聋子;;;;el(la) Sordo(a);;;;;;;;;x
+nick_swift;敏捷者;;;;el(la) Veloz;;;;;;;;;x
+nick_the_terrifying;恐怖者;;;;el(la) Terror韋ico(a);;;;;;;;;x
+creative;创造性的;Creative;Creative;;Creativo;;;;;;;;;x
+creative_desc;此人比大多数人更富有想象力，能想出创新的解决方案和意想不到的独特点子。;;;;Este personaje tiene m醩 imaginaci髇 que la mayor韆, capaz de tramar soluciones innovadoras y aparecer con inesperadas y excepcionales ideas.;;;;;;;;;x
+calm_voice;平静的声线;Calm Voice;Calm Voice;;Voz calma;;;;;;;;;x
+calm_voice_desc;此人的声音自然舒缓。它既不有力也不悦耳，但它的柔和能够抚慰愤怒的人们，狡猾地说服多疑的人们。;;;;La voz de este personaje es naturalmente tranquilizadora. Sin ser poderosa ni melodiosa, su sonido apacigua al m醩 enfadado y t韒idamente persuade al m醩 esc閜tico. ;;;;;;;;;x
+imposing;威风;Imposing;Imposing;;Imponente;;;;;;;;;x
+imposing_desc;无论是由于其身材或是特有的气质，此人拥有引人注目的姿态和威严的风度。对一些人来说，这有时甚至是可怕的。;;;;Ya sea por su estatura o por su complexi髇 f韘ica, este personaje tiene una postura notable y una presencia dominante. Para algunos, es incluso terror韋ico a veces.;;;;;;;;;x
+fertile;多产;Fertile;Fertile;;F閞til;;;;;;;;;x
+fertile_desc;此人在某些方面很“大”，说穿了就是性别特征明显，或如一些人所说的，这使其生育能力更强。;;;;;;;;;;;;;x
+#INSULTS/COMPLIMENTS;;;;;;;;;;;;;;x
+COMPL_GIANT;巨人;;;;;;;;;;;;;x
+COMPL_FLEET_FOOT;矫健的;;;;;;;;;;;;;x
+COMPL_SWIFT;敏捷的;;;;;;;;;;;;;x
+INSULT_TWINKLE_TOES;轻盈;;;;;;;;;;;;;x
+INSULT_TWINKLE_TOED;轻盈;;;;;;;;;;;;;x
+COMPL_SHARP;敏锐的;;;;;;;;;;;;;x
+COMPL_HONEY_VOICE;甜蜜的声线;;;;;;;;;;;;;x
+COMPL_MIGHTY_VOICE;威武的声线;;;;;;;;;;;;;x
+INSULT_DOUBLE_HANDED;双利手;;;;;;;;;;;;;x
+INSULT_LEFT_HANDED;左利手;;;;;;;;;;;;;x
+INSULT_LEFT_HANDED_FREAK;左撇子怪胎;;;;;;;;;;;;;x
+COMPL_DEFT;灵巧的;;;;;;;;;;;;;x
+INSULT_DROOLING;流哈喇子的;;;;;;;;;;;;;x
+INSULT_DEAF;聋子;;;;;;;;;;;;;x
+COMPL_DAYDREAMER;空想家;;;;;;;;;;;;;x
+INSULT_CUCKOOHEAD;傻子;;;;;;;;;;;;;x
+INSULT_OBLIVIOUS;健忘的;;;;;;;;;;;;;x
+COMPL_WELL_ENDOWED;器大的;;;;;;;;;;;;;x
+INSULT_PHALLUS;阴茎;;;;;;;;;;;;;x
+INSULT_COCKY;自大的;;;;;;;;;;;;;x
+INSULT_TITS;乳头;;;;;;;;;;;;;x
+COMPL_IMPOSING;威风的;;;;;;;;;;;;;x
+INSULT_SCARY;胆小的;;;;;;;;;;;;;x
+INSULT_CREEP;卑鄙的;;;;;;;;;;;;;x
+#LE LIFESTYLE TRAITS;;;;;;;;;;;;;;x
+loremaster;博学之士;;;;;;;;;;;;;x
+loremaster_desc;此人通晓与其人民有关的历史，神话，地理和精神信仰。;;;;;;;;;;;;;x
+herbalist;草药医生;;;;;;;;;;;;;x
+herbalist_desc;此人熟知当地的药草，植物，真菌，矿物等，拥有代代相传的知识：如何制作出最佳的药剂。;;;;;;;;;;;;;x
+VIETtraits.0.desc;[Root.Culture.GetName]长者们知晓许多事情 - 我们人民的历史，传说与英雄，自然的秘密。我决定花一些时间向他们请教，以此变成睿智与博学。;;;;;;;;;;;;;x
+VIETtraits.0.a;告诉我世界的秘密。;;;;;;;;;;;;;x
+VIETtraits.1.tooltip;你求学于长者。;;;;;;;;;;;;;x
+VIETtraits.1.desc;我从长者那里获益良多。但是有如此多的东西要学，如此多的代代相传的智慧。我应该专注于其中某一些，而不是全部都学。;;;;;;;;;;;;;x
+VIETtraits.1.a;自然的秘密吸引着我。;;;;;;;;;;;;;x
+VIETtraits.1.b;我对我们人民的历史，传说和神话感兴趣。;;;;;;;;;;;;;x
+VIETtraits.2.tooltip;长者们教授予你草药医生的技艺。;;;;;;;;;;;;;x
+VIETtraits.2.tooltip.a;你改变焦点于研究草药和植物。;;;;;;;;;;;;;x
+VIETtraits.2.desc;与长者们在野外度过的时光令我增长了见闻。他们告诉了我草药，坚果，水果，蘑菇和其他能够提供营养和治愈我们的东西，以及那些损害精神和伤害我们的。凭借这古老的[Root.Culture.GetName]的智慧，我现在对自然有了更好的了解。;;;;;;;;;;;;;x
+VIETtraits.2.a;我将继续开阔我的见闻！;;;;;;;;;;;;;x
+VIETtraits.2.b;我正在失去兴趣。我为什么不去了解一些我们的荣耀往昔呢？;;;;;;;;;;;;;x
+VIETtraits.3.tooltip;长者们教授予你人民的传说。;;;;;;;;;;;;;x
+VIETtraits.3.tooltip.a;你改变焦点于研究传说。;;;;;;;;;;;;;x
+VIETtraits.3.desc;长者们告诉了我那些光荣的英雄，卑鄙的骗子，[Root.Culture.GetName]人民自古以来如数家珍的传说故事。我如今可以详细地叙述诸神的功绩和我们祖先的奋斗史。我在历史，神话，地理和信仰等方面的知识日益增长。;;;;;;;;;;;;;x
+VIETtraits.3.a;我将继续学习这古老的智慧。;;;;;;;;;;;;;x
+VIETtraits.3.b;尽管这很有趣，但我想转而研究一下自然。;;;;;;;;;;;;;x
+VIETtraits.4.tooltip;在未来几天里你学了很多。;;;;;;;;;;;;;x
+VIETtraits.4.desc;最后，在花了许多时间在研究各种各样的植物和元素以后，我如今知道了怎样制成各种用途的药剂 - 罐装名誉，酿造光荣，甚至延缓死亡！;;;;;;;;;;;;;x
+VIETtraits.4.a;这些知识将很好地为我所用。;;;;;;;;;;;;;x
+VIETtraits.5.tooltip;你的学识增长了。;;;;;;;;;;;;;x
+VIETtraits.5.desc;我学习了很多有关于我们传说和遗产的知识，我觉得我似乎更好地理解了我们为什么必须做那些事。人们来向我寻求建议，询问关于我们人生之路的问题。;;;;;;;;;;;;;x
+VIETtraits.5.a;我因那些[Root.Culture.GetName]传说的知识而广受尊敬。;;;;;;;;;;;;;x
+VIETtraits.6.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.6.a;长腿;;;;;;;;;;;;;x
+VIETtraits.7.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.7.a;长腿;;;;;;;;;;;;;x
+VIETtraits.8.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.8.a;长腿;;;;;;;;;;;;;x
+VIETtraits.9.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.9.a;长腿;;;;;;;;;;;;;x
+VIETtraits.10.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.10.a;长腿;;;;;;;;;;;;;x
+VIETtraits.11.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.11.a;长腿;;;;;;;;;;;;;x
+VIETtraits.12.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.12.a;长腿;;;;;;;;;;;;;x
+VIETtraits.13.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.13.a;长腿;;;;;;;;;;;;;x
+VIETtraits.14.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.14.a;长腿;;;;;;;;;;;;;x
+VIETtraits.15.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.15.a;长腿;;;;;;;;;;;;;x
+VIETtraits.16.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.16.a;长腿;;;;;;;;;;;;;x
+VIETtraits.17.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.17.a;长腿;;;;;;;;;;;;;x
+VIETtraits.18.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.18.a;长腿;;;;;;;;;;;;;x
+VIETtraits.19.desc;长腿;;;;;;;;;;;;;x
+VIETtraits.19.a;长腿;;;;;;;;;;;;;x

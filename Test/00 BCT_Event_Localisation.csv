@@ -1,0 +1,58 @@
+EVTDESCbeauty_inheritance.0;这个孩子与它的家族相像 - 但是微妙的差异将决定其他人如何对待[GetHerHis]出现。;;;;;;;;;;;;;x
+EVTOPTAbeauty_inheritance.0;只能抱最好的希望。;;;;;;;;;;;;;x
+EVTDESCstrength_inheritance.0;"当这个孩子开始喂养和成长，你就会逐渐看到[GetHerHis]未来的体力和耐力的种种迹象。";;;;;;;;;;;;;x
+EVTOPTAstrength_inheritance.0;愿[GetSheHe]变得和过去的英雄们一样健康活泼！;;;;;;;;;;;;;x
+EVTDESCintelligence_inheritance.0;"当这个孩子与世界互动时，你会知道[GetSheHe]是否在心智上像[GetHerHis]父母。";;;;;;;;;;;;;x
+EVTOPTAintelligence_inheritance.0;祈祷[GetSheHe]即使在子宫里也能从[GetHerHis]家人那里学到东西。;;;;;;;;;;;;;x
+EVTDESCtallness_inheritance.0;Pretty sure you shouldn't see this;;;;;;;;;;;;;x
+EVTOPTAtallness_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTDESCagility_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTOPTAagility_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTDESCvocal_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTOPTAvocal_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTDESChandedness_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTOPTAhandedness_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.0;This youth has spent years learning about matters of war and feats of valor! [GetHerHis] highly active lifestyle has led [GetHerHim] to become stronger.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.0;That's wonderful!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.1;This youngster has never been one to spend much time playing or working outdoors, or training for a career in the army. As a result, [GetHerHis] childhood's vigor has atrophied in adolescence.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.1;That's terrible!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.2;This youth has demonstrated an exceptional gift for intellectual achievement. Perhaps [GetSheHe]'s smarter than you thought!;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.2;That's wonderful!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.3;This youngster has always shied away from book learning, and never applied [GetHerHis]selves to the world of thought. [GetHerHis] natural promise has dulled as an adolescent.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.3;That's terrible!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.4;This youth has gone through [GetHerHis] awkward phase, and matured into a person much easier on the eyes.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.4;That's wonderful!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.5;This youngster isn't quite as cute as [GetSheHe] was as a child, anymore, and it shows.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.5;That's terrible!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.6;This youth has grown into a much more coordinated adolescent - well, at least compared to some others.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.6;That's wonderful!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.7;This youngster seems even more awkward than most people [GetHerHis] age. You're not sure if [GetSheHe]'ll ever totally grow out of it.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.7;That's terrible!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.8;This youth has had a growth spurt! [GetHeShe] has shot up to heights you certainly didn't see coming!;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.8;That's wonderful!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.9;This youngster hasn't grown as much as you've expected, during adolesence. Perhaps [GetSheHe] won't get as tall as you thought, as an adult.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.9;That's terrible!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.10;This young adult has dedicated even more time to swordplay since [GetHerHis] teenage years. [GetHerHis] interest and persistence has paid off, and [GetSheHe] now demonstrates much more skill with a blade.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.10;That's great!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.100;This youth has spent years learning about matters of war and feats of valor! [GetHerHis] highly active lifestyle has led [GetHerHim] to become stronger.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.100;That's wonderful!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.101;This youngster has never been one to spend much time playing or working outdoors, or training for a career in the army. As a result, [GetHerHis] childhood's vigor has atrophied in adolescence.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.101;That's terrible!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.102;This youth has demonstrated an exceptional gift for intellectual achievement. Perhaps [GetSheHe]'s smarter than you thought!;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.102;That's wonderful!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.103;This youngster has always shied away from book learning, and never applied [GetHerHis]selves to the world of thought. [GetHerHis] natural promise has dulled as an adolescent.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.103;That's terrible!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.104;This youth has gone through [GetHerHis] awkward phase, and matured into a person much easier on the eyes.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.104;That's wonderful!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.105;This youngster isn't quite as cute as [GetSheHe] was as a child, anymore, and it shows.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.105;That's terrible!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.106;This youth has grown into a much more coordinated adolescent - well, at least compared to some others.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.106;That's wonderful!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.107;This youngster seems even more awkward than most people [GetHerHis] age. You're not sure if [GetSheHe]'ll ever totally grow out of it.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.107;That's terrible!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.108;This youth has had a growth spurt! [GetHeShe] has shot up to heights you certainly didn't see coming!;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.108;That's wonderful!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.109;This youngster hasn't grown as much as you've expected, during adolesence. Perhaps [GetSheHe] won't get as tall as you thought, as an adult.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.109;That's terrible!;;;;;;;;;;;;;x
+EVTDESCBCT_epigenetics.110;This young adult has dedicated even more time to swordplay since [GetHerHis] teenage years. [GetHerHis] interest and persistence has paid off, and [GetSheHe] now demonstrates much more skill with a blade.;;;;;;;;;;;;;x
+EVTOPTABCT_epigenetics.110;That's great!;;;;;;;;;;;;;x

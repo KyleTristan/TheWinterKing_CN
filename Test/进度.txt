@@ -1,0 +1,87 @@
+需要更新
+00 ACR_hellenic_events【64-76】
+00 ACR_titan_events【128-135】
+00 BCT_Event_Localisation【15-58】
+00 Decisions【45-94,122-128,137-148,183,187-209】
+00 Events - 410【69-80】
+00 Events - Ambrosius【19-65】
+00 Events - Court【16-239】
+00 Events - Culture【8-33】
+00 Events - Foederati【23-25】
+00 Events - High Kingdoms【73-76】
+00 Events - Roman Empire【重做】
+00 Events - Titles Removal【重做】
+00 Events - Titular Titles【重做】
+00 Events - Vikings【21-23，34-120】
+00 Events - Vortigern【11-46】
+00 Modifiers【31-33,194-215】
+00 Nicknames【缺】
+00 Province Names【重做，搁置】
+00 Titles - EKD【重做】
+00 Titles - Generic【重做】
+00 Various【12-31，123-127,147-150,177-178,184,190-191,193-198，393-411】
+
+未开工
+00 ACR_celtic_events（偷花）
+00 ACR_cybrxkhan_misc
+00 ACR_promethean_events
+00 Events - Pagan Flavour
+00 Events - Religion
+00 Events - Saxon Revolt
+00 Events - Storyline
+00 Events - Various
+00 Titles - Settlements
+
+未校验
+00 Events - Independence
+00 Events - Long Knives
+00 Events - Muslim
+
+已完工
+00 ACR_celtic
+00 ACR_epic_blood
+00 ACR_hellenic
+00 ACR_other
+00 ACR_promethean
+00 ACR_titan
+00 Armies
+00 BCT_Trait_Localisation
+00 BCT_VIET_Traits
+00 BCT_xVIET_Traits_Localisation
+00 Bookmarks
+00 Buildings
+00 Cultures
+00 Duel Engine
+00 Dynasties
+00 Events - Ambitions
+00 Events - Armorican Migration
+00 Events - Coel Hen
+00 Events - Columba
+00 Events - Dynasties
+00 Events - Family Relations
+00 Events - Hunting
+00 Events - Pillaging
+00 Events - Old Gods
+00 Events - Realm
+00 Events - Rebels
+00 Events - Seasons
+00 Events - Skills
+00 Events - Traits
+00 Game Rules
+00 Governments
+00 Headhunter Chain
+00 Jobs
+00 Loading Quotes
+00 Map Modes
+00 Mercenaries
+00 Objectives
+00 Plots
+00 Ransom
+00 Regions
+00 Religion
+00 Republics
+00 Retinues
+00 Traits
+00 Warrior Skills
+00 WikipediaLinks
+00 WikipediaLocalisation
